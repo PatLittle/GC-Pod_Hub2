@@ -25,3 +25,6 @@ sources:
 
 # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
 siteTitle: "GC-Pod-Hub"
+
+# `cacheMaxDays` Max number of days to keep the feed content in cache. A very large value can increase the initial load time of the site. (optional)
+cacheMaxDays: 1000
