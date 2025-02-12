@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-12T07:01:01.756Z</id>
-    <title>osmos::feed</title>
-    <updated>2025-02-12T07:01:01.756Z</updated>
+    <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
+    <title>GC-Pod-Hub</title>
+    <updated>2025-02-12T07:12:28.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
+    <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[Porter Talk #4: The Long Fight for Porters' Rights]]></title>
         <id>9bff9f9c-94ac-41bf-8be7-271eaa16ed0b</id>
