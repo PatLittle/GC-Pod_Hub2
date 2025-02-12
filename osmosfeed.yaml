@@ -5,10 +5,6 @@
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
   - href: https://feeds.transistor.fm/statcan-eh-sayers
   - href: https://feeds.transistor.fm/the-first-sixteen
   - href: https://www.canada.ca/content/dam/cra-arc/migration/cra-arc/esrvc-srvce/rss/pyrll-eng.xml
