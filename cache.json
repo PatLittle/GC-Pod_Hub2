@@ -22,6 +22,276 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
+        },
+        {
+          "id": "60467fc2-787b-4bbd-8b5e-fc2386a9a485",
+          "author": "Statistics Canada",
+          "description": "Over two thirds (70%) of Canadians experienced a cyber security incident in 2022. The strategies used by bad actors are getting more and more complex. Many of us are inundated with what feels like never-ending phishing emails, scam text messages and fraudulent phone calls. It’s rare to talk to someone who hasn’t experienced some form of a cyber attack. \nThe situation is no different for Canadian businesses. Identity theft, scams, fraud, and ransomware are only some of the ways cyber attackers are targeting businesses today. One cyber security breach can cost a business thousands of dollars and valuable time resources to neutralize. We wanted to know: Is cyber crime on the rise in Canada? What is the relatively new phenomenon of cyber risk insurance? And in what way are consumers affected when a business experiences a security breach? \nThe Canadian Survey of Cyber Security and Cyber Crime has published new data and, in this episode, we sat down with Howard Bilodeau, an economist at Statistics Canada to answer our questions about how cyber security is changing for businesses and what it means for the rest of us.",
+          "link": "https://share.transistor.fm/s/fbacf553",
+          "publishedOn": "2024-11-28T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Can Your Business Outsmart a Hacker?",
+          "itunes": {
+            "duration": "807"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/fbacf553/05be7b1a.mp3",
+            "length": "32272800",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "2971075b-a807-4ed4-83ea-d3fb9e1f2c02",
+          "author": "Statistics Canada",
+          "description": "AI is here and it’s here to stay. Apps like ChatGPT are now allowing us to perform complex tasks with the click of a button.  \n  \nAs we begin to use these new versions of AI, our jobs are destined to change. So, what will an average day of work look like a decade from now? Which jobs will AI impact the most? And is AI coming to replace our jobs altogether?   \n  \nIn this episode, we sat down with AI expert Tahsin Mehdi, an economist in the social analysis and modeling division of Statistics Canada, to answer our questions about how AI will transform our work lives in Canada.",
+          "link": "https://share.transistor.fm/s/8b36bff9",
+          "publishedOn": "2024-10-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Is AI Coming For Your Job?",
+          "itunes": {
+            "duration": "1632"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/8b36bff9/074edef7.mp3",
+            "length": "65272758",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "8da518c5-bc3d-42b3-85e5-96a4db1a0ee6",
+          "author": "Statistics Canada",
+          "description": "Canada’s workforce is among the most educated in the world. But when it comes to worker productivity, we’ve seen a real slump over the past few years. The quarterly data published by StatCan in June 2024 confirms Canadian workers are continuing to underperform compared to our neighbours to the south. This comes as no surprise to this episode’s guest, Guy Gellatly, Chief Economic Advisor at StatCan. The latest quarterly numbers are a continuation of an on-going decline in Canada’s productivity that economists have been tracking for years.  \n \nBut what factors influence worker productivity? And why does it matter if Canadians are less productive? As a matter of fact, what even is productivity? In this episode, we asked Guy to help us understand how we got to this point and why it matters for Canadians.",
+          "link": "https://share.transistor.fm/s/7b2071ff",
+          "publishedOn": "2024-07-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Why Economists Are Sounding the Alarm on Productivity",
+          "itunes": {
+            "duration": "523"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/7b2071ff/7f86ea5b.mp3",
+            "length": "20912687",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "feb8cba4-2f09-4c5d-bd27-ca681f454662",
+          "author": "Statistics Canada",
+          "description": "We can try our best, but its not always easy knowing what's best for the environment. The world is complicated, and it isn't as simple as reduce, reuse, recycle—though that's a great place to start!\nIn the immortal words of Kermit the Frog, \"It's not easy bein' green.\"\nWe have two stories exploring that theme. The first is one we made in-house asking just how green our digital world really is, and the second comes from the Simply Science podcast exploring the world of urban forests.",
+          "link": "https://share.transistor.fm/s/54f7dce8",
+          "publishedOn": "2024-06-06T09:00:00.000Z",
+          "wordCount": null,
+          "title": "It's Not Easy Bein' Green",
+          "itunes": {
+            "duration": "2943"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/54f7dce8/a10b6988.mp3",
+            "length": "117715952",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "8a226c65-58a1-4f64-947f-48a7196f57e8",
+          "author": "Statistics Canada",
+          "description": "Are you feeling like it's a little bit harder to bring home the bacon... from the grocery store? The latest data indicate that food prices have mostly stabilized... but why does it feel like the cost of feeding your family is still going up?\nToday we're talking food inflation with StatCan's resident smart cookie Taylor Mitchell.",
+          "link": "https://share.transistor.fm/s/97b2d26e",
+          "publishedOn": "2024-05-08T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Why Food Inflation Is Such a Hard Nut to Crack",
+          "itunes": {
+            "duration": "629"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/97b2d26e/2f703e92.mp3",
+            "length": "25135924",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "e393f7c8-ebde-499c-81de-9db6f93698a5",
+          "author": "Statistics Canada",
+          "description": "StatCan released new analysis into the online culture our kids are growing up in, and it’s far from the best of all possible worlds: misinformation, bullying, violence… and worse.\nAnalyst Rachel Tsitomeneas joins us to dive into the findings.",
+          "link": "https://share.transistor.fm/s/8710dcf9",
+          "publishedOn": "2024-04-09T04:02:00.000Z",
+          "wordCount": null,
+          "title": "It's 8 pm...Do You Know What Your Kids Are Googling?",
+          "itunes": {
+            "duration": "601"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/8710dcf9/cb577436.mp3",
+            "length": "7219416",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "6224fbe2-425e-4996-80e4-73ff569174c4",
+          "author": "Statistics Canada",
+          "description": "More than 70 distinct Indigenous languages are spoken by First Nations people, Métis and Inuit in Canada, but these languages are under threat. \nIn this episode, we speak with Randy Morin and Belinda kakiyosēw Daniels, who share their knowledge of the Cree language with learners at the Nêhiyawak Language Experience, about the wisdom encoded in Indigenous languages, as well as the opportunities for these languages and the barriers they face.",
+          "link": "https://share.transistor.fm/s/bd75c457",
+          "publishedOn": "2024-03-19T10:00:00.000Z",
+          "wordCount": null,
+          "title": "How Do You Say \"Language Revitalization\" in Cree?",
+          "itunes": {
+            "duration": "1780"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/bd75c457/f67c653e.mp3",
+            "length": "21386485",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "367a8789-e9b1-4f01-9845-413e050a251d",
+          "author": "Statistics Canada",
+          "description": "'Twas the night before Christmas, when all through the studio\nNot a creature was stirring, not even a mouse;\nThe stockings were hung by the audio mixer with care,\nIn hopes that a special guest soon would be there.",
+          "link": "https://share.transistor.fm/s/a5c176b3",
+          "publishedOn": "2023-12-21T11:00:00.000Z",
+          "wordCount": null,
+          "title": "When Out in the Pod There Arose Such a Clatter, We Turned Our Mics On to See What Was the Matter",
+          "itunes": {
+            "duration": "249"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/a5c176b3/11874a54.mp3",
+            "length": "9957923",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "1bae7bc4-99d7-440c-85d1-682edc844d52",
+          "author": "Statistics Canada",
+          "description": "In the age of social media, AI, and deepfakes, discerning fact from fiction is a crucial skill. Nowadays, we’re not just getting our information from the six o’clock news. Friends, family, researchers, influencers, entertainers, news anchors, advertisers… Who can you trust?  \nTimothy Caulfield, misinformation/disinformation expert, author, University of Alberta professor, and member of the Order of Canada, and Eric Rancourt, Assistant Chief Statistician at StatCan, join us to explore the challenges posed by our information environment and what can be done to counter misinformation.",
+          "link": "https://share.transistor.fm/s/ac1ad0ee",
+          "publishedOn": "2023-12-13T11:00:00.000Z",
+          "wordCount": null,
+          "title": "A Little Less Misinformation, a Little More True Facts, Please",
+          "itunes": {
+            "duration": "2295"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/ac1ad0ee/5fb57ae2.mp3",
+            "length": "27566603",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "ac2bf411-78f2-4ba2-83ce-6542a886ae1b",
+          "author": "Statistics Canada",
+          "description": "Ladies, Gentlemen, and Gentlethem! \nWhile every census is special, the 2021 Census was historic. It was the first to include a question about gender, making Canada the first country to collect and publish data on gender diversity from a national census. \nIn this episode, we explore gender with drag king Cyril Cinder and we talk Census 2021 with StatCan’s Anne Milan. \nJoin us for a new kind of gender reveal.\n\nThe Daily - Canada is the first country to provide census data on transgender and non-binary people \nFilling the gaps: Information on gender in the 2021 Census \n2021 Census: Sex at birth and gender - the whole picture",
+          "link": "https://share.transistor.fm/s/cd067b8f",
+          "publishedOn": "2023-08-21T10:00:00.000Z",
+          "wordCount": null,
+          "title": "I Got 99 Problems But Being Misgendered on the Census Ain't One",
+          "itunes": {
+            "duration": "2010"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/cd067b8f/ec4bfbfc.mp3",
+            "length": "24152180",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "750253c9-da15-4d59-b0e9-764b5a8e7a94",
+          "author": "Statistics Canada",
+          "description": "Canada reached an important milestone June 16, 2023. For the first time, there were 40 million people living in Canada. That means that someone out there is the 40 millionth Canadian. But who is it? \n Laurent Martel, director of the Centre for Demography at Statistics Canada, joins us to explore what demographic data can tell us about this person, as well as the implications of Canada’s changing demographics and its rapid population growth.",
+          "link": "https://share.transistor.fm/s/cb29d815",
+          "publishedOn": "2023-06-19T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Will the 40 Millionth Canadian Please Stand Up?",
+          "itunes": {
+            "duration": "1093"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/cb29d815/a4af33da.mp3",
+            "length": "13149764",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "a593b0a3-6a24-49c9-809c-8a3e0f0d5f58",
+          "author": "Statistics Canada",
+          "description": "StatCan’s Consumer Price Index tells us a lot about the economy… if you know what to look for.  \nGuy Gellatly, Chief Economic Advisor at StatCan, joins us at the mic to break down the CPI and answer our questions about the economy. What’s the ideal inflation rate? Is no inflation the best kind of inflation? And what is a deflationary spiral?",
+          "link": "https://share.transistor.fm/s/9dbaf1c4",
+          "publishedOn": "2023-04-18T15:15:00.000Z",
+          "wordCount": null,
+          "title": "In a Movie About the Economy, Is Inflation the Bad Guy?",
+          "itunes": {
+            "duration": "793"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/9dbaf1c4/d93b78e9.mp3",
+            "length": "9549867",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "5f2deeb9-f66b-4207-ad18-5cd3d2927619",
+          "author": "Statistics Canada",
+          "description": "Canada is facing both a climate crisis and a housing crisis, and they are interconnected. \nChoices we make about our homes impact the environment: their location and how much we need to use a car to get around, the heat source that they use, the materials used in their construction. \nAt the same time, the climate impacts our homes: when severe weather strikes and causes damage to our homes, we have no choice but to rebuild, and even if we escape unscathed, we still have to decide how much to change our lifestyles to adapt to a changing climate. \nAndrew DeFazio, Climate Change Advisor at Canada Mortgage and Housing Corporation (CMHC) joins us to explore how we can climate-proof our housing strategy and home-proof our climate strategy.",
+          "link": "https://share.transistor.fm/s/03fe14f0",
+          "publishedOn": "2022-11-22T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Green Houses, Not Gases",
+          "itunes": {
+            "duration": "1528"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/03fe14f0/9e48ad99.mp3",
+            "length": "18362965",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "49968a23-9f00-483c-927e-120f6842f8a8",
+          "author": "Statistics Canada",
+          "description": "It used to be that Statistics Canada didn’t measure poverty. Not exactly. Poverty is complex, and there wasn't a single definition that everyone agreed on. So while StatCan did measure low income and other income inequality indicators, it didn't measure poverty per se. That is, until 2018, when the government chose to use the Market Basket Measure, or MBM, as Canada's Official Poverty Line. That means that the government now uses the MBM to track its poverty reduction targets.  \n \nBut something strange happened during the pandemic: in 2020 the poverty rate fell. And it fell quite a bit. In fact, the poverty rate dropped in one year almost as much as it had in the four preceding years.\n \nBut why? What happened? Will the poverty rate continue to fall? And what happens if it hits zero? How would health outcomes change? Education outcomes? People's general happiness and well-being? \n \nHas there ever been a time and place in Canada where the poverty rate was zero? The closest may be the Mincome Experiment of the 1970s in Manitoba.   Many Canadians have never heard of this guaranteed income experiment, but it offers a glimpse at what eliminating poverty might look like. \n \nTo learn more, we spoke with Burton Gustajtis an economist from Statistics Canada, Evelyn Forget, a Professor of Economics and Community Health Sciences at the University of Manitoba and Kevin Milligan, a Professor of Economics in the Vancouver School of Economics at the University of British Columbia.",
+          "link": "https://share.transistor.fm/s/e54f3612",
+          "publishedOn": "2022-10-17T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Why Haven't We Ended Poverty Yet?",
+          "itunes": {
+            "duration": "2038"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/e54f3612/3db78e85.mp3",
+            "length": "24482671",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "4e87cd5d-8c66-444a-8b47-9319c72d145f",
+          "author": "Statistics Canada",
+          "description": "If this is the first time you’re hearing about Sylvia Ostry, buckle up. \nSylvia was appointed Canada’s first and only female Chief Statistician in 1972, but she didn’t get there by playing by the rules. She was ambitious but grew up in a world where many thought that it was shameful to be female and have a career. \n \nSylvia was a Jewish woman in economics, and even after she earned a Ph.D. from the University of Cambridge, she was denied a job with the United Nations because of her gender. Nevertheless, she had a storied career, becoming the Chairman of the Economic Council of Canada then the Chief Economist  at the OECD. But we're not focusing on her career highlights. We're going behind the scenes to look at how she challenged herself to succeed, becoming both a respected economist and mother, and how she handled setbacks, and discrimination, all while staying true to herself and demonstrating the integrity for which she's remembered today.\nWe’re celebrating the 50th anniversary of Sylvia Ostry’s appointment as Chief Statistician. In this episode of Eh Sayers, featuring interviews with her sons, Adam Ostry and Jonathan Ostry, we are pleased to introduce you to this remarkable woman and to share with you eight pieces of advice inspired by her life.",
+          "link": "https://share.transistor.fm/s/26b274b8",
+          "publishedOn": "2022-10-07T04:00:00.000Z",
+          "wordCount": null,
+          "title": "Sylvia Ostry: Lessons from a Legend",
+          "itunes": {
+            "duration": "1920"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/26b274b8/15424d5c.mp3",
+            "length": "23070993",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
         }
       ]
     },
@@ -44,6 +314,222 @@
           "enclosure": {
             "url": "https://media.transistor.fm/7f67f1c9/99d2a32e.mp3",
             "length": "27102233",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "0da13d28-3f6b-4792-9488-53041f71679b",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "How has plant breeding evolved over the past 20 years? Who are the players in Canada? What is the plant breeding continuum? And what is the proverbial sandbox in which Canadian plant breeders are working? Learn this and why it takes a special breed of innovator to become a plant-breeder.",
+          "link": "https://share.transistor.fm/s/c0465e78",
+          "publishedOn": "2024-12-11T12:32:57.000Z",
+          "wordCount": null,
+          "title": "Plant breeding: Long-game innovation in a fast-changing world",
+          "itunes": {
+            "duration": "1569"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/c0465e78/ea335723.mp3",
+            "length": "25131245",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "dd21b812-2416-472a-83b6-9eb7b1b8b68a",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "Can we make biodegradable plastics using food waste? Can we control disease in crops and eliminate food borne pathogens using just hydrogen peroxide, ozone and UV rays? Yes, we can! Meet the two grand prize winners of the Food Waste Reduction Challenge – in the novel technology stream -- who proved we can do this and more. \nLearn how Genecis Bioindustries and Clean Works are fighting food waste and food loss with cutting-edge science.",
+          "link": "https://share.transistor.fm/s/7f8e0c6e",
+          "publishedOn": "2024-06-14T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Science vs. food waste",
+          "itunes": {
+            "duration": "1609"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/7f8e0c6e/41a008b7.mp3",
+            "length": "38726055",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "de8ab330-1ddf-409d-b855-81eb1f61222b",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "Announcing the two winners of the Food Waste Reduction Challenge (Business Models Stream)\nTwo companies took away $1.5 M! Find out who they are. Learn what it took to become the winners of the challenge, and leaders in this new sub-sector. The funds will help the winning companies further expand their success in fighting food waste and reducing greenhouse gases.  And, we’ll give you a glimpse behind the scenes with Dr Jean-Charles Le Vallée, who will share insights into being a jury member of the challenge.",
+          "link": "https://share.transistor.fm/s/0a6bab0c",
+          "publishedOn": "2024-04-29T12:20:54.000Z",
+          "wordCount": null,
+          "title": "Challenge accepted!",
+          "itunes": {
+            "duration": "1972"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/0a6bab0c/8897684b.mp3",
+            "length": "47442124",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "2296d29d-d08d-4a10-be03-c187a46a8d36",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "Ag-robotics specialists Chuck Baresich believes you’ll have a robot in your field sooner than you think.  What will they do? How will they add value to your farm? Chuck paints a picture of that future. And what is the government doing to help the agricultural sector be ready for those robots? Marco Valicenti, Director General of Innovation Programs Directorate and Brett Maxwell, Director of Strategic Policy Branch explain how Agriculture and Agri-Food Canada’s programs are enabling that future.",
+          "link": "https://share.transistor.fm/s/a5bf9d8e",
+          "publishedOn": "2024-03-13T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Is that a robot in your field?",
+          "itunes": {
+            "duration": "1968"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/a5bf9d8e/3ef448b2.mp3",
+            "length": "47621838",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "837ed100-6407-49a9-a2b8-8a6b57de8e79",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "Hear from two innovators who are successfully tackling labor shortages in our sector: one at the national level with an all-encompassing, all-stakeholders-engaged strategy; and the other on a regional level with a smart program for hiring and settling new immigrants into a rural community.",
+          "link": "https://share.transistor.fm/s/3fa7c93f",
+          "publishedOn": "2024-02-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Hiring smart",
+          "itunes": {
+            "duration": "1722"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/3fa7c93f/85427ea6.mp3",
+            "length": "41491773",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "163107ec-f0e8-416e-b701-d7fa9d9e97f6",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "How is pesticide use evolving on farms? What are maximum residue limits? How does the government determine what is safe? Brian Rideout, a fruit and vegetable grower from Ontario, explains how pesticide use has changed on his farm in the last 20 years. And Fred Bissonnette, Executive Director of the Pest Management Regulatory Agency, explains the regulations behind pesticide use in Canada. Let's dig in!",
+          "link": "https://share.transistor.fm/s/18d0d36f",
+          "publishedOn": "2024-01-17T14:05:13.000Z",
+          "wordCount": null,
+          "title": "Straight talk about pesticides",
+          "itunes": {
+            "duration": "2270"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/18d0d36f/f21fe7f0.mp3",
+            "length": "54675776",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "3513bd14-368b-463c-a03c-df97430ed169",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "“Waste is not waste. It’s just misplaced resources”. That is according to Rajinikanth Rajagopal and the team of researchers at the Sherbrooke Research and Development Centre as they work to adapt anaerobic bio digestion to a Canadian climate and livestock sector.  We also speak to Mauricio Alanís, Director of Sustainability Strategy and Partnerships at Maple Leaf Foods. His company is interested in the technology and AAFC’s expertise as it could all play an important role in Maple Leaf Foods’ sustainability journey.",
+          "link": "https://share.transistor.fm/s/eb9844f8",
+          "publishedOn": "2022-12-15T17:21:32.000Z",
+          "wordCount": null,
+          "title": "Turning manure into gold",
+          "itunes": {
+            "duration": "1654"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/eb9844f8/4e92974a.mp3",
+            "length": "26504730",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "19c37a2e-ecb3-46dc-b759-6700d0492e42",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "To predict the future of water, we have to understand the present. That's exactly what AAFC's Dr. David Lapen and Dr. Steven Frey from Aquanty Inc., are endeavoring to do. Listen in as they discuss their work on a complex, country-wide hydrological modelling tool.  It is designed to help researchers, producers and decision makers anticipate water resources of tomorrow and make better, more informed decisions today. This is the Canada 1 Water project.",
+          "link": "https://share.transistor.fm/s/f5f619ce",
+          "publishedOn": "2022-11-23T08:00:00.000Z",
+          "wordCount": null,
+          "title": "Modelling the future of water",
+          "itunes": {
+            "duration": "1353"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/f5f619ce/1a674b23.mp3",
+            "length": "21690353",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "814c8431-c3b0-44be-9b66-9c97f0ddb649",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "40% of Quebec’s fruits and vegetables are grown in the Montérégie region due to its abundantly fertile organic soils. But these soils are under threat. We speak to Jacynthe Masse, an agroecology researcher, and Denys Van Winden, a vegetable producer from Sherrington, to learn about the challenges they’re facing and the experiments they’re running to save these soils.",
+          "link": "https://share.transistor.fm/s/1e1f16a5",
+          "publishedOn": "2022-08-24T11:42:54.000Z",
+          "wordCount": null,
+          "title": "Saving our organic soils",
+          "itunes": {
+            "duration": "1344"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/1e1f16a5/015667c4.mp3",
+            "length": "32340938",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "ce67d808-7ad5-40ca-b045-86b09b372234",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "When agriculture meets forestry, the result can have a surprising impact on the environment, wildlife habitats, crop production, and beyond. AAFC research scientist Dr. Raju Soolanayakanahally and Kevin Boon, General Manager of the BC Cattlemen’s Association, explore the roots of the long-standing practice of agroforestry, and the benefits it brings to the future of agriculture and climate change.",
+          "link": "https://share.transistor.fm/s/782b35a9",
+          "publishedOn": "2022-07-11T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Agroforestry: The new-old science",
+          "itunes": {
+            "duration": "1458"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/782b35a9/f70abdf0.mp3",
+            "length": "35063802",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "415f0ab2-69e7-42a1-a062-4bb6f41c4024",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "Agriculture and Agri-Food Canada and the Canadian Food Inspection Agency come together in this special two-part episode on honey fraud in Canada. Hear a scientist from each organization discuss how they identify fraudulent products – and listen to the CFIA’s Inspect and Protect episode here for the perspective of a policy leader and a beekeeper!",
+          "link": "https://share.transistor.fm/s/3aeabd91",
+          "publishedOn": "2022-06-22T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Shedding light on food fraud",
+          "itunes": {
+            "duration": "1014"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/3aeabd91/393d520a.mp3",
+            "length": "24394333",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "fe9d9457-d03b-4525-aaac-a587044ceca0",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "When veterinarian Dr. Greg Dimmers noticed an alarming pattern of infection in beef cattle, he contacted microbiologist Dr. Tim McAllister to get some answers. Hear the two speak about their respective paths in the study of antimicrobial resistance.",
+          "link": "https://share.transistor.fm/s/a0151808",
+          "publishedOn": "2022-05-25T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Putting a rope around antimicrobial resistance in cattle",
+          "itunes": {
+            "duration": "1316"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/a0151808/9cb2ba7a.mp3",
+            "length": "31664156",
             "type": "audio/mpeg"
           },
           "imageUrl": null
@@ -72,49 +558,1803 @@
       "title": "ReCollections",
       "feedUrl": "https://feeds.megaphone.fm/recollections",
       "siteUrl": "https://parks.canada.ca/recollections",
-      "articles": []
+      "articles": [
+        {
+          "id": "2d604408-bc61-11ed-a6d0-371b77f9b71d",
+          "author": null,
+          "description": "Join us for a journey of national historic significance.",
+          "link": "https://parks.canada.ca/recollections",
+          "publishedOn": "2023-04-17T21:11:00.000Z",
+          "wordCount": null,
+          "title": "Introducing ReCollections: A Parks Canada Podcast",
+          "itunes": {
+            "duration": "120"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/CAN5676838234.mp3?updated=1681683954",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "8bf54926-d8c9-11ed-91d3-ffd80f910e57",
+          "author": null,
+          "description": "Travel back to the Viking Age to uncover the remnants of a thousand-year-old Norse encampment. We’ll hear about their incredible journey from Greenland to northern Newfoundland from a diverse group of experts including historians, archaeologists, and interpreters at L’Anse aux Meadows National Historic Site.\n\nLearn more: \n\nL’Anse aux Meadows National Historic Site: https://parks.canada.ca/lhn-nhs/nl/meadows \n\nGoogle Arts and Culture Exhibition: https://g.co/arts/zsrgMj8ex1cQe5yK7\n\n\nPlan your visit: https://parks.canada.ca/lhn-nhs/nl/meadows/visit \n\nUNESCO page: https://whc.unesco.org/en/list/4/\n\n\nNational Film Board documentaries:\n\nThe Man Who Discovered America: https://www.nfb.ca/film/man_discovered_america \n\nThe Vinland Mystery: https://www.nfb.ca/film/vinland_mystery/\n\n\n\nDo you have a suggestion for a new National Historic Person, Site or Event? We’d love to hear it! Visit https://parks.canada.ca/commemorate for details on how to submit a nomination.\nA transcript and bibliography for this episode is available on our website: https://parks.canada.ca/recollections",
+          "link": "https://parks.canada.ca/recollections",
+          "publishedOn": "2023-04-17T21:08:00.000Z",
+          "wordCount": null,
+          "title": "L’Anse aux Meadows: The Saga of Vinland",
+          "itunes": {
+            "duration": "1760"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/CAN3798034907.mp3?updated=1681956945",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "57b1d404-d8c9-11ed-b188-ff1aa21b7b9a",
+          "author": null,
+          "description": "Welcome to Ruby's Place in Dawson City, Yukon, “the Paris of the North.” Through the remarkable lives of Madam Ruby Scott and her employees, we’ll hear about Dawson’s Gold Rush heyday and the boom/bust cycle of both the mining and sex work industries. At the heart of the story is Ruby's Place, an elegant false-front building conserved as part of the Klondike National Historic Sites… despite the threats from climate change.\n\nLearn More: \n\nKlondike National Historic Sites: https://parks.canada.ca/lhn-nhs/yt/klondike\n\n\nPlan your visit: https://parks.canada.ca/lhn-nhs/yt/klondike/visit\n\n\nGoogle Arts and Culture Exhibition: https://artsandculture.google.com/story/PwWxfnGFmjSquw\n\n\nUNESCO World Heritage Site (Tentative List): https://whc.unesco.org/en/tentativelists/6255/\n\n\nTr'ochëk National Historic Site: https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1970&i=65024\n\n\n\nThe Other Little House: The Brothel as a Colonial Institution on the Canadian Prairies, 1880–93 by L. K. Bertram: https://academic.oup.com/jsh/article/56/1/58/6554394?login=false\n\n\n\nDo you have a suggestion for a new National Historic Person, Site or Event? We’d love to hear it! Visit https://parks.canada.ca/commemorate for details on how to submit a nomination.\nA transcript and bibliography for this episode is available on our website: https://parks.canada.ca/recollections",
+          "link": "https://parks.canada.ca/recollections",
+          "publishedOn": "2023-04-17T21:06:00.000Z",
+          "wordCount": null,
+          "title": "Dawson City: A Ruby in the Rough",
+          "itunes": {
+            "duration": "2097"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/CAN8710856847.mp3?updated=1685464150",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "aed14ba2-d8c9-11ed-8369-e70ff95c3d55",
+          "author": null,
+          "description": "In this episode, we’ll travel to the Pacific Northwest islands of Haida Gwaii, home to the Haida Nation for more than 13,000 years. Our focus: a collaborative archaeology project at an evacuated village on the remote island of SGang Gwaay, a UNESCO World Heritage Site, that was devastated by hurricane-force winds in a 2018 storm. Many voices tell the rich history of Gwaii Haanas National Park Reserve, National Marine Conservation Area Reserve and Haida Heritage Site. \nSpecial thanks to Consulting Producer Camille Collinson.\n\nLearn More:\n\nGwaii Haanas National Park Reserve, National Marine Conservation Area Reserve and Haida Heritage Site: https://parks.canada.ca/pn-np/bc/gwaiihaanas\n\n\nLiving Landscapes of SG̱ang Gwaay project: https://parks.canada.ca/pn-np/bc/gwaiihaanas/nature/conservation/restauration-restoration/vivants-living\n\n\nFollow the Gwaii Haanas - Islands of Beauty Facebook page for the latest on the Living Landscapes project: https://www.facebook.com/GwaiiHaanas/\n\n\nPlan your visit: https://parks.canada.ca/pn-np/bc/gwaiihaanas/visit\n\n\nUNESCO World Heritage Site: https://whc.unesco.org/en/list/157/\n\n\nTake the Haida Gwaii Pledge: https://haidagwaiipledge.ca/\n\n\nThe Hope For Wellness Helpline is available at 1-855-242-3310 or https://www.hopeforwellness.ca/  \n\n\nDo you have a suggestion for a new National Historic Person, Site or Event? We’d love to hear it! Visit https://parks.canada.ca/commemorate for details on how to submit a nomination.\nA transcript and bibliography for this episode is available on our website: https://parks.canada.ca/recollections",
+          "link": "https://parks.canada.ca/recollections",
+          "publishedOn": "2023-04-17T21:04:00.000Z",
+          "wordCount": null,
+          "title": "Gwaii Haanas: The Living Landscapes of SG̱ang Gwaay",
+          "itunes": {
+            "duration": "2701"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/CAN4819924056.mp3?updated=1682025749",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "7d5ef3bc-d8c9-11ed-8710-43f547fcd7db",
+          "author": null,
+          "description": "For over a century, an unassuming island in the St. Lawrence River played a major role in the immigration journey from Europe to North America. A scene of hope and tragedy, punctuated by a series of deadly crises, Grosse Île was home to a quarantine station that served as the gateway for millions of newcomers. Witness to pandemics, health emergencies and the development of modern medical science, Grosse Île and the Irish Memorial National Historic Site is a powerful reminder of the immigrant experience. And it all kicked off with a volcanic eruption on the other side of the planet.\n\nLearn More:\n\nGrosse-Ile and the Irish Memorial National Historic Site: https://parks.canada.ca/lhn-nhs/qc/grosseile\n\n\nPlan Your Visit: https://parks.canada.ca/lhn-nhs/qc/grosseile/visit\n\n\nDr. Frédérick Montizambert, National Historic Person: https://www.pc.gc.ca/apps/DFHD/page_nhs_eng.aspx?id=1843\n\n\n\nFor the Temporary Accommodation of Settlers by David Monteyne: https://www.mqup.ca/for-the-temporary-accommodation-of-settlers-products-9780228006381.php\n\n\nGoogle Arts and Culture Exhibition: https://artsandculture.google.com/story/WgXRiCleYInljA\n\n\n\nDo you have a suggestion for a new National Historic Person, Site or Event? We’d love to hear it! Visit https://parks.canada.ca/commemorate for details on how to submit a nomination.\nA transcript and bibliography for this episode is available on our website: https://parks.canada.ca/recollections",
+          "link": "https://parks.canada.ca/recollections",
+          "publishedOn": "2023-04-17T21:02:00.000Z",
+          "wordCount": null,
+          "title": "Grosse Île: The Quarantine Island",
+          "itunes": {
+            "duration": "2336"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/CAN8257036304.mp3?updated=1689279459",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "9db57c30-d8c9-11ed-b49f-17653b65c0b1",
+          "author": null,
+          "description": "In this episode, we find traces of the lives of enslaved people at the 18th-century French Fortress of Louisbourg in Cape Breton, Nova Scotia. By piecing together the unique story of Guinea-born Marie Marguerite Rose, we’ll learn about those who lived and died in enslavement…as well as the rise and fall (and rise again) of the Fortress of Louisbourg National Historic Site.\nSpecial thanks to our Consulting Producers: Dr. Karolyn Smardz-Frost and Dr. Afua Cooper of A Black People’s History of Canada Project: https://www.blackpeopleshistory.ca/\nLearn More:\n\nFortress of Louisbourg National Historic Site: https://parks.canada.ca/lhn-nhs/ns/louisbourg\n\n\nMarie Marguerite Rose, National Historic Person: https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=12005\n\n\nPlan your visit: https://parks.canada.ca/lhn-nhs/ns/louisbourg/visit\n\n\nGoogle Arts and Culture Exhibit: https://artsandculture.google.com/story/vQVxpt_04-996g\n\n\n\nDo you have a suggestion for a new National Historic Person, Site or Event? We’d love to hear it! Visit https://parks.canada.ca/commemorate for details on how to submit a nomination.\nA transcript and bibliography for this episode is available on our website: https://parks.canada.ca/recollections",
+          "link": "https://parks.canada.ca/recollections",
+          "publishedOn": "2023-04-17T21:01:00.000Z",
+          "wordCount": null,
+          "title": "Louisbourg: Enslavement and Freedom at the French Fortress",
+          "itunes": {
+            "duration": "1806"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/CAN2832715255.mp3?updated=1689279532",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "513f89e2-5f09-11ee-a4d6-cf2b15d7183f",
+          "author": null,
+          "description": "A special episode from our friends at the Discover Library and Archives Canada podcast - Bill Mason: Wilderness Artist.\nIf you enjoyed our ReCollections episode Grosse-Île: The Quarantine Island, check out their The Shamrock and the Fleur-de-Lys episode to learn more about Irish immigration to Québec.\nBill Mason's films: Pukaskwa National Park and Paddle to the Sea.\nPlan a visit to Pukaskwa National Park in Ontario.\nDiscover Library and Archives Canada podcast is available wherever you get your podcasts. Subscribe for lots more stories about the treasures in their collection.",
+          "link": "https://library-archives.canada.ca/eng/collection/engage-learn/podcast/Pages/podcasts.aspx",
+          "publishedOn": "2023-04-17T20:59:00.000Z",
+          "wordCount": null,
+          "title": "Bill Mason: Wilderness Artist - from Discover Library and Archives Canada podcast",
+          "itunes": {
+            "duration": "3102"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/CAN2035820304.mp3?updated=1698866722",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Employment and Social Development Canada",
       "feedUrl": "https://feeds.simplecast.com/9Uo30mEr",
       "siteUrl": "https://employment-and-social-development-canada.simplecast.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "4af4593c-4d63-40f6-9951-5b73d90b3905",
+          "author": "jamie.nordstrand@hrsdc-rhdcc.gc.ca (Charles Drouin, Cathy Khoury)",
+          "description": "Learn the importance of filing your taxes on time, what tax credits are available for older Canadians and caregivers for the 2023 filing season, tips to help with filing, important dates and the CRA’s toll-free number, 1-800-959-8281.\nRecommended links:  \n\nWhat you need to know for the 2023 tax-filing season - https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2024/what-you-need-to-know-2024-tax-filing-season.html\nGet ready to do your taxes - https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/get-ready-taxes.html\nSeniors: Simplify tax-filing so you can get back to doing what you enjoy! - https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2024/seniors-simplify-tax-filing.html\nFree tax clinics - https://www.canada.ca/en/revenue-agency/services/tax/individuals/community-volunteer-income-tax-program.html\nSeniors in Canada Facebook page - https://www.facebook.com/SeniorsinCanada",
+          "link": "https://employment-and-social-development-canada.simplecast.com/episodes/tax-time-what-older-canadians-and-caregivers-need-to-know-u7OhrWN9",
+          "publishedOn": "2024-03-25T13:19:43.000Z",
+          "wordCount": null,
+          "title": "Tax time: What older Canadians and caregivers need to know",
+          "itunes": {
+            "duration": "00:17:00"
+          },
+          "enclosure": {
+            "length": "16348667",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/10db0d51-dfba-42b0-8b33-3ad55876639c/episodes/18f63d87-fb0c-4903-af7e-e088670d5494/audio/01714c8e-0da8-4388-b47e-52407fcdd27b/default_tc.mp3?aid=rss_feed&feed=9Uo30mEr"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "f0739e97-c4a4-4727-b968-1bfe2ef17e0e",
+          "author": "jamie.nordstrand@hrsdc-rhdcc.gc.ca (Charles Drouin, Cathy Khoury)",
+          "description": "Découvrez l’importance de produire votre déclaration de revenus dans les temps et quels crédits d’impôt sont offerts aux aînés canadiens et aux proches aidants pour la période des impôts 2023. Obtenez également des conseils pour vous aider à produire votre déclaration et apprenez quelles sont les dates importantes. Voici le numéro sans frais de l’ARC : 1-800-959-7383.\n Recommended links:  \nCe que vous devez savoir pour la période des impôts de 2023 – https://www.canada.ca/fr/agence-revenu/nouvelles/salle-presse/conseils-fiscaux/conseils-fiscaux-2024/vous-devez-savoir-pour-periode-impots-2024.html\nPréparez-vous à faire vos impôts – https://www.canada.ca/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers/preparez-vous-impots.html\nAînés : Simplifiez la production de votre déclaration de revenus pour rapidement retourner à vos passe-temps! – https://www.canada.ca/fr/agence-revenu/nouvelles/salle-presse/conseils-fiscaux/conseils-fiscaux-2024/aines-simplifiez-production-votre-declaration-revenus.html\nComptoirs d’impôts gratuits – https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/programme-communautaire-benevoles-matiere-impot.html\nPage Facebook des Aînés au Canada - https://www.facebook.com/AinesauCanada/",
+          "link": "https://employment-and-social-development-canada.simplecast.com/episodes/periode-des-impots-ce-que-les-aines-canadiens-et-les-proches-aidants-doivent-savoir-SbfA8SpQ",
+          "publishedOn": "2024-03-25T13:19:26.000Z",
+          "wordCount": null,
+          "title": "Période des impôts : Ce que les aînés canadiens et les proches aidants doivent savoir",
+          "itunes": {
+            "duration": "00:18:02"
+          },
+          "enclosure": {
+            "length": "17336026",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/10db0d51-dfba-42b0-8b33-3ad55876639c/episodes/0a89e7b2-4fbf-4612-b70b-ab532098dcd6/audio/4c4fd677-5fb8-498e-be3b-f20c6524efae/default_tc.mp3?aid=rss_feed&feed=9Uo30mEr"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "a1c7ab15-8a84-4112-9056-163da7d487d7",
+          "author": "jamie.nordstrand@hrsdc-rhdcc.gc.ca (Cathy Khoury, Jeff Horncastle)",
+          "description": "Cathy Khoury et Jeffrey Horncastle parlent du Centre antifraude du Canada, des principales fraudes envers les aînés canadiens, des mesures à prendre si vous êtes victime de fraude et de l’importance de signaler une fraude au Centre antifraude du Canada, soit en ligne ou en appelant le numéro sans frais 1-888-495-8501.\n\nCentre antifraude du Canada : \n\nFrancais - https://antifraudcentre-centreantifraude.ca/index-fra.htm\nAnglais - https://antifraudcentre-centreantifraude.ca/index-eng.htm\n\nMois de la prévention de la fraude :\n\nFrançais - https://ised-isde.canada.ca/site/bureau-concurrence-canada/fr/fraude-arnaques/mois-prevention-fraude\nAnglais - https://ised-isde.canada.ca/site/competition-bureau-canada/en/fraud-and-scams/fraud-prevention-month\n\nGuide de sécurité à l’intention des aînés, GRC :\n\nFrançais - https://www.rcmp-grc.gc.ca/fr/guide-securite-a-lintention-des-aines\nAnglais - https://www.rcmp-grc.gc.ca/en/seniors-guidebook-safety-and-security",
+          "link": "https://employment-and-social-development-canada.simplecast.com/episodes/combattre-la-fraude-en-la-reconnaissant-ce-que-les-aines-canadiens-doivent-savoir-45XxdLpc",
+          "publishedOn": "2024-03-20T14:50:03.000Z",
+          "wordCount": null,
+          "title": "Combattre la fraude en la reconnaissant : Ce que les aînés canadiens doivent savoir",
+          "itunes": {
+            "duration": "00:07:40"
+          },
+          "enclosure": {
+            "length": "7398203",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/10db0d51-dfba-42b0-8b33-3ad55876639c/episodes/68d929e0-f1da-4c9c-b21c-8dc3b517f4ee/audio/08552b08-191a-4913-9b01-141f73c441a5/default_tc.mp3?aid=rss_feed&feed=9Uo30mEr"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "c9281058-24b6-4c7a-a1de-6d8e01e6df5a",
+          "author": "jamie.nordstrand@hrsdc-rhdcc.gc.ca (Cathy Khoury, Jeff Horncastle)",
+          "description": "Cathy Khoury and Jeffrey Horncastle discuss the Canadian Anti-Fraud Centre (CAFC), tops scams targeting older Canadians, what to do if you have been a victim of fraud and the importance of reporting fraud to the Canadian Anti-Fraud Centre online or by calling the toll-free number at 1-888-495-8501.\nCanadian Anti-Fraud Centre: \n\nEnglish: https://antifraudcentre-centreantifraude.ca/index-eng.htm\nFrench: https://antifraudcentre-centreantifraude.ca/index-fra.htm\n\nFraud Prevention Month:\n\nEnglish: https://ised-isde.canada.ca/site/competition-bureau-canada/en/fraud-and-scams/fraud-prevention-month\nFrench: https://ised-isde.canada.ca/site/bureau-concurrence-canada/fr/fraude-arnaques/mois-prevention-fraude\n\nRCMP Seniors Guide to Safety and Security:\n\nEnglish: https://www.rcmp-grc.gc.ca/en/seniors-guidebook-safety-and-security\nFrench: https://www.rcmp-grc.gc.ca/fr/guide-securite-a-lintention-des-aines",
+          "link": "https://employment-and-social-development-canada.simplecast.com/episodes/fighting-fraud-with-knowledge-what-older-canadians-need-to-know-74Z9Ffwc",
+          "publishedOn": "2024-03-20T14:49:55.000Z",
+          "wordCount": null,
+          "title": "Fighting fraud with knowledge: What older Canadians need to know",
+          "itunes": {
+            "duration": "00:08:05"
+          },
+          "enclosure": {
+            "length": "7797042",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/10db0d51-dfba-42b0-8b33-3ad55876639c/episodes/54c95db9-0ac5-4904-aed0-49469626d84a/audio/b3aa55bd-4ee5-43f7-87b6-920c070d14be/default_tc.mp3?aid=rss_feed&feed=9Uo30mEr"
+          },
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Employment and Social Development Canada",
       "feedUrl": "https://feeds.simplecast.com/9Uo30mEr",
       "siteUrl": "https://employment-and-social-development-canada.simplecast.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "4af4593c-4d63-40f6-9951-5b73d90b3905",
+          "author": "jamie.nordstrand@hrsdc-rhdcc.gc.ca (Charles Drouin, Cathy Khoury)",
+          "description": "Learn the importance of filing your taxes on time, what tax credits are available for older Canadians and caregivers for the 2023 filing season, tips to help with filing, important dates and the CRA’s toll-free number, 1-800-959-8281.\nRecommended links:  \n\nWhat you need to know for the 2023 tax-filing season - https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2024/what-you-need-to-know-2024-tax-filing-season.html\nGet ready to do your taxes - https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/get-ready-taxes.html\nSeniors: Simplify tax-filing so you can get back to doing what you enjoy! - https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2024/seniors-simplify-tax-filing.html\nFree tax clinics - https://www.canada.ca/en/revenue-agency/services/tax/individuals/community-volunteer-income-tax-program.html\nSeniors in Canada Facebook page - https://www.facebook.com/SeniorsinCanada",
+          "link": "https://employment-and-social-development-canada.simplecast.com/episodes/tax-time-what-older-canadians-and-caregivers-need-to-know-u7OhrWN9",
+          "publishedOn": "2024-03-25T13:19:43.000Z",
+          "wordCount": null,
+          "title": "Tax time: What older Canadians and caregivers need to know",
+          "itunes": {
+            "duration": "00:17:00"
+          },
+          "enclosure": {
+            "length": "16348667",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/10db0d51-dfba-42b0-8b33-3ad55876639c/episodes/18f63d87-fb0c-4903-af7e-e088670d5494/audio/01714c8e-0da8-4388-b47e-52407fcdd27b/default_tc.mp3?aid=rss_feed&feed=9Uo30mEr"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "f0739e97-c4a4-4727-b968-1bfe2ef17e0e",
+          "author": "jamie.nordstrand@hrsdc-rhdcc.gc.ca (Charles Drouin, Cathy Khoury)",
+          "description": "Découvrez l’importance de produire votre déclaration de revenus dans les temps et quels crédits d’impôt sont offerts aux aînés canadiens et aux proches aidants pour la période des impôts 2023. Obtenez également des conseils pour vous aider à produire votre déclaration et apprenez quelles sont les dates importantes. Voici le numéro sans frais de l’ARC : 1-800-959-7383.\n Recommended links:  \nCe que vous devez savoir pour la période des impôts de 2023 – https://www.canada.ca/fr/agence-revenu/nouvelles/salle-presse/conseils-fiscaux/conseils-fiscaux-2024/vous-devez-savoir-pour-periode-impots-2024.html\nPréparez-vous à faire vos impôts – https://www.canada.ca/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers/preparez-vous-impots.html\nAînés : Simplifiez la production de votre déclaration de revenus pour rapidement retourner à vos passe-temps! – https://www.canada.ca/fr/agence-revenu/nouvelles/salle-presse/conseils-fiscaux/conseils-fiscaux-2024/aines-simplifiez-production-votre-declaration-revenus.html\nComptoirs d’impôts gratuits – https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/programme-communautaire-benevoles-matiere-impot.html\nPage Facebook des Aînés au Canada - https://www.facebook.com/AinesauCanada/",
+          "link": "https://employment-and-social-development-canada.simplecast.com/episodes/periode-des-impots-ce-que-les-aines-canadiens-et-les-proches-aidants-doivent-savoir-SbfA8SpQ",
+          "publishedOn": "2024-03-25T13:19:26.000Z",
+          "wordCount": null,
+          "title": "Période des impôts : Ce que les aînés canadiens et les proches aidants doivent savoir",
+          "itunes": {
+            "duration": "00:18:02"
+          },
+          "enclosure": {
+            "length": "17336026",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/10db0d51-dfba-42b0-8b33-3ad55876639c/episodes/0a89e7b2-4fbf-4612-b70b-ab532098dcd6/audio/4c4fd677-5fb8-498e-be3b-f20c6524efae/default_tc.mp3?aid=rss_feed&feed=9Uo30mEr"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "a1c7ab15-8a84-4112-9056-163da7d487d7",
+          "author": "jamie.nordstrand@hrsdc-rhdcc.gc.ca (Cathy Khoury, Jeff Horncastle)",
+          "description": "Cathy Khoury et Jeffrey Horncastle parlent du Centre antifraude du Canada, des principales fraudes envers les aînés canadiens, des mesures à prendre si vous êtes victime de fraude et de l’importance de signaler une fraude au Centre antifraude du Canada, soit en ligne ou en appelant le numéro sans frais 1-888-495-8501.\n\nCentre antifraude du Canada : \n\nFrancais - https://antifraudcentre-centreantifraude.ca/index-fra.htm\nAnglais - https://antifraudcentre-centreantifraude.ca/index-eng.htm\n\nMois de la prévention de la fraude :\n\nFrançais - https://ised-isde.canada.ca/site/bureau-concurrence-canada/fr/fraude-arnaques/mois-prevention-fraude\nAnglais - https://ised-isde.canada.ca/site/competition-bureau-canada/en/fraud-and-scams/fraud-prevention-month\n\nGuide de sécurité à l’intention des aînés, GRC :\n\nFrançais - https://www.rcmp-grc.gc.ca/fr/guide-securite-a-lintention-des-aines\nAnglais - https://www.rcmp-grc.gc.ca/en/seniors-guidebook-safety-and-security",
+          "link": "https://employment-and-social-development-canada.simplecast.com/episodes/combattre-la-fraude-en-la-reconnaissant-ce-que-les-aines-canadiens-doivent-savoir-45XxdLpc",
+          "publishedOn": "2024-03-20T14:50:03.000Z",
+          "wordCount": null,
+          "title": "Combattre la fraude en la reconnaissant : Ce que les aînés canadiens doivent savoir",
+          "itunes": {
+            "duration": "00:07:40"
+          },
+          "enclosure": {
+            "length": "7398203",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/10db0d51-dfba-42b0-8b33-3ad55876639c/episodes/68d929e0-f1da-4c9c-b21c-8dc3b517f4ee/audio/08552b08-191a-4913-9b01-141f73c441a5/default_tc.mp3?aid=rss_feed&feed=9Uo30mEr"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "c9281058-24b6-4c7a-a1de-6d8e01e6df5a",
+          "author": "jamie.nordstrand@hrsdc-rhdcc.gc.ca (Cathy Khoury, Jeff Horncastle)",
+          "description": "Cathy Khoury and Jeffrey Horncastle discuss the Canadian Anti-Fraud Centre (CAFC), tops scams targeting older Canadians, what to do if you have been a victim of fraud and the importance of reporting fraud to the Canadian Anti-Fraud Centre online or by calling the toll-free number at 1-888-495-8501.\nCanadian Anti-Fraud Centre: \n\nEnglish: https://antifraudcentre-centreantifraude.ca/index-eng.htm\nFrench: https://antifraudcentre-centreantifraude.ca/index-fra.htm\n\nFraud Prevention Month:\n\nEnglish: https://ised-isde.canada.ca/site/competition-bureau-canada/en/fraud-and-scams/fraud-prevention-month\nFrench: https://ised-isde.canada.ca/site/bureau-concurrence-canada/fr/fraude-arnaques/mois-prevention-fraude\n\nRCMP Seniors Guide to Safety and Security:\n\nEnglish: https://www.rcmp-grc.gc.ca/en/seniors-guidebook-safety-and-security\nFrench: https://www.rcmp-grc.gc.ca/fr/guide-securite-a-lintention-des-aines",
+          "link": "https://employment-and-social-development-canada.simplecast.com/episodes/fighting-fraud-with-knowledge-what-older-canadians-need-to-know-74Z9Ffwc",
+          "publishedOn": "2024-03-20T14:49:55.000Z",
+          "wordCount": null,
+          "title": "Fighting fraud with knowledge: What older Canadians need to know",
+          "itunes": {
+            "duration": "00:08:05"
+          },
+          "enclosure": {
+            "length": "7797042",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/10db0d51-dfba-42b0-8b33-3ad55876639c/episodes/54c95db9-0ac5-4904-aed0-49469626d84a/audio/b3aa55bd-4ee5-43f7-87b6-920c070d14be/default_tc.mp3?aid=rss_feed&feed=9Uo30mEr"
+          },
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "CCOHS Podcasts",
       "feedUrl": "https://feeds.libsyn.com/23176/rss",
       "siteUrl": "http://ccohs.libsyn.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "85c5b2a8-aff0-4c0b-a1dc-e8bd93aff446",
+          "author": null,
+          "description": "La stigmatisation à l’égard de la consommation de substances influe sur la façon dont nous parlons aux personnes, sur les politiques que nous élaborons et sur la prestation des soins. Dans cet épisode, la Dre Theresa Tam, administratrice en chef de la santé publique du Canada, et Anne Tennier, présidente et première dirigeante du CCHST, discutent des façons de réduire la stigmatisation et de soutenir les hommes dans les métiers spécialisés qui font face à des difficultés.",
+          "link": "https://ccohs.libsyn.com/consommation-de-substances-stigmatisation-et-dpendance-chez-les-hommes-travaillant-dans-des-mtiers-spcialiss",
+          "publishedOn": "2025-01-09T16:48:00.000Z",
+          "wordCount": null,
+          "title": "Consommation de substances, stigmatisation et dépendance chez les hommes travaillant dans des métiers spécialisés",
+          "itunes": {
+            "duration": "15:14"
+          },
+          "enclosure": {
+            "length": "9295447",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Consommation_de_substances_stigmatisation_et_dpendance_chez_les_hommes_travaillant_dans_des_mtiers_spcialiss_ep219.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "63504b4a-ba35-4fc9-a5f0-e0452d81e6ca",
+          "author": null,
+          "description": "Stigma surrounding substance use affects how we talk to individuals, the policies we develop, and how we provide care. In this episode, Dr. Theresa Tam, Chief Public Health Officer of Canada, and Anne Tennier, President and CEO of CCOHS, discuss ways we can reduce stigma and support men in the trades who are struggling.",
+          "link": "https://ccohs.libsyn.com/substance-use-stigma-and-addiction-among-men-in-trades",
+          "publishedOn": "2025-01-09T16:42:00.000Z",
+          "wordCount": null,
+          "title": "Substance Use, Stigma and Addiction Among Men in Trades",
+          "itunes": {
+            "duration": "12:27"
+          },
+          "enclosure": {
+            "length": "7927256",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Substance_Use_Stigma_and_Addiction_Among_Men_in_Trades_ep219.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "cb192858-134c-48f9-b756-1f3a27e944b2",
+          "author": null,
+          "description": "Chaque année, le CCHST reçoit des questions sur la santé et la sécurité de tout le Canada. Nous discutons avec l’un de nos spécialistes techniques des questions les plus importantes et les plus fréquentes de l’année.",
+          "link": "https://ccohs.libsyn.com/les-principales-questions-sur-la-sant-et-la-scurit-de-2024",
+          "publishedOn": "2024-12-09T18:43:00.000Z",
+          "wordCount": null,
+          "title": "Les principales questions sur la santé et la sécurité de 2024",
+          "itunes": {
+            "duration": "05:54"
+          },
+          "enclosure": {
+            "length": "3331199",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode218_LesPrincipalesQuestions__FR.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "74077b19-6d79-48b8-943e-d0e630f45b21",
+          "author": null,
+          "description": "It’s the year end roundup you’ve been waiting for: the top health and safety questions you asked us in 2024.",
+          "link": "https://ccohs.libsyn.com/top-health-and-safety-questions-of-2024",
+          "publishedOn": "2024-12-09T17:08:00.000Z",
+          "wordCount": null,
+          "title": "Top Health and Safety Questions of 2024",
+          "itunes": {
+            "duration": "05:38"
+          },
+          "enclosure": {
+            "length": "3402122",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode218_TopHealthandSafetyQuestions_EN.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "45ec7e15-47db-4839-9777-7d96fcd2b21d",
+          "author": null,
+          "description": "Good workplace housekeeping might seem like a simple concept, but it doesn’t always get the respect it deserves. Learn how effective housekeeping can reduce the risk of slips, trips and falls, one of the most common lost-time injuries.",
+          "link": "https://ccohs.libsyn.com/prevent-slips-trips-and-falls-with-good-workplace-housekeeping",
+          "publishedOn": "2024-11-18T17:38:55.000Z",
+          "wordCount": null,
+          "title": "Prevent Slips, Trips and Falls with Good Workplace Housekeeping",
+          "itunes": {
+            "duration": "04:24"
+          },
+          "enclosure": {
+            "length": "2466004",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode217_SlipsTripsFalls_English.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "812d8c5b-d57e-4ef3-bd1a-e7bd7fb65889",
+          "author": null,
+          "description": "La bonne tenue des locaux de travail peut sembler un concept simple, mais elle n’est pas toujours reconnue à sa juste valeur. Découvrez comment une tenue efficace des locaux peut réduire le risque de glissades, de trébuchements et de chutes, qui sont à l’origine de blessures entraînant une absence au travail parmi les plus courantes.",
+          "link": "https://ccohs.libsyn.com/prvenir-les-glissades-trbuchements-et-chutes-grce-une-bonne-tenue-des-locaux-de-travail",
+          "publishedOn": "2024-11-18T17:36:14.000Z",
+          "wordCount": null,
+          "title": "Prévenir les glissades, trébuchements et chutes grâce à une bonne tenue des locaux de travail",
+          "itunes": {
+            "duration": "06:05"
+          },
+          "enclosure": {
+            "length": "3326180",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode217_Glissades_French.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "3873c66f-90fe-45f4-9669-5a9c32be2903",
+          "author": null,
+          "description": "Farms experiencing a surge in bird flu infections can put people who work with poultry and dairy cattle at risk of catching the illness. In this episode, we talk with CCOHS Senior Technical Specialist Matea Kokorovic about measures you can take to protect your workers.\n  \nReleased: September 13, 2024\n File Size:  2.5 MB\n Length:  5:01 minutes",
+          "link": "https://ccohs.libsyn.com/protecting-workers-from-bird-flu",
+          "publishedOn": "2024-09-13T16:36:05.000Z",
+          "wordCount": null,
+          "title": "Protecting Workers from Bird Flu",
+          "itunes": {
+            "duration": "05:02"
+          },
+          "enclosure": {
+            "length": "2815534",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode216_ProtectingWorkersFromBirdFlu_English.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "905f777f-49a4-4b9c-9c4e-6de8f496d432",
+          "author": null,
+          "description": "Les exploitations qui connaissent une recrudescence des infections par la grippe aviaire exposent les personnes qui travaillent avec les volailles et les bovins laitiers au risque de contracter la maladie. Au cours du présent épisode, nous nous entretenons avec Matea Kokorovic, spécialiste technique principale du Centre canadien d’hygiène et de sécurité au travail au sujet des mesures que vous pouvez prendre pour protéger vos travailleurs.\n  \nDate de diffusion : 13 septembre 2024\n Taille du fichier : 3 MB\n Durée : 5 : 45 minutes",
+          "link": "https://ccohs.libsyn.com/protger-les-travailleurs-contre-la-grippe-aviaire",
+          "publishedOn": "2024-09-13T16:32:29.000Z",
+          "wordCount": null,
+          "title": "Protéger les travailleurs contre la grippe aviaire",
+          "itunes": {
+            "duration": "05:46"
+          },
+          "enclosure": {
+            "length": "3135473",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode216_Protger_les_travailleurs_contre_la_grippe_aviaire_working_French.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "1e4088fe-13f9-4d45-b52e-1ec7b0e0fa5b",
+          "author": null,
+          "description": "Holding courageous conversations in the workplace can help to advance equity, diversity, and inclusion. Learn how to start these discussions, and how they can foster greater understanding, connection, growth, and even healing.\n  \n Released:  August 8, 2024\n  File Size:   3 MB\n  Length:  5:28 minutes\n  \n -------------------------\n « Sparking Courageous Conversations at Work »     \n Tenir des conversations courageuses sur le lieu de travail peut contribuer à faire avancer l’équité, la diversité et l’inclusion. Apprenez comment entamer ces discussions et comment elles peuvent favoriser une meilleure compréhension, une meilleure connexion, une meilleure croissance et même une meilleure guérison.\n  \nDate de diffusion : 8 août 2024\n Taille du fichier : 3 MB\n Durée : 5 : 28 minutes",
+          "link": "https://ccohs.libsyn.com/sparking-courageous-conversations-at-work",
+          "publishedOn": "2024-08-08T18:20:15.000Z",
+          "wordCount": null,
+          "title": "Sparking Courageous Conversations at Work",
+          "itunes": {
+            "duration": "05:29"
+          },
+          "enclosure": {
+            "length": "3083647",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode215__CourageousConversations_English.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "829b9dea-62b5-45e2-8ef3-c098f3815af8",
+          "author": null,
+          "description": "When employers commit to using plain language, they make it easier for workers to do their jobs. They also help to support a more inclusive workplace. In this episode, we talk with plain language expert Jocelyn Pletz about how clear and simple communication can improve health and safety.\n  \nReleased: June 5, 2024\n File Size:  8.2 MB\n Length:  14:26 minutes\n  \n-------------------------\n « How Plain Language Improves Workplace Health and Safety »   \n Lorsque les employeurs s’engagent à utiliser un langage clair, ils facilitent le travail des travailleurs. Ils favorisent aussi l’inclusivité dans le milieu de travail. Dans cet épisode, nous parlerons avec Jocelyn Pletz, spécialiste du langage clair, qui expliquera comment les communications claires et simples peuvent améliorer la santé et la sécurité.\n  \nDate de diffusion : 5 juin 2024\n Taille du fichier : 8.2 MB\n Durée : 14 : 26 minutes",
+          "link": "https://ccohs.libsyn.com/how-plain-language-improves-workplace-health-and-safety",
+          "publishedOn": "2024-06-05T14:53:52.000Z",
+          "wordCount": null,
+          "title": "How Plain Language Improves Workplace Health and Safety",
+          "itunes": {
+            "duration": "14:27"
+          },
+          "enclosure": {
+            "length": "8628411",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode214_PlainLanguage_JocelynPletz_English.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "2126d26b-0fc7-4011-9fd7-ff90480d8322",
+          "author": null,
+          "description": "In this episode, we chat with Dr. Marie-Hélène Pelletier, a psychologist and business leader, about embracing neurodiverse conditions such as attention deficit hyperactivity disorder, dyslexia, and autism spectrum disorder, in the workplace.\n  \n  Released:  May 13, 2024\n  File Size:   6.9 MB \n Length:  14:17 minutes",
+          "link": "https://ccohs.libsyn.com/embracing-neurodiversity-in-the-workplace",
+          "publishedOn": "2024-05-13T20:09:44.000Z",
+          "wordCount": null,
+          "title": "Embracing Neurodiversity in the Workplace",
+          "itunes": {
+            "duration": "14:18"
+          },
+          "enclosure": {
+            "length": "7256279",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode213_Neurodiversity.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "7727cd67-f13f-45ce-9c71-f75f03c134a1",
+          "author": null,
+          "description": "Dans cet épisode, nous discutons avec Marie-Hélène Pelletier, Ph. D., psychologue et chef des opérations, au sujet d’adaptation à la neurodiversité, comme le trouble d’hyperactivité avec déficit de l’attention, la dyslexie et le trouble du spectre de l’autisme en milieu de travail\n  \nDate de diffusion : 13 may 2024\n  Taille du fichier :  8 MB\n  Durée :  17 : 04 minutes",
+          "link": "https://ccohs.libsyn.com/faire-place-la-neurodiversit-au-travail",
+          "publishedOn": "2024-05-13T19:58:38.000Z",
+          "wordCount": null,
+          "title": "Faire place à la neurodiversité au travail",
+          "itunes": {
+            "duration": "17:05"
+          },
+          "enclosure": {
+            "length": "8580002",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode213_Faire_place__la_neurodiversit_au_travail_French.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "ee047a8c-ad50-4224-add2-41d616f6ff55",
+          "author": null,
+          "description": "\"Mark was not one to go to the hospital. If he could duct tape or crazy glue it to fix it, he would. This was so much more than what duct tape or crazy glue could fix.” Melanie Kowalski-Fleming’s life changed forever the day her husband fell off a ladder at work. Hear her powerful story.\n  \nReleased: April 8, 2024\n File Size:  7.5 MB\n Length:  13:20 minutes\n  \n -------------------------\n « Day of Mourning: Melanie Kowalski-Fleming’s Story »\n « Mark n’était pas du genre à aller à l’hôpital. S’il pouvait régler le problème avec du ruban adhésif ou de la colle, il le faisait. Mais cette fois, le ruban adhésif et la colle n’y pouvaient rien. » La vie de Melanie Kowalski-Fleming a changé pour toujours le jour où son mari est tombé d’une échelle au travail. Écoutez son histoire percutante.\n  \nDate de diffusion : 8 avril 2024\n Taille du fichier : 7.5 MB\n Durée : 13 : 20 minutes",
+          "link": "https://ccohs.libsyn.com/day-of-mourning-melanie-kowalski-flemings-story",
+          "publishedOn": "2024-04-08T14:07:32.000Z",
+          "wordCount": null,
+          "title": "Day of Mourning: Melanie Kowalski-Fleming’s Story",
+          "itunes": {
+            "duration": "13:21"
+          },
+          "enclosure": {
+            "length": "7877514",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode212_Melanie_Kowalski-Fleming_DayOfMourning.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "d4943ebe-03b2-411a-92f1-fea79dbd2705",
+          "author": null,
+          "description": "Pour certains travailleurs, l’eau de Cologne et les crèmes à mains peuvent sentir bon, mais pour leurs collègues qui présentent une sensibilité aux parfums, elles peuvent avoir des effets désagréables pour la santé. En fait, les réactions aux parfums, comme les maux de tête, les démangeaisons oculaires et les difficultés respiratoires, sont un problème de santé, et elles sont considérées comme une déficience au sens de la Loi canadienne sur les droits de la personne. \n  \n  Date de diffusion : 18 mars 2024\n   Taille du fichier : 3.3 MB\n   Durée : 6 : 46 minutes",
+          "link": "https://ccohs.libsyn.com/comprendre-les-effets-de-la-sensibilit-aux-parfums",
+          "publishedOn": "2024-03-18T17:08:00.000Z",
+          "wordCount": null,
+          "title": "Comprendre les effets de la sensibilité aux parfums",
+          "itunes": {
+            "duration": "06:47"
+          },
+          "enclosure": {
+            "length": "3455772",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode211_Comprendre_les_effets_de_la_sensibilit__aux_parfums.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "11264d74-31f6-46a0-8482-4f1e0b644104",
+          "author": null,
+          "description": "While the scent of cologne or hand lotion may be pleasant to some, for co-workers with sensitivities to fragrances, they may have unpleasant health effects. In fact, reactions to scents, such as headaches, itchy eyes, and difficulty breathing, are a medical condition and recognized disability under the Canada Human Rights Act.  \n  \n Released: March 18, 202\n  File Size:  2.7 MB\n  Length:  5:10 minutes",
+          "link": "https://ccohs.libsyn.com/making-sense-of-scent-sensitivities",
+          "publishedOn": "2024-03-18T16:56:00.000Z",
+          "wordCount": null,
+          "title": "Making Sense of Scent Sensitivities",
+          "itunes": {
+            "duration": "05:11"
+          },
+          "enclosure": {
+            "length": "2823868",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode211_ScentsSensitivites.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "643d1f8f-820f-4c21-b34e-803e764abf83",
+          "author": null,
+          "description": "Dr. Heather O’Reilly (nee Johnston) from McMaster University discusses the connection between musculoskeletal disorders and psychological factors, and what workplaces and workers can do to limit risks for injuries. \n  \nReleased: February 1, 2024\n File Size:  10 MB\n Length:  17:40 minutes\n  \n -------------------------\n « Musculoskeletal Disorders and Mental Health »\n Heather O’Reilly (née Johnston), Ph. D., de l’Université McMaster explique le lien entre les troubles musculosquelettiques et les facteurs psychosociaux, et ce que les milieux de travail peuvent faire pour limiter les risques de blessures. \n  \nDate de diffusion : 1 fevrier 2024\n Taille du fichier : 10 MB\n Durée : 17 : 46 minutes",
+          "link": "https://ccohs.libsyn.com/musculoskeletal-disorders-and-mental-health",
+          "publishedOn": "2024-02-01T18:25:00.000Z",
+          "wordCount": null,
+          "title": "Musculoskeletal Disorders and Mental Health",
+          "itunes": {
+            "duration": "17:41"
+          },
+          "enclosure": {
+            "length": "10397498",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode210_MSDsMentalHealth_Eng.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "76225617-3fa6-4839-9dd1-6cada4ce0e7a",
+          "author": null,
+          "description": "With all the walking, standing, and working workers do on their feet, they can be exposed to potential injury. In winter, cold weather afflictions like frostbite, chilblains, and trench foot can cause painful and sometimes serious consequences.   \n \n Tune in to this CCOHS podcast to earn more about the harm that working in cold weather can cause feet, and how to put protections in place.\n  \n Released:  January 9, 2024\n File Size:   3.7 MB\n Length:  6:58 minutes",
+          "link": "https://ccohs.libsyn.com/cold-feet-prevention-steps-to-stay-safe-and-warm-when-working-outdoors",
+          "publishedOn": "2024-01-09T15:59:48.000Z",
+          "wordCount": null,
+          "title": "Cold Feet Prevention: Steps to Stay Safe and Warm When Working Outdoors",
+          "itunes": {
+            "duration": "06:59"
+          },
+          "enclosure": {
+            "length": "3849096",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode209_ColdFeetPrevention_English.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "ac0b68c8-8953-4d8a-8777-ce825f991199",
+          "author": null,
+          "description": "À tellement marcher, être debout et travailler sur leurs deux pieds, les travailleurs les exposent à des blessures potentielles. En hiver, les maux liés au temps froid comme les gelures, les engelures et le pied de tranchée peuvent avoir des conséquences douloureuses et parfois graves. \n  \n Ne manquez pas ce balado du CCHST pour en apprendre davantage sur les lésions aux pieds qui peuvent résulter du travail extérieur par temps froid et la façon de mettre en place des mesures de protection.   \n  \nDate de diffusion : 9 janvier 2024\n  Taille du fichier :  4.6 MB\n  Durée :  8 : 58 minutes",
+          "link": "https://ccohs.libsyn.com/pour-ne-plus-avoir-froid-aux-pieds-comment-rester-au-chaud-et-en-scurit-lorsquon-travaille-dehors",
+          "publishedOn": "2024-01-09T15:56:28.000Z",
+          "wordCount": null,
+          "title": "Pour ne plus avoir froid aux pieds : comment rester au chaud et en sécurité lorsqu’on travaille dehors",
+          "itunes": {
+            "duration": "08:59"
+          },
+          "enclosure": {
+            "length": "4759109",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode209_ColdFeetPrevention_French.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "f500acdc-9c11-4358-85f2-a54b52a48045",
+          "author": null,
+          "description": "Despite the season or destination, safety should always be a critical part of your travel plans. From planning and preparation all the way to hotel precautions and communication procedures, we’ll review timely and relevant tips for a safe and healthy trip.\n  \n Released: November 16, 2023 \n  \n File Size:  3.8 MB \n  \n Length:  7:23 minutes",
+          "link": "https://ccohs.libsyn.com/top-picks-for-travel-tips",
+          "publishedOn": "2023-11-16T14:47:44.000Z",
+          "wordCount": null,
+          "title": "Top Picks for Travel Tips",
+          "itunes": {
+            "duration": "07:24"
+          },
+          "enclosure": {
+            "length": "4051056",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode208_TopPicksTravelTips_English.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "9935658e-691c-464f-ac6c-df070e7b898a",
+          "author": null,
+          "description": "Peu importe la saison ou la destination, la sécurité devrait toujours être au cœur de vos plans de voyage. De la planification à la préparation, en passant par les précautions à prendre dans les hôtels et les procédures de communication, nous passerons en revue des conseils pertinents et pratiques pour que vous puissiez voyager en toute sécurité tout en demeurant en santé. \n  \n  \n Date de diffusion : 16 novembre 16 \n  \n Taille du fichier : 5 MB \n  \n  Durée :  9  : 52minutes",
+          "link": "https://ccohs.libsyn.com/slection-des-meilleurs-conseils-de-voyage",
+          "publishedOn": "2023-11-16T14:45:47.000Z",
+          "wordCount": null,
+          "title": "Sélection des meilleurs conseils de voyage",
+          "itunes": {
+            "duration": "09:53"
+          },
+          "enclosure": {
+            "length": "5290928",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode208_TopPicksTravelTips_French_.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "9c1ab70f-40ae-4415-a3a4-686e809be60f",
+          "author": null,
+          "description": "Despite growing national conversation on violence and harassment in the workplace, bullying continues to affect many workers. CUPE’s National Health and Safety Representative, Dr. Andréane Chénier discusses how some organizations are approaching the issue.\n  \nReleased: September 18, 2023\n File Size:  6.2 MB\n Length:  11:11 minutes",
+          "link": "https://ccohs.libsyn.com/breaking-the-cycle-of-workplace-bullying-0",
+          "publishedOn": "2023-09-18T21:41:34.000Z",
+          "wordCount": null,
+          "title": "Breaking the Cycle of Workplace Bullying",
+          "itunes": {
+            "duration": "11:11"
+          },
+          "enclosure": {
+            "length": "6547745",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode207__Breaking_the_Cycle_of_Workplace_Bullying_EN.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "ed6b901e-f831-4fc1-8eef-6d0ad3eca8de",
+          "author": null,
+          "description": "Malgré des discussions de plus en plus nombreuses sur la violence et le harcèlement en milieu de travail au pays, de nombreux travailleurs continuent de vivre de l’intimidation. Andréane Chénier, représentante nationale en santé et sécurité au Syndicat canadien de la fonction publique, explique comment certains organismes abordent la question de l’intimidation sur le lieu de travail.\n  \nDate de diffusion : 18 septembre 2023\n Taille du fichier : 5.8 MB\n Durée : 10 : 41 minutes",
+          "link": "https://ccohs.libsyn.com/rompre-le-cycle-de-lintimidation-au-travail",
+          "publishedOn": "2023-09-18T21:38:15.000Z",
+          "wordCount": null,
+          "title": "Rompre le cycle de l’intimidation au travail",
+          "itunes": {
+            "duration": "10:42"
+          },
+          "enclosure": {
+            "length": "6140122",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode207_Rompre_le_cycle_de_lintimidation_au_travail.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "413d8a53-cd54-4e8a-879d-9da5003219c7",
+          "author": null,
+          "description": "International workers are an integral part of the Canadian economy. There are a number of factors that make them uniquely vulnerable, from language barriers to fears around work permits and job security that may prevent them from speaking up about unsafe conditions. Francy Munoz from the C.A.R.E. for International Workers program discusses ways to improve workplace safety for international workers. \n  \nReleased: August 10, 2023\n File Size:  5.1 MB\n Length:  8:22 minutes\n  \n-------------------------\n « Creating Safe Workplaces for International Workers with Francy Munoz »\n Les travailleurs étrangers font partie intégrante de l’économie canadienne. Un certain nombre de facteurs comme les barrières linguistiques et les craintes entourant les permis de travail et la sécurité d’emploi les rendent particulièrement vulnérables et peuvent les empêcher de dénoncer des conditions dangereuses. Francy Munoz du programme C.A.R.E. for International Workers (C.A.R.E pour les travailleurs étrangers) discute de moyens d’améliorer la sécurité des travailleurs étrangers en milieu de travail.\n  \nDate de diffusion : 10 août 2023\n Taille du fichier : 5.1 MB\n Durée : 8 : 22 minutes",
+          "link": "https://ccohs.libsyn.com/creating-safe-workplaces-for-international-workers-with-francy-munoz",
+          "publishedOn": "2023-08-10T19:19:05.000Z",
+          "wordCount": null,
+          "title": "Creating Safe Workplaces for International Workers with Francy Munoz",
+          "itunes": {
+            "duration": "08:23"
+          },
+          "enclosure": {
+            "length": "5383781",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode206_CreatingSafeWorkplacesForIntlWkrs.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "a07a32d8-1c35-4df2-aafb-bca1abb3917e",
+          "author": null,
+          "description": "The Workplace Hazardous Materials Information System has been updated. In this episode we discuss the latest changes to WHMIS and how they benefit workers and suppliers.\n  \nReleased: July 7, 2023\n File Size: 4 MB\n Length: 6:04",
+          "link": "https://ccohs.libsyn.com/keeping-up-with-whmis",
+          "publishedOn": "2023-07-07T14:27:36.000Z",
+          "wordCount": null,
+          "title": "Keeping Up with WHMIS",
+          "itunes": {
+            "duration": "06:05"
+          },
+          "enclosure": {
+            "length": "4211105",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode204_WHMIS2023_English.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "54132f98-0f04-4db2-8cd4-cf80d6c89cb3",
+          "author": null,
+          "description": "Le Système d’information sur les matières dangereuses utilisées au travail a été mis à jour. Dans cet épisode, nous discutons des derniers changements apportés au SIMDUT et de leurs avantages pour les travailleurs et les fournisseurs.\n  \nDate de diffusion : 7 juillet 2023\n Taille du fichier: 4 MB\n Durée: 7 : 44",
+          "link": "https://ccohs.libsyn.com/le-point-sur-le-simdut",
+          "publishedOn": "2023-07-07T14:23:46.000Z",
+          "wordCount": null,
+          "title": "Le point sur le SIMDUT",
+          "itunes": {
+            "duration": "07:45"
+          },
+          "enclosure": {
+            "length": "4170078",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode204_SIMDUT2023_French.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "1eb39e3f-90cb-4835-bf94-78a9aaffc08b",
+          "author": null,
+          "description": "There are consequences to a one-size-fits-all approach to personal protective equipment. In this episode, occupational and public health consultant Anya Keefe discusses the lack of representation and the need to consider gender and sex in the production and availability of personal protective equipment.\n  \nReleased: July 7, 2023\n File Size: 7.5 MB\n Length: 13:23\n  \n-------------------------\n  « The Gender Gap in Personal Protective Equipment »\n L’adoption d’une approche « taille unique » en matière d’équipement de protection individuelle peut avoir des conséquences. Dans cet épisode, la consultante en santé au travail et en santé publique Anya Keefe discute du manque de représentation et de la nécessité de tenir compte du genre et du sexe dans le cadre de la production et de l’offre d’équipement de protection individuelle.\n  \nDate de diffusion : 7 juillet, 2023\n Taille du fichier : 7.5 MB\n Durée : 13 : 23",
+          "link": "https://ccohs.libsyn.com/the-gender-gap-in-personal-protective-equipment",
+          "publishedOn": "2023-07-07T14:11:12.000Z",
+          "wordCount": null,
+          "title": "The Gender Gap in Personal Protective Equipment",
+          "itunes": {
+            "duration": "13:24"
+          },
+          "enclosure": {
+            "length": "8056770",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode205_Women_PPE_Anya_Keefe.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "2a498126-d637-42b2-9986-cd66bf9a5cfc",
+          "author": null,
+          "description": "There are many ways employers can make the workplace safer and more inclusive for trans and non-binary employees, from educating workers on trans issues and human rights, to ensuring access to gender-neutral washrooms. In this episode, diversity and inclusion champion Dani Gomez-Ortega discusses why inclusive workplaces matter, roles and responsibilities, and the huge impact kindness can make.\n  \nReleased: June 13, 2023\n File Size:  8.6 MB\n Length:  14:52 minutes\n  \n-------------------------\n Title: « Creating Inclusive Workplaces for Trans and Non-binary Workers »\n Les employeurs peuvent utiliser de nombreux moyens pour rendre le lieu de travail plus sûr et plus inclusif pour les employés trans et non binaires, notamment en sensibilisant les travailleurs aux questions trans et aux droits de la personne, ou en garantissant l’accès à des toilettes mixtes. Dans cet épisode, Dani Gomez-Ortega, championne de la diversité et de l’inclusion, explique pourquoi les lieux de travail inclusifs sont importants, quels sont les rôles et les responsabilités et quelle incidence la gentillesse peut avoir.\n  \nDate de diffusion : 13 juin 2023\n Taille du fichier : 8.6 MB\n  Durée : 14 : 52 minutes",
+          "link": "https://ccohs.libsyn.com/creating-safe-inclusive-workplaces-for-trans-and-non-binary-workers-with-dani-gomez-ortega",
+          "publishedOn": "2023-06-13T19:32:09.000Z",
+          "wordCount": null,
+          "title": "Creating Inclusive Workplaces for Trans and Non-binary Workers with Dani Gomez-Ortega",
+          "itunes": {
+            "duration": "14:53"
+          },
+          "enclosure": {
+            "length": "9072434",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode203_Dani_GomezOrtega.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "772cf722-cbe3-4fd6-b8af-5cab321469d0",
+          "author": null,
+          "description": "Implementing small changes can have a profound effect on employee well-being. Leadership expert Dr. Julian Barling shares the most important factors for creating a productive, healthy and safe workplace. Dr. Barling will speak more about navigating the brave new workplace at CCOHS Forum, taking place September 26-27 in Halifax, Nova Scotia.\n  \nReleased: May 9, 2023\n File Size:  6.7 MB\n Length:  11:30 minutes\n  \n-------------------------\n « Comment retrouver le Nord dans le nouveau monde du travail? »\n Description: La mise en œuvre de petits changements peut avoir un effet profond sur le bien-être des employés. L’expert en leadership Julian Barling, Ph. D., nous présente aujourd’hui les incontournables de la création d’un milieu de travail productif, sain et sécuritaire. M. Barling nous expliquera mieux comment retrouver le Nord dans le nouveau monde du travail lors du Forum du CCHST, qui aura lieu du 26 au 27 septembre à Halifax, en Nouvelle-Écosse.\n  \nDate de diffusion : 9 mai 2023\n Taille du fichier : 6.7 MB\n Durée : 11 : 30 minutes",
+          "link": "https://ccohs.libsyn.com/tips-to-navigate-the-brave-new-workplace",
+          "publishedOn": "2023-05-09T20:17:56.000Z",
+          "wordCount": null,
+          "title": "Tips to Navigate the Brave New Workplace",
+          "itunes": {
+            "duration": "12:01"
+          },
+          "enclosure": {
+            "length": "7016586",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode202_JulianBarling.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "5f833c62-57b0-478a-9942-358702a9e7e4",
+          "author": null,
+          "description": "“He had big hands, big feet, and a great big heart.” Donna Van Bruggen’s life was forever changed the day her son David didn’t come home from work. Hear her powerful story, and how getting involved with Threads of Life has helped her process her grief.\n  \n ·         Released:  April 12, 2023\n  ·         File Size:   9.9 MB\n  ·         Length:  18:29 minutes\n  \n *************************\n  « Day of Mourning: Donna Van Bruggen’s Story »\n « Il avait de grandes mains, de grands pieds et un grand cœur. » La vie de Donna Van Bruggen a basculé le jour où son fils David n’est pas rentré du travail. Écoutez son histoire émouvante et découvrez comment sa participation à Fil de vie l’a aidée à surmonter son chagrin.\n  \n ·         Date de diffusion : 12 avril 2023\n  ·         Taille du fichier :  9.9 MB\n   Durée :  18 : 29 minutes",
+          "link": "https://ccohs.libsyn.com/day-of-mourning-donna-van-bruggens-story",
+          "publishedOn": "2023-04-12T17:51:06.000Z",
+          "wordCount": null,
+          "title": "Day of Mourning: Donna Van Bruggen’s Story",
+          "itunes": {
+            "duration": "18:30"
+          },
+          "enclosure": {
+            "length": "10397599",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode201_DayOfMourning_DVB_Interview.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "9efc7b55-8073-44ef-b099-f89b96116458",
+          "author": null,
+          "description": "Canada is warming at roughly twice the rate of the rest of the world, and the effects are being felt in workplaces across the country. In the latest episode of Health and Safety To Go, hear from a geoscientist and climate change expert on which industries are most affected and how employers and workers can adapt.\n  \nReleased: March 9, 2023\n File Size: 3.6 MB\n Length: 6:41 minutes",
+          "link": "https://ccohs.libsyn.com/workplace-impacts-from-climate-change",
+          "publishedOn": "2023-03-09T18:34:16.000Z",
+          "wordCount": null,
+          "title": "Workplace Impacts from Climate Change",
+          "itunes": {
+            "duration": "06:42"
+          },
+          "enclosure": {
+            "length": "3725864",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode200_ClimateChangeInterview_English.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "932c1a43-9474-4f3d-bb8b-f8c843899620",
+          "author": null,
+          "description": "Au Canada, le réchauffement climatique est environ deux fois plus rapide que dans le reste du monde, et les effets de celui-ci se font sentir jusque dans les milieux de travail partout au pays. Dans le plus récent balado De la SST pour emporter!, un géoscientifique et spécialiste en changements climatiques explique quels sont les secteurs les plus touchés et comment les employeurs et les travailleurs peuvent s’adapter.\n  \nDate de diffusion : 9 mars 2023\n Taille du fichier : 3.5 MB\n Durée : 6 : 49 minutes",
+          "link": "https://ccohs.libsyn.com/effets-des-changements-climatiques-dans-les-milieux-de-travail",
+          "publishedOn": "2023-03-09T18:31:26.000Z",
+          "wordCount": null,
+          "title": "Effets des changements climatiques dans les milieux de travail",
+          "itunes": {
+            "duration": "06:50"
+          },
+          "enclosure": {
+            "length": "3603371",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode200_ClimateChangeInterview_French.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "95f1e130-a234-4f9e-8dc6-c304585d7b13",
+          "author": null,
+          "description": "Are jargon and acronyms used everywhere in your workplace? Create a safer and more inclusive environment by using plain language. Here are four tips to get started.\n  \nReleased: January 27, 2023\n File Size: 3 MB\n Length: 5:03 minutes",
+          "link": "https://ccohs.libsyn.com/four-tips-for-improving-workplace-safety-with-plain-language",
+          "publishedOn": "2023-01-27T17:25:14.000Z",
+          "wordCount": null,
+          "title": "Four Tips for Improving Workplace Safety with Plain Language",
+          "itunes": {
+            "duration": "05:04"
+          },
+          "enclosure": {
+            "length": "3357291",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode199_PlainLanguage_English.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "56483146-230d-4d5f-82f1-c965c3a5175d",
+          "author": null,
+          "description": "Utilisez-vous du jargon et des acronymes partout dans votre lieu de travail? Adoptez un langage simple pour créer un environnement plus sûr et plus inclusif. Voici quatre conseils pour commencer.\n  \nDate de diffusion : 27 janvier 2023\n Taille du fichier : 3.3 MB\n Durée : 6 : 35 minutes",
+          "link": "https://ccohs.libsyn.com/quatre-conseils-pour-amliorer-la-scurit-sur-le-lieu-de-travail-grce-un-langage-simple",
+          "publishedOn": "2023-01-27T17:20:48.000Z",
+          "wordCount": null,
+          "title": "Quatre conseils pour améliorer la sécurité sur le lieu de travail grâce à un langage simple",
+          "itunes": {
+            "duration": "06:36"
+          },
+          "enclosure": {
+            "length": "3387707",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode199_PlainLanguage_Francais.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "cda728cd-e607-4b35-b228-ffa467342c79",
+          "author": null,
+          "description": "There’s a lot more to working safely in the cold than bundling up in layers. In the latest CCOHS podcast: what workers and employers need to know.\n  \nReleased: December 13, 2022\n File Size: 5 MB\n Length: 6:34 minutes",
+          "link": "https://ccohs.libsyn.com/temps-down-heads-up-working-safely-in-the-cold",
+          "publishedOn": "2022-12-13T22:17:42.000Z",
+          "wordCount": null,
+          "title": "Temps down, heads up: Working Safely in the Cold",
+          "itunes": {
+            "duration": "06:35"
+          },
+          "enclosure": {
+            "length": "3635021",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode198_WorkingInTheCold_English.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "6833ea75-ff40-4bfb-9f2b-3902d0c66a60",
+          "author": null,
+          "description": "Pour travailler en toute sécurité dans le froid, il ne suffit pas de s’emmitoufler dans plusieurs couches de vêtements. Dans le dernier balado du CCHST : ce que les travailleurs et les employeurs doivent savoir.\n  \nDate de diffusion : 13 decembre 2022\n Taille du fichier :5 MB\n Durée : 9 : 13 minutes",
+          "link": "https://ccohs.libsyn.com/tempratures-la-baisse-attachez-votre-tuque-travaillez-au-froid-en-scurit",
+          "publishedOn": "2022-12-13T22:15:55.000Z",
+          "wordCount": null,
+          "title": "Températures à la baisse ? Attachez votre tuque ! Travaillez au froid en sécurité",
+          "itunes": {
+            "duration": "09:14"
+          },
+          "enclosure": {
+            "length": "4716985",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode198_WorkingInTheCold_French.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "c050d323-3a64-442c-9777-adb7a1ecad98",
+          "author": null,
+          "description": "The number of workers in Canada who are also caregivers is on the rise. Here’s how workplaces can provide support.\n  \nReleased: November 16, 2022\n File Size: 9 MB\n Length: 17:57 minutes\n  \n-------------------------\n >\n  Le nombre de travailleurs canadiens qui sont également des aidants naturels augmente. Voici comment les lieux de travail peuvent vous aider.\n  \nDate de diffusion : 16 novembre 2022\n Taille du fichier :9 MB\n Durée : 17 : 57 minutes",
+          "link": "https://ccohs.libsyn.com/carer-friendly-workplaces-with-nora-spinx",
+          "publishedOn": "2022-11-16T17:50:21.000Z",
+          "wordCount": null,
+          "title": "Carer-Friendly Workplaces",
+          "itunes": {
+            "duration": "17:58"
+          },
+          "enclosure": {
+            "length": "10376071",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode197_CarerFriendlyWorkplaces.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "320bbda9-f11b-4a9d-a251-e69d507e64ef",
+          "author": null,
+          "description": "La prévention des blessures ergonomiques commence par la détermination des dangers et des facteurs de risque. Voici ce qu'il faut surveiller lorsqu'il s'agit de se tenir au travail.\n  \nDate de diffusion : 20 octobre 2022\n Taille du fichier : 4.8 MB\n Durée : 9 : 23 minutes",
+          "link": "https://ccohs.libsyn.com/prenez-position-contre-les-risques-ergonomiques",
+          "publishedOn": "2022-10-20T22:01:19.000Z",
+          "wordCount": null,
+          "title": "Prenez position contre les risques ergonomiques",
+          "itunes": {
+            "duration": "09:23"
+          },
+          "enclosure": {
+            "length": "5020292",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode196_TakeAStandOnErgonomicHazards_French.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "3b949531-0016-4c99-8992-e106be58e237",
+          "author": null,
+          "description": "Preventing any ergonomic injury starts with identifying the hazards and risk factors. Here’s what to look out for when it comes to standing on the job.\n  \nReleased: October 19, 2022\n File Size: 5 MB\n Length: 6:40 minutes",
+          "link": "https://ccohs.libsyn.com/take-a-stand-on-ergonomic-hazards",
+          "publishedOn": "2022-10-19T17:31:19.000Z",
+          "wordCount": null,
+          "title": "Take a Stand on Ergonomic Hazards",
+          "itunes": {
+            "duration": "06:41"
+          },
+          "enclosure": {
+            "length": "3674282",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode196_TakeAStandOnErgonomicHazards_English.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "c1b2b275-60a4-4157-ada0-a5442de330f8",
+          "author": null,
+          "description": "In First Nations communities, several factors are considered before undertaking new health and safety initiatives. Jeff Robert, an Indigenous human resources practitioner, shares his insights in this episode.\n  \nReleased: September 21, 2022\n File Size: 5.5 MB\n Length: 9:57 minutes\n  \n>\n Dans les communautés des Premières Nations, plusieurs facteurs sont pris en considération avant de lancer de nouvelles initiatives en matière de santé et de sécurité. Jeff Robert, un conseiller en ressources humaines autochtone, présente ses points de vue dans cet épisode.\n  \nDate de diffusion : 21 septembre 2022\n Taille du fichier : 5.5 MB\n Durée : 9 : 57 minutes",
+          "link": "https://ccohs.libsyn.com/indigenous-perspectives-on-health-and-safety",
+          "publishedOn": "2022-09-21T15:36:39.000Z",
+          "wordCount": null,
+          "title": "Indigenous Perspectives on Health and Safety",
+          "itunes": {
+            "duration": "09:58"
+          },
+          "enclosure": {
+            "length": "5678203",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode195_IndigenousPerspectivesOnHealthandSafety_English.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "d3ce3438-d32d-4e1f-9131-cc8d6aac0619",
+          "author": null,
+          "description": "Description: Every person employed in Canada has the right to a safe work environment. In this episode we discuss the three basic rights of all workers in Canada.\n  \nReleased: August 16, 2022\n File Size: 4.2 MB\n Length: 6 : 13 minutes",
+          "link": "https://ccohs.libsyn.com/comprendre-les-trois-droits-fondamentaux-des-travailleurs-0",
+          "publishedOn": "2022-08-16T12:42:03.000Z",
+          "wordCount": null,
+          "title": "Understanding the Three Basic Rights of Workers",
+          "itunes": {
+            "duration": "06:14"
+          },
+          "enclosure": {
+            "length": "3316174",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode194_ThreeBasicRights_ofWorkers_English.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "fb389f8e-c5cd-4da5-9121-891b3c498e5f",
+          "author": null,
+          "description": "Toute personne employée au Canada a droit à un milieu de travail sécuritaire. Dans le présent épisode, nous discutons des trois droits fondamentaux de tous les travailleurs au Canada.\n  \nDate de diffusion : 16 août 2022\n Taille du fichier :2 MB\n Durée : 8 : 20 minutes",
+          "link": "https://ccohs.libsyn.com/comprendre-les-trois-droits-fondamentaux-des-travailleurs",
+          "publishedOn": "2022-08-16T12:38:51.000Z",
+          "wordCount": null,
+          "title": "Comprendre les trois droits fondamentaux des travailleurs",
+          "itunes": {
+            "duration": "08:21"
+          },
+          "enclosure": {
+            "length": "4317375",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode194_FiveBasicRights_ofWorkers_French.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "cc3381fd-6699-467b-8508-4aa36a583bee",
+          "author": null,
+          "description": "Being able to fully disconnect from work is key to a healthy, happy, and productive workplace. In this episode, we discuss what employers and workers can each do to help.\n  \nReleased: July 19, 2022\n File Size:  3 MB\n Length: 5:51 minutes",
+          "link": "https://ccohs.libsyn.com/disconnecting-from-work",
+          "publishedOn": "2022-07-19T15:53:27.000Z",
+          "wordCount": null,
+          "title": "Disconnecting from Work",
+          "itunes": {
+            "duration": "05:52"
+          },
+          "enclosure": {
+            "length": "3174106",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode193_Disconnecting_English.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "933fcd6b-0ff4-4b13-a9c8-7be175f0b65b",
+          "author": null,
+          "description": "Être capable de complètement décrocher du travail est essentiel à un milieu de travail sain, positif et productif. Dans cet épisode, nous discutons de ce que les employeurs et les employés peuvent faire pour aider.\n  \nDate de diffusion : 17 juillet 2022\n Taille du fichier :7 MB\n Durée : 7 : 24 minutes",
+          "link": "https://ccohs.libsyn.com/se-dconnecter-du-travail",
+          "publishedOn": "2022-07-19T15:51:50.000Z",
+          "wordCount": null,
+          "title": "Se déconnecter du travail",
+          "itunes": {
+            "duration": "07:25"
+          },
+          "enclosure": {
+            "length": "3863140",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode193_Disconnecting_French.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "361508d0-9a22-4e5c-8078-4bdda713dd1f",
+          "author": null,
+          "description": "Tracking patterns and trends in occupational disease in different industries can help target prevention efforts. We talk with Paul Demers from the Occupational Cancer Research Centre about the Occupational Disease Surveillance System (ODSS) and what the data reveals.\n  \nReleased: June 14, 2022\n File Size:  5 MB\n Length: 8:07 minutes\n  \n****************************************\n « Identifying and Monitoring Trends in Occupational Disease »\n Le suivi des profils et des tendances des maladies professionnelles dans différents secteurs d’activité peut aider à cibler les efforts de prévention. Nous discutons avec Paul Demers du Centre de recherche sur le cancer professionnel au sujet du Système de surveillance des maladies professionnelles (SSMP) et de ce que les données révèlent.\n  \n  \nDate de diffusion : 14 juin 2022\n Taille du fichier : 5 MB\n Durée : 8 : 07 minutes",
+          "link": "https://ccohs.libsyn.com/identifying-and-monitoring-trends-in-occupational-disease",
+          "publishedOn": "2022-06-14T16:34:32.000Z",
+          "wordCount": null,
+          "title": "Identifying and Monitoring Trends in Occupational Disease",
+          "itunes": {
+            "duration": "08:08"
+          },
+          "enclosure": {
+            "length": "5475201",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode192_IndentifyingOccupationalDiseaseTrends_PaulDemers.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Inspect and Protect",
       "feedUrl": "https://anchor.fm/s/3bcc4b70/podcast/rss",
       "siteUrl": "https://inspection.gc.ca/Inspect-Protect",
-      "articles": []
+      "articles": [
+        {
+          "id": "e93244ce-53df-4523-8997-0369130af1bf",
+          "author": "Canadian Food Inspection Agency",
+          "description": "In this podcast episode, we bust popular myths about food poisoning with 2 epidemiologists, Tanis Kershaw and Courtney Smith, from the Public Health Agency of Canada.\nSubscribe to food recalls and alerts: https://recalls-rappels.canada.ca/en",
+          "link": "https://podcasters.spotify.com/pod/show/cfia/episodes/Food-poisoning-trivia-with-2-epidemiologists-e29oj3o",
+          "publishedOn": "2023-09-25T14:10:29.000Z",
+          "wordCount": null,
+          "title": "Food poisoning trivia with 2 epidemiologists",
+          "itunes": {
+            "duration": "00:20:07"
+          },
+          "enclosure": {
+            "url": "https://anchor.fm/s/3bcc4b70/podcast/play/76352056/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-25%2F080d06df-9d59-d3c8-a99a-a7ab797b46a1.mp3",
+            "length": "48318070",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "7f18f2ac-22b7-43da-99a8-dee89f53ed59",
+          "author": "Canadian Food Inspection Agency",
+          "description": "Behind every outbreak of food poisoning, a team of detectives works around the clock to pinpoint the source. This podcast episode, 4 experts from the Canadian Food Inspection Agency, Health Canada and the Public Health Agency of Canada, explain how they connect the dots to save lives.\nSubscribe to food recalls and alerts: https://recalls-rappels.canada.ca/en",
+          "link": "https://podcasters.spotify.com/pod/show/cfia/episodes/The-food-safety-puzzle-piecing-together-an-outbreak-investigation-e29hb8o",
+          "publishedOn": "2023-09-20T11:00:00.000Z",
+          "wordCount": null,
+          "title": "The food safety puzzle: piecing together an outbreak investigation",
+          "itunes": {
+            "duration": "00:25:29"
+          },
+          "enclosure": {
+            "url": "https://anchor.fm/s/3bcc4b70/podcast/play/76114648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-19%2F2c82a47e-b116-1863-309a-20c503e2647a.mp3",
+            "length": "48948450",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "d6799733-40d3-4106-9c99-b209ffea6716",
+          "author": "Canadian Food Inspection Agency",
+          "description": "You've finally gathered the courage to clean up your fridge or pantry, but how do you know what to keep or chuck? In this podcast, labelling expert Laura Reid helps us understand the different dates on our foods.\nWe also hear from Sophie Langlois-Blouin, Vice-President of RECYC Québec, about food waste in Canada.",
+          "link": "https://podcasters.spotify.com/pod/show/cfia/episodes/Understanding-the-dates-on-our-food-e22vfh2",
+          "publishedOn": "2023-04-25T12:00:04.000Z",
+          "wordCount": null,
+          "title": "Understanding the dates on our food",
+          "itunes": {
+            "duration": "00:16:06"
+          },
+          "enclosure": {
+            "url": "https://anchor.fm/s/3bcc4b70/podcast/play/69237730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-25%2F1bd3b04b-93f6-41f0-f6be-285f50d27ee8.mp3",
+            "length": "38647808",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "6a55cf10-9370-4e00-84d4-81ad930203aa",
+          "author": "Canadian Food Inspection Agency",
+          "description": "Crickets have attracted global interest for their sustainable farming potential. And yet, so few of us have hopped on to this protein trend. In this podcast, we explore the edible insect landscape in Canada with food trend expert Dana McCauley.",
+          "link": "https://podcasters.spotify.com/pod/show/cfia/episodes/Are-crickets-the-new-tofu-e1rtvhc",
+          "publishedOn": "2022-12-08T11:01:00.000Z",
+          "wordCount": null,
+          "title": "Are crickets the new tofu?",
+          "itunes": {
+            "duration": "00:22:47"
+          },
+          "enclosure": {
+            "url": "https://anchor.fm/s/3bcc4b70/podcast/play/61848556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-7%2F670ce1b4-269b-ee6f-b988-5479a2d9ec14.mp3",
+            "length": "54704128",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "a57e62a4-073a-4f61-89e3-638d818c169a",
+          "author": "Canadian Food Inspection Agency",
+          "description": "Earlier this year, we asked for your questions. This podcast, we answer them! We reached out to experts across the country to get answers about travelling with food, alcohol labelling, pet food, chicken hatcheries, allergen recalls and much more.",
+          "link": "https://podcasters.spotify.com/pod/show/cfia/episodes/You-asked--we-answer-e1q38vh",
+          "publishedOn": "2022-11-02T10:00:07.000Z",
+          "wordCount": null,
+          "title": "You asked, we answer",
+          "itunes": {
+            "duration": "00:23:51"
+          },
+          "enclosure": {
+            "url": "https://anchor.fm/s/3bcc4b70/podcast/play/59924913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-1%2Ff4610bbd-ee2a-9fdb-a6ac-61bd12005cfc.mp3",
+            "length": "57280512",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "b65ad5a3-70a7-4eed-a5fa-62b52248b01f",
+          "author": "Canadian Food Inspection Agency",
+          "description": "There’s a sticky situation out there. In this podcast, we discuss honey adulteration with Jake Berg, a Saskatchewanian beekeeper, and Carmen Leung, a policy and program leader at the CFIA.\nThis episode is a collaboration on adulterated honey with Agriculture and Agri-Food Canada’s podcast, The First Sixteen. Bee sure to catch their episode as well: \nhttps://agriculture.agr.gc.ca/en/agri-info/first-sixteen-podcast/first-sixteen-podcast-ep-021",
+          "link": "https://podcasters.spotify.com/pod/show/cfia/episodes/Feeling-the-sting-the-impact-of-honey-fraud-on-beekeepers-e1k8puh",
+          "publishedOn": "2022-06-22T07:00:38.000Z",
+          "wordCount": null,
+          "title": "Feeling the sting: the impact of honey fraud on beekeepers",
+          "itunes": {
+            "duration": "00:25:44"
+          },
+          "enclosure": {
+            "url": "https://anchor.fm/s/3bcc4b70/podcast/play/53814673/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-21%2F731e6bb1-7c98-fa7a-f857-12941ac6c256.mp3",
+            "length": "61794304",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Canadian IP voices",
       "feedUrl": "https://feeds.simplecast.com/Zd3oeWec",
       "siteUrl": "https://canadian-ip-voices.simplecast.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "ba3301d5-9a98-4b25-af67-1fb88a170000",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (The Canadian Intellectual Property Office)",
+          "description": "Vincent de Grandpré, lawyer and trademark agent at Bennett Jones and member of IPIC’s Committee for Indigenous IP explains the intersection between intellectual property law and the protection of Indigenous knowledge and cultural expressions. \n \nExplore online: \n\nIndigenous peoples and intellectual property (canada.ca)\nIndigenous Bar Association\nImplementing the United Nations Declaration on the Rights of Indigenous People Act (justice.gc.ca)\nIndigenous Traditional Knowledge (ipic.ca)",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/exploring-the-intersection-between-ip-law-and-the-protection-of-indigenous-knowledge-and-cultural-expressions-6_dwPtEd",
+          "publishedOn": "2024-06-07T04:00:00.000Z",
+          "wordCount": null,
+          "title": "Exploring the intersection between IP law and the protection of Indigenous knowledge and cultural expressions.",
+          "itunes": {
+            "duration": "00:22:11"
+          },
+          "enclosure": {
+            "length": "21308944",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/7dc0fbc6-bf76-42af-9a5a-54b585cf7862/audio/6d7173e5-5d2c-40ed-9eac-97249d398041/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "5f4813ba-7749-4ec4-be87-eea99783dc79",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (CPATA, College of Patent Agents & Trademark Agents, Canadian Intellectual Property Office, CIPO)",
+          "description": "Juda Strawczynski, CEO and Registrar of the College of Patent Agents and Trademark Agents (CPATA) explains how CPATA regulates the IP agent profession, ensuring that patent agents and trademark agents deliver accessible, ethical and expert IP services in Canada.\nExplore online:\n\nCPATA Public Register\nCPATA Code of Professional Conduct",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/how-the-ip-agent-profession-is-regulated-2LEqe6Zv",
+          "publishedOn": "2024-05-01T04:00:00.000Z",
+          "wordCount": null,
+          "title": "How the IP agent profession is regulated",
+          "itunes": {
+            "duration": "00:25:31"
+          },
+          "enclosure": {
+            "length": "24510512",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/bd69a14a-17bb-4f9d-b562-95a58d2d0cb5/audio/0b43c574-3324-4a8e-8017-28381ef6786b/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "dd1733fd-2bbd-4289-add8-2d628f00c946",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (Canadian Bureau of Competition, Canadian Intellectual Property Office)",
+          "description": "Alan Gunderson, senior economist and coordinator at the Economic Analysis Directorate at the Competition Bureau explains the Bureau’s mandate and actions when it comes to intellectual property.\nExplore online:\n\nIntellectual Property Enforcement Guidelines",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/what-innovators-need-to-know-about-the-competition-bureau-Tjj37JmI",
+          "publishedOn": "2024-04-03T04:00:00.000Z",
+          "wordCount": null,
+          "title": "What innovators need to know about the Competition Bureau",
+          "itunes": {
+            "duration": "00:28:01"
+          },
+          "enclosure": {
+            "length": "26899564",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/02a3fbe4-ec94-454b-8f88-e8e915b5d2ff/audio/c37de1ae-aee8-45d2-8983-0032d1bf6350/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "a5f3cf7c-bc9e-490d-896f-54b5b55faffb",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (Canada Revenue Agency, The Canadian Intellectual Property Office)",
+          "description": "David Arsenault, Atlantic Regional Manager for the Canada Revenue Agency's Scientific Research and Experimental Development (SR&ED) Tax Incentive Program, demystifies the parallel worlds of R&D and IP from an SR&ED tax incentive program perspective.\nExplore online:\n\nSR&ED tax incentives\nSelf-Assessment and Learning Tool\nSR&ED outreach program\nRequest a free telephone consultation with an SR&ED specialist\nIncome Tax Folio S3-F4-C1, General Discussion of Capital Cost Allowance\nConsultation Paper: Scientific Research and Experimental Development\nConsultation Paper: Creating a Patent Box Regime\n\nLearn more about SR&ED eligibility guidelines:\n\nT4088 SR&ED Guide to Form T661",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/how-does-ip-fit-into-the-world-of-scientific-research-and-experimental-development-KJ3yT3ka",
+          "publishedOn": "2024-03-06T05:00:00.000Z",
+          "wordCount": null,
+          "title": "How does IP fit into the world of scientific research and experimental development?",
+          "itunes": {
+            "duration": "00:30:25"
+          },
+          "enclosure": {
+            "length": "29205863",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/6265bedc-d3df-40c7-9411-c6d07ad4f1b0/audio/3340bdc5-461c-4494-adfb-af6b9b0f8ac1/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "884fbfbc-c860-480b-97ed-6f5e7649ad17",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (Innovation Science and Economic Development, The Canadian Intellectual Property Office)",
+          "description": "Grant Lynds, a senior advisor on IP matters from the IP Centre of Expertise, sheds light on the role of this group and how IP considerations are addressed in government funding agreements.\nExplore online:\n\nCanadian Intellectual Property Office\nIntellectual Property Centre of Expertise\nCollege of Patent Agents and Trademark Agents\nIntellectual Property Institute of Canada",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/how-is-ip-managed-when-the-government-funds-you-to-innovate-aRVGrLgS",
+          "publishedOn": "2024-02-07T05:00:00.000Z",
+          "wordCount": null,
+          "title": "How is I.P. managed when the government funds you to innovate?",
+          "itunes": {
+            "duration": "00:23:23"
+          },
+          "enclosure": {
+            "length": "22457496",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/20c31a1c-db5a-412a-b3ba-491785c9bc33/audio/bee94fe0-fca0-47bc-a1c5-3652044a3ba8/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "972a05df-1932-45da-a075-b268d417ee61",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (Kiriakoula Hatzikiriakos, The Canadian Intellectual Property Office)",
+          "description": "Kiriakoula Hatzikiriakos, Manager-Senior Legal Counsel in the Commercial/International sector of Legal Affairs at the National Bank of Canada, explains the rules and challenges of using IP as a collateral for funding.\nExplore online:\n\nBLOG | koulah\nIntellectual Property-Backed Financing | BDC.ca",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/how-to-use-ip-for-financing-nb8uhvQ3",
+          "publishedOn": "2024-01-03T05:00:00.000Z",
+          "wordCount": null,
+          "title": "How to use IP for financing",
+          "itunes": {
+            "duration": "00:43:45"
+          },
+          "enclosure": {
+            "length": "42015895",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/369110f5-cf4d-4e8e-9d37-0cc4c5ca985b/audio/ffa4c314-a796-4f53-abe7-76948c336375/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "fcdf19a7-b9c5-4827-97b3-aa4f30205caa",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (Sylvain Roy, The Canadian Intellectual Property Office)",
+          "description": "Lawyer and IP expert Sylvain Roy discusses key considerations in IP valuation.\nExplore online: \n\nIntellectual property valuation\nValuing Intellectual Property Assets",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/how-do-you-know-what-your-ip-is-worth-_sKkcvzv",
+          "publishedOn": "2023-12-06T05:00:00.000Z",
+          "wordCount": null,
+          "title": "How do you know what your I.P. is worth?",
+          "itunes": {
+            "duration": "00:25:32"
+          },
+          "enclosure": {
+            "length": "24527646",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/b6aa68ae-3fab-4b9d-ad05-1cf3873538f3/audio/23686733-12b4-457f-8cee-7c3b75b18ce7/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "ab8c6b49-0f18-4ae1-808f-43b8a9e3ff4b",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (Elizabeth Dipchand, Canadian Intellectual Property Office)",
+          "description": "Seasoned IP litigator, Elizabeth Dipchand, unravels the intricacies and importance of protecting unregistered intellectual assets, managing relationships, documenting agreements and navigating the nuanced landscape where registered and unregistered rights intersect.\nExplore online:\n\nProtect new ideas and creations\nProve who owns new ideas and creations",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/how-to-protect-things-that-arent-formal-ip-rights-NumXqqc0",
+          "publishedOn": "2023-11-01T04:00:00.000Z",
+          "wordCount": null,
+          "title": "How to protect things that aren't formal IP rights",
+          "itunes": {
+            "duration": "00:23:32"
+          },
+          "enclosure": {
+            "length": "22598765",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/581deb0d-1452-432c-8386-66a204ec815a/audio/4f967d54-2591-4e68-9d0f-3622538d16e5/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "45b0693e-3ebb-430a-8d23-23c3f6969c42",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (Daniel Lamarre, The Canadian Intellectual Property Office)",
+          "description": "Daniel Lamarre, Executive Vice Chairman of the Board, Cirque du Soleil Entertainment Group, explains the critical role IP played for Cirque du Soleil during the pandemic.\nExplore online:\n\nSample of the brands of the Cirque du Soleil\nBalancing Acts: Unleashing the Power of Creativity in Your Life and Work, by Daniel Lamarre",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/how-ip-saved-the-canadian-icon-cirque-du-soleil-Pi9qqByy",
+          "publishedOn": "2023-10-04T04:00:00.000Z",
+          "wordCount": null,
+          "title": "How IP saved the Canadian icon Cirque du Soleil",
+          "itunes": {
+            "duration": "00:12:29"
+          },
+          "enclosure": {
+            "length": "11999738",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/b5836be0-93bd-42a9-b50c-60d93f160475/audio/6e00ad9e-cc09-44d9-bc8c-cc9e45e4ed43/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "27e270de-97a7-4a42-b997-b9cd0c2c7c94",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (André Gallant, The Canadian Intellectual Property Office)",
+          "description": "André Gallant, one of CIPO's IP advisors, talks about how IP advisors break myths and highlights opportunities and risks around IP and IP protection.\nExplore online:\n\nContact CIPO IP advisors",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/why-ip-is-important-insights-from-an-ip-advisor-3UrQd1Bo",
+          "publishedOn": "2023-09-06T04:00:00.000Z",
+          "wordCount": null,
+          "title": "Why IP is important: Insights from an IP advisor",
+          "itunes": {
+            "duration": "00:28:43"
+          },
+          "enclosure": {
+            "length": "27574989",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/9aa6a018-a7fd-4d78-9ba6-22ba64364cc6/audio/ddce3256-f0f1-4587-95e6-d09597b3bfde/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "32f1713c-b5e1-4fa7-a5f1-d63887500554",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (Gowling, Canadian Intellectual Property Office)",
+          "description": "Anthony Dearden explains how the new unitary patent and Unified Patent Court in Europe will work and shares some key considerations for anyone applying for patents in Europe.\nExplore online:\n\nGuide to the Unified Patent Court (UPC) | Gowling WLG\nUnitary Patent – European Patent Office",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/how-the-unitary-patent-and-the-unified-patent-court-work-l3steAm3",
+          "publishedOn": "2023-07-05T04:00:00.000Z",
+          "wordCount": null,
+          "title": "How the unitary patent and the Unified Patent Court work",
+          "itunes": {
+            "duration": "00:25:18"
+          },
+          "enclosure": {
+            "length": "24297364",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/d97b20f0-5eec-4ec3-b178-41f2889ff672/audio/1666198f-8284-4e5d-b428-afc8b9582d9e/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "3d0ea191-8332-4f8b-afd5-3b6fb150a98b",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (Canadian Intellectual Property Office)",
+          "description": "Dominique Lambert, Patent agent at Bereskin & Parr explains how the provisional patent in the US works and how to apply for patent protection abroad using the PCT. \n \nExplore online: Provisional Application for Patent | USPTO (English only)",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/how-to-apply-for-a-patent-in-the-us-and-other-countries-mYV_vbuK",
+          "publishedOn": "2023-06-07T04:00:00.000Z",
+          "wordCount": null,
+          "title": "How to apply for a patent in the U.S. and other countries.",
+          "itunes": {
+            "duration": "00:21:39"
+          },
+          "enclosure": {
+            "length": "20787758",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/16a7110b-97cd-46b8-985d-d82e83eeb324/audio/3425cd1d-1050-466e-aeff-302a29a064ad/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "ca5eac4f-008b-43b8-9cd3-4587e255323e",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (Louis Carbonneau, Canadian Intellectual Property Office)",
+          "description": "Louis Carbonneau, patent broker who evaluates hundreds of patents for clients each year shares some tips and tricks on where to spend the money to ensure you file for valuable IP rights. \nExplore online: \nLouis Carbonneau’s blog\n \n(English only)",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/how-not-to-spend-money-on-bad-patents-WQDakG_k",
+          "publishedOn": "2023-05-03T04:00:00.000Z",
+          "wordCount": null,
+          "title": "How not to spend money on bad patents",
+          "itunes": {
+            "duration": "00:38:06"
+          },
+          "enclosure": {
+            "length": "36590376",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/ad3d73fe-7565-4948-abb1-943f0af04615/audio/1d8d173b-f65c-4e2a-be2e-d02e7640ad64/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "57215d48-582d-49ea-80ef-a5a999755c35",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (Guillaume Lavoie Ste-Marie, Canadian Intellectual Property Office)",
+          "description": "Guillaume Lavoie Ste-Marie, copyright, patent and trademark litigator and principal at Smart & Biggar in Montreal, talks about ChatGPT, intellectual property (IP) tips and traps that artificial intelligence (AI) users should be aware of before creating works with AI—and if using AI to answer IP questions is a good idea.",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/who-owns-ai-generated-creations-and-why-you-should-care-ZPe51mNa",
+          "publishedOn": "2023-03-01T05:00:00.000Z",
+          "wordCount": null,
+          "title": "Who owns AI-generated creations (and why you should care)",
+          "itunes": {
+            "duration": "00:31:53"
+          },
+          "enclosure": {
+            "length": "30621495",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/0e5ddbb2-d3da-4569-a3b6-4d5cfe65040b/audio/7231b4f5-a099-46d9-8e43-e04501632e90/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "c68137a4-cf51-4ced-bf32-77d853e3f438",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (Canadian Intellectual Property Office)",
+          "description": "Robert Guay, director of IP at Shopify, shares some ideas and insights on how to think like a pro when it comes to patents.\nExplore online:\n\nPlan for success – Build an IP strategy",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/is-your-ip-future-proof-how-to-think-like-an-in-house-ip-counsel-JRDPNKwy",
+          "publishedOn": "2023-02-01T05:00:00.000Z",
+          "wordCount": null,
+          "title": "Is your IP future-proof? How to think like an in-house IP counsel",
+          "itunes": {
+            "duration": "00:17:06"
+          },
+          "enclosure": {
+            "length": "16424685",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/2b0141e0-d22e-4a18-8e94-d23f5e58b9f5/audio/e0ed115e-496f-4b6b-80f9-4a1249f2efc7/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "7911ec6f-9b5c-449e-942f-b791c219416c",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (Point Cardinal, CIPO)",
+          "description": "Johanne Boivin, expert advisor at Point Cardinal and former CEO or Executive Vice-President shares her story how IP saved her business.\nExplore online :\nLearn about IP",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/how-ip-rights-saved-my-business-WYQDyrSs",
+          "publishedOn": "2023-01-04T05:00:00.000Z",
+          "wordCount": null,
+          "title": "How IP rights saved my business",
+          "itunes": {
+            "duration": "00:12:41"
+          },
+          "enclosure": {
+            "length": "12179050",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/1c1f149a-72c8-4d08-a2b6-8ab8e24cf9b0/audio/d97ae5a5-245c-4425-b722-954fe3635d0c/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "7f9de9c0-3238-4aaa-958d-535b71b43472",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (FIFA, Raed AlHout, Julie Jones, CIPO)",
+          "description": "Julie Jones and Raed AlHout explain how the FIFA head office in Switzerland and officials in Qatar protect FIFA IP assets before and during the World Cup.\nExplore online: \nFIFA Intellectual Property Guidelines",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/fifa-world-cup-special-how-fifa-protects-its-intellectual-property-d0ihJoDR",
+          "publishedOn": "2022-12-07T05:00:00.000Z",
+          "wordCount": null,
+          "title": "FIFA World Cup special: How FIFA protects its intellectual property",
+          "itunes": {
+            "duration": "00:20:45"
+          },
+          "enclosure": {
+            "length": "19998336",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/913d15c4-ce79-4733-bbbc-e38c38a5158a/audio/eee3dbcf-c288-4643-81e3-27200085bcd1/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "0617f558-97ad-47cb-8260-481324ff59bd",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (James Plotkin, CIPO, Corporations Canada)",
+          "description": "Martin Lacelle from Corporations Canada and lawyer James Plotkin clarify the differences between and importance of legal/trade/brand/domain names.\nExplore online:\n\nCorporations Canada\nIncorporating in a specific province or territory\nFiling for a trademark with the Canadian Intellectual Property Office\nCanadian Internet Registration Authority",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/what-is-the-difference-between-a-corporation-name-trade-name-brand-name-and-domain-name-8ahjiPVK",
+          "publishedOn": "2022-11-02T04:00:00.000Z",
+          "wordCount": null,
+          "title": "What is the difference between a corporation name, trade name, brand name and domain name?",
+          "itunes": {
+            "duration": "00:23:53"
+          },
+          "enclosure": {
+            "length": "22997412",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/6c89ef65-b386-461c-bbc4-8e7c9ae96897/audio/14451807-10ed-4c0e-ad21-65c3476d1d43/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "9f1c96a4-d660-4816-91ce-6632a3538eda",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (Josée Pharand, ventureLAB)",
+          "description": "Josée Pharand, Director of IP Programs and Policies at ventureLAB, explains how ventureLAB supports innovators and their IP in the Canadian innovation ecosystem. Tune in for a discussion about choosing between patents and trade secrets, and learn how many accelerators and incubators help companies grow without asking for any stake in their IP, equity or future revenues.\nDiscover online: https://www.venturelab.ca/news/intellectual-property-101",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/how-do-incubators-accelerators-support-innovators-and-their-ip-6wiuPD_f",
+          "publishedOn": "2022-10-05T04:00:00.000Z",
+          "wordCount": null,
+          "title": "How do incubators/accelerators support innovators and their IP?",
+          "itunes": {
+            "duration": "00:20:06"
+          },
+          "enclosure": {
+            "length": "19364511",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/4ddf8938-0863-4fe5-a4b4-60d8890f850e/audio/3f72abaa-88e9-48e4-9316-9a2901f60bef/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "7b19c1eb-3b25-4680-b4cc-1941992d0eec",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (The Canadian Intellectual Property Office)",
+          "description": "Brigitte Chan, lawyer and trademark agent discusses  what the IP professionals are observing as real brands are going virtual in a fictional universe; the metaverse.\n \nDiscover online: \nThe IP Metaverse Series: Part I: Brands are Plugging in and Cashing in - Protecting Trademarks and Copyright in Virtual Goods and Services\nPart II: IP Metaverse Series - Part II: Patent Considerations\n \nThe IP Metaverse Series -– Part II: Patent Considerations",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/how-traditional-brands-and-ip-rights-are-entering-the-metaverse-nRvjjt1y",
+          "publishedOn": "2022-06-22T04:00:00.000Z",
+          "wordCount": null,
+          "title": "How  traditional brands and IP rights are entering the metaverse",
+          "itunes": {
+            "duration": "00:20:47"
+          },
+          "enclosure": {
+            "length": "20022797",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/4f35e3e7-db4f-4abc-ab86-f75c6cee051e/audio/c2a53bf7-778c-4d88-8890-9a39999a150b/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "697fd7d7-f96e-4c85-ad69-dc3679269d1b",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (The Canadian Intellectual Property Office, Anthony Parker)",
+          "description": "Anthony Parker, Commissioner of the Plant Breeders' Rights Office within the Canadian Food Inspection Agency, explains the development of plant breeders' rights, how they are examined and how they function in Canada.\nExplore online:\nPlant Breeders' Rights... What are they?\nPlant Breeders' Rights Office",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/how-plant-breeders-rights-are-protected-in-canada-ltdEZjrz",
+          "publishedOn": "2022-06-08T04:00:00.000Z",
+          "wordCount": null,
+          "title": "How plant breeders’ rights are protected in Canada",
+          "itunes": {
+            "duration": "00:31:07"
+          },
+          "enclosure": {
+            "length": "29943476",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/e73b6ece-1938-4610-9664-fea09ba457ec/audio/865f32f8-77f5-4c9a-b21c-e8ff40ffb891/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "e2d845ad-2379-4ed7-9efa-87126177ff5e",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (The Canadian Intellectual Property Office)",
+          "description": "Julie MacDonell, Co-founder and CEO of Haloo discusses the importance of trademarks and how artificial intelligence is used at Haloo to partially replace manual searching in the trademark registration application process.\nExplore online:\nLearn more about trademarks and what the rules are concerning what can and cannot be registered at \nwww.cipo.gc.ca/tm-guide",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/powered-by-haloo-how-artificial-intelligence-systems-can-be-used-to-prepare-trademark-registration-applications-7z20x5UQ",
+          "publishedOn": "2022-05-25T04:00:00.000Z",
+          "wordCount": null,
+          "title": "Powered by Haloo: How artificial intelligence systems can be used to prepare trademark registration applications",
+          "itunes": {
+            "duration": "00:25:56"
+          },
+          "enclosure": {
+            "length": "24969761",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/3bf094fc-c92e-4e98-84e5-6c238c5d6c64/audio/5258188f-98a5-4e70-a336-403e46921f95/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Putting Pay Equity into Practice / Mettre l'équité salariale en pratique",
       "feedUrl": "https://feeds.simplecast.com/6dg_HLOh",
       "siteUrl": "https://putting-pay-equity-into-practice.simplecast.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "013544b0-e8a1-4f28-8ebc-c5072bb3e22c",
+          "author": "payequity-equitesalariale@chrc-ccdp.gc.ca (Teamsters Canada)",
+          "description": "In this episode, the Pay Equity Unit speaks with Mariam Abou-Dib, from Teamsters, to discuss the important role unions play in promoting pay equity within the road transportation sector and in driving positive change. By uniting for equality, the road transportation sector can continue to flourish as a crucial pillar of the global economy, benefiting workers and businesses alike.",
+          "link": "https://putting-pay-equity-into-practice.simplecast.com/episodes/driving-change-paving-the-way-for-fair-pay-in-road-transportation-jIxUS059",
+          "publishedOn": "2023-09-05T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Driving Change: Paving the Way for Fair Pay in Road Transportation with Mariam Abou-Dib",
+          "itunes": {
+            "duration": "00:16:46"
+          },
+          "enclosure": {
+            "length": "16097441",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/753dbe06-828b-472f-a0cb-4232711d1138/episodes/5c9b3de3-026f-429a-8ff6-2a89dd9ed748/audio/116ee651-ad33-4bf4-9b80-277b4aa42a79/default_tc.mp3?aid=rss_feed&feed=6dg_HLOh"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "3a93f3cf-0d50-4e02-9383-24f3f4b89eba",
+          "author": "payequity-equitesalariale@chrc-ccdp.gc.ca (Association du camionnage du Québec)",
+          "description": "Dans cet épisode, l’Unité de l’équité salariale accueille Josyanne Pierrat de l’Association du camionnage du Québec pour discuter de l’équité salariale dans le secteur des transports. En mettant l’accent sur les industries du camionnage et de la logistique, l’épisode met en lumière les disparités existantes entre les femmes et les hommes, les défis liés à la surrèglementation, la pénurie de main-d'œuvre et le manque de représentation des femmes dans l’industrie.",
+          "link": "https://putting-pay-equity-into-practice.simplecast.com/episodes/lautoroute-de-lequite-salariale-explorer-les-opportunites-et-les-defis-dans-lindustrie-du-camionnage-mQF7oxgm",
+          "publishedOn": "2023-08-28T12:00:00.000Z",
+          "wordCount": null,
+          "title": "L'autoroute de l'équité salariale: Explorer les opportunités et les défis dans l'industrie du camionnage avec Josyanne Pierrat",
+          "itunes": {
+            "duration": "00:17:35"
+          },
+          "enclosure": {
+            "length": "16896163",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/753dbe06-828b-472f-a0cb-4232711d1138/episodes/0aff564a-fc87-4ee2-910c-d394e466aeaf/audio/402aed2b-0210-40f0-932e-ed5e949f218a/default_tc.mp3?aid=rss_feed&feed=6dg_HLOh"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "aed297ef-721a-44b6-b0e6-992411848030",
+          "author": "payequity-equitesalariale@chrc-ccdp.gc.ca (Trucking HR Canada)",
+          "description": "In this episode, the Pay Equity Unit meets with Craig Faucette from Trucking HR Canada to discuss some of the challenges of implementing the new Pay Equity Act in the trucking industry. We also discuss the positive impacts of achieving pay equity and how fair compensation practices can result in workplaces with improved employee satisfaction, reduced turnover, and enhanced productivity.",
+          "link": "https://putting-pay-equity-into-practice.simplecast.com/episodes/breaking-barriers-the-road-to-pay-equity-in-the-trucking-sector-YjbDp5mH",
+          "publishedOn": "2023-08-21T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Breaking Barriers: The Road to Pay Equity in the Trucking Sector with Craig Faucette",
+          "itunes": {
+            "duration": "00:19:09"
+          },
+          "enclosure": {
+            "length": "18399948",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/753dbe06-828b-472f-a0cb-4232711d1138/episodes/3183ae08-2242-4725-a80e-afd3a5016f53/audio/647a34a2-9718-484f-83a7-a10f6ee29e19/default_tc.mp3?aid=rss_feed&feed=6dg_HLOh"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "00e2ce99-5f9f-40ad-91a8-60b21cfd5fd0",
+          "author": "payequity-equitesalariale@chrc-ccdp.gc.ca (Canadian Human Rights Commission)",
+          "description": "“Putting Pay Equity into Practice” brings together experts and industry leaders in pay equity to help Canadian workplaces bridge the gender wage gap. Tune in to learn how you can champion pay equity in your organization.",
+          "link": "https://putting-pay-equity-into-practice.simplecast.com/episodes/english-teaser-bKK6cAzB",
+          "publishedOn": "2023-08-17T16:00:00.000Z",
+          "wordCount": null,
+          "title": "English Teaser",
+          "itunes": {
+            "duration": "00:00:52"
+          },
+          "enclosure": {
+            "length": "841512",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/753dbe06-828b-472f-a0cb-4232711d1138/episodes/ccca3fe8-bd52-4998-9ae2-ea43b11d59f4/audio/58989864-cb82-4974-8486-841db92c03af/default_tc.mp3?aid=rss_feed&feed=6dg_HLOh"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "d7bfaefb-a34e-4431-90f9-5882ff40624e",
+          "author": "payequity-equitesalariale@chrc-ccdp.gc.ca (Canadian Human Rights Commission)",
+          "description": "« Mettre l'équité salariale en pratique » réunit des experts et des leaders du secteur de l'équité salariale afin d'aider les entreprises canadiennes à combler l'écart salarial entre les hommes et les femmes. Soyez à l'écoute pour apprendre comment vous pouvez soutenir l'équité salariale au sein de votre organisation.",
+          "link": "https://putting-pay-equity-into-practice.simplecast.com/episodes/bande-annonce-francaise-n4QFQji3",
+          "publishedOn": "2023-08-17T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Bande-annonce française",
+          "itunes": {
+            "duration": "00:00:58"
+          },
+          "enclosure": {
+            "length": "940151",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/753dbe06-828b-472f-a0cb-4232711d1138/episodes/d6883c7f-b876-4a66-8dad-7a59ceb23fa3/audio/ec0e5e55-508d-4754-8151-52e2c4c8dd01/default_tc.mp3?aid=rss_feed&feed=6dg_HLOh"
+          },
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Simply Science",
       "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:269783479/sounds.rss",
       "siteUrl": "https://www.nrcan.gc.ca/simply-science",
-      "articles": []
+      "articles": [
+        {
+          "id": "tag:soundcloud,2010:tracks/1836700347",
+          "author": null,
+          "description": "In this episode, we’re going to explore the world of urban forests and hear about how they can transform concrete jungles into vibrant livable spaces. We reached out to a couple of experts from the Canadian Forest Service to talk about the ins and outs of urban forest management. This episode is also a double feature, with our friends from the Statistics Canada podcast “Eh-sayers” talking about the ironies of data when it comes to the environment. Both stories share a common theme: “it’s not easy being green.”\n\nRecommended Links:\n•\tWhat trees should I plant in an urban forest? (Simply Science Video) – https://www.youtube.com/watch?v=paRluAdUiAw \n•\tMore Trees to Plant in an Urban Forest (Simply Science Video) – https://www.youtube.com/watch?v=bhq3O15LKZw \n•\tDownload the My Tree app! (NRCan App) – https://natural-resources.canada.ca/our-natural-resources/forests/sustainable-forest-management/my-tree/19974",
+          "link": "https://soundcloud.com/nrcan/whats-an-urban-forest",
+          "publishedOn": "2024-06-06T13:00:01.000Z",
+          "wordCount": null,
+          "title": "What’s an urban forest?",
+          "itunes": {
+            "duration": "00:50:14"
+          },
+          "enclosure": {
+            "type": "audio/mpeg",
+            "url": "https://feeds.soundcloud.com/stream/1836700347-nrcan-whats-an-urban-forest.mp3",
+            "length": "72361681"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "tag:soundcloud,2010:tracks/1769171136",
+          "author": null,
+          "description": "There seems to be a lot of excitement about natural hydrogen lately. But why is the level of interest peaking now? Could it be part of the solution to the climate crisis? Is it the environmentally friendly game changer everyone is looking for? Or not? To answer those questions and more, we reached out to one of our hydrogen experts, as well as a scientist from the University of Toronto.\n\nRecommended Links:\n•\tCleaner Digging with Hydrogen  - https://natural-resources.canada.ca/simply-science/cleaner-digging-hydrogen/21757 \n•\tThe Hydrogen Strategy - https://natural-resources.canada.ca/climate-change/canadas-green-future/the-hydrogen-strategy/23080",
+          "link": "https://soundcloud.com/nrcan/is-natural-hydrogen-the-solution",
+          "publishedOn": "2024-03-11T13:00:03.000Z",
+          "wordCount": null,
+          "title": "Is natural hydrogen the solution?",
+          "itunes": {
+            "duration": "00:40:46"
+          },
+          "enclosure": {
+            "type": "audio/mpeg",
+            "url": "https://feeds.soundcloud.com/stream/1769171136-nrcan-is-natural-hydrogen-the-solution.mp3",
+            "length": "58735296"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "tag:soundcloud,2010:tracks/1620053343",
+          "author": null,
+          "description": "We, as human beings, find ourselves in a challenging situation when it comes to carbon emissions. Almost everything we do in our modern lives produces carbon emissions, which impact the very environment we live in. Is it possible to maintain our quality of life AND reduce our carbon emissions? Our scientists are working hard to address that issue. Listen to find out how.\n\nRecommended Links:\n•\tCarbon Management (Natural Resources Canada) - https://natural-resources.canada.ca/our-natural-resources/energy-sources-distribution/carbon-management/4275 \n•\tEnvironment and Climate Change Canada - https://www.canada.ca/en/environment-climate-change.html \n•\tMission Innovation - http://mission-innovation.net/\n\nSimply Science Website: www.nrcan.gc.ca/simply-science \nSimply Science YouTube Channel: https://gate.sc/?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCNbgD_ZfyM6lh1KbemOKfeg%3Fview_as%3Dsubscriber%253Fsub_confirmation%253D1&token=5be173-1-1594998865448\nSimply Science on Twitter: https://twitter.com/NRCanScience\nSimply Science on Facebook: https://www.facebook.com/Simply-Science-580046026023390\nSimply Science on Instagram: https://www.instagram.com/simplysciencenrcan/\nSimply Science on LinkedIn: http://www.linkedin.com/company/natural-resources-canada",
+          "link": "https://soundcloud.com/nrcan/managing-our-carbon-emissions",
+          "publishedOn": "2023-09-27T13:00:36.000Z",
+          "wordCount": null,
+          "title": "Managing our Carbon Emissions",
+          "itunes": {
+            "duration": "00:22:57"
+          },
+          "enclosure": {
+            "type": "audio/mpeg",
+            "url": "https://feeds.soundcloud.com/stream/1620053343-nrcan-managing-our-carbon-emissions.mp3",
+            "length": "33080113"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "tag:soundcloud,2010:tracks/1537893031",
+          "author": null,
+          "description": "We all know metals like gold, copper and nickel are essential to our way of life. Metals are used in just about everything. So how do we make sure that we have a continuous supply of these metals? How do you find new ore deposits to make sure we meet future demand? Our scientists are working hard to specifically address that issue. Listen to find out how.\n\nRecommended Links:\n•\tGeological Survey of Canada - https://natural-resources.canada.ca/science-and-data/research-centres-and-labs/geological-survey-canada/17100 \n•\tGeoscientists Canada - https://geoscientistscanada.ca/ \n•\tProspector and Developers Association of Canada - https://www.pdac.ca/ \n•\tQuebec Mineral Exploration Association - https://aemq.org/en/\n\nSimply Science Website: www.nrcan.gc.ca/simply-science \nSimply Science YouTube Channel: https://gate.sc/?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCNbgD_ZfyM6lh1KbemOKfeg%3Fview_as%3Dsubscriber%253Fsub_confirmation%253D1&token=5be173-1-1594998865448\nSimply Science on Twitter: https://twitter.com/NRCanScience\nSimply Science on Facebook: https://www.facebook.com/Simply-Science-580046026023390\nSimply Science on Instagram: https://www.instagram.com/simplysciencenrcan/\nSimply Science on LinkedIn: http://www.linkedin.com/company/natural-resources-canada",
+          "link": "https://soundcloud.com/nrcan/the-gold-standard-of-mineral-exploration",
+          "publishedOn": "2023-06-13T13:00:09.000Z",
+          "wordCount": null,
+          "title": "The gold standard of mineral exploration",
+          "itunes": {
+            "duration": "00:31:55"
+          },
+          "enclosure": {
+            "type": "audio/mpeg",
+            "url": "https://feeds.soundcloud.com/stream/1537893031-nrcan-the-gold-standard-of-mineral-exploration.mp3",
+            "length": "45998999"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "tag:soundcloud,2010:tracks/1447027255",
+          "author": null,
+          "description": "There’s nothing quite like a Canadian winter. Majestic scenery, fun outdoor activities, and brutally cold days that cause your heating bill to skyrocket. Scientists and engineers at Natural Resources Canada believe a promising technology can help reduce your energy consumption, the heat pump. On this episode: What are heat pumps? How do they work? Why is everyone talking about them? Are they right for you? Listen to find out.\n\nRecommended Links:\n•\tHeating and Cooling With a Heat Pump - https://natural-resources.canada.ca/energy-efficiency/energy-star-canada/about/energy-star-announcements/publications/heating-and-cooling-heat-pump/6817 \n•\tAdapting Heat Pumps to Our Canadian Climate (Simply Science Video) - https://www.youtube.com/watch?v=276AP6Uh5nU \n•\tThe future of home heating: Hybrid home heating systems offer energy savings and reduce GHG emissions (Simply Science Article) - https://natural-resources.canada.ca/simply-science/the-future-home-heating-hybrid-home-heating-systems-offer-energy-savings-and-reduce-g/22236 \n\nSimply Science Website: www.nrcan.gc.ca/simply-science \nSimply Science YouTube Channel: https://gate.sc/?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCNbgD_ZfyM6lh1KbemOKfeg%3Fview_as%3Dsubscriber%253Fsub_confirmation%253D1&token=5be173-1-1594998865448\nSimply Science on Twitter: https://twitter.com/NRCanScience\nSimply Science on Facebook: https://www.facebook.com/Simply-Science-580046026023390\nSimply Science on Instagram: https://www.instagram.com/simplysciencenrcan/\nSimply Science on LinkedIn: http://www.linkedin.com/company/natural-resources-canada",
+          "link": "https://soundcloud.com/nrcan/a-heated-conversation-on-heat-pumps",
+          "publishedOn": "2023-02-21T18:00:27.000Z",
+          "wordCount": null,
+          "title": "A heated conversation on heat pumps",
+          "itunes": {
+            "duration": "00:18:34"
+          },
+          "enclosure": {
+            "type": "audio/mpeg",
+            "url": "https://feeds.soundcloud.com/stream/1447027255-nrcan-a-heated-conversation-on-heat-pumps.mp3",
+            "length": "26758056"
+          },
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "CCI and CHIN: In Our Words",
@@ -162,6 +2402,330 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
+        },
+        {
+          "id": "d3f3f1b3-3459-429f-bff7-1bcc8083ddaf",
+          "author": "Discover Library and Archives Canada",
+          "description": "Join us as we explore the extraordinary demands placed on sleeping car porters by rail companies and passengers while working aboard the hotel on wheels. We will also hear about the various ways these men resisted and rose above anti-Black racism. (Episode 3)\nTranscript\nNarrator Biographies",
+          "link": "https://share.transistor.fm/s/0f534256",
+          "publishedOn": "2024-12-12T17:10:17.000Z",
+          "wordCount": null,
+          "title": "Porter Talk #3: All Aboard the Hotel on Wheels",
+          "itunes": {
+            "duration": "2632"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/0f534256/68c42f58.mp3",
+            "length": "42148025",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "abe16f7c-2658-4768-bbbc-094395749262",
+          "author": "Discover Library and Archives Canada",
+          "description": "Join us as we delve into the dire working conditions porters experienced as they traversed the country aboard the hotel on wheels. (Episode 3 trailer)\nTranscript\nNarrator Biographies",
+          "link": "https://share.transistor.fm/s/ce4a9565",
+          "publishedOn": "2024-12-04T18:38:15.000Z",
+          "wordCount": null,
+          "title": "Porter Talk: Episode 3 Trailer",
+          "itunes": {
+            "duration": "54"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/ce4a9565/29f9fe00.mp3",
+            "length": "892052",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "12A3A9C9-8BDB-4D3D-B945-5C2EA0BFF66E",
+          "author": "Discover Library and Archives Canada",
+          "description": "Discover Library and Archives Canada presents “Porter Talk.” This mini-series explores the lived experiences of Black men who laboured as porters for both the Canadian National and Canadian Pacific Railways during the twentieth century. Stanley G. Grizzle, a Canadian Pacific Railway porter for twenty years as well as a celebrated activist, civil servant, and citizenship judge, was also an avid historian who went to great lengths to document and preserve Black History in Canada and beyond. His collection is now held at Library and Archives Canada. Join us as we explore who the porters were, where they came from, and how they found themselves on the rails. (Episode 2) \nTranscript\nNarrator Biographies",
+          "link": "https://share.transistor.fm/s/52bae4d3",
+          "publishedOn": "2024-10-10T13:49:39.000Z",
+          "wordCount": null,
+          "title": "Porter Talk #2: Who Were the Porters?",
+          "itunes": {
+            "duration": "2815"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/52bae4d3/151f8563.mp3",
+            "length": "45036996",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "03BDE169-9511-4C30-8A99-DAE71CF62BAA",
+          "author": "Discover Library and Archives Canada",
+          "description": "Discover Library and Archives Canada presents “Porter Talk.” This mini-series explores the lived experiences of Black men who laboured as porters for both the Canadian National and Canadian Pacific Railways during the twentieth century. Stanley G. Grizzle, a Canadian Pacific Railway porter for twenty years as well as a celebrated activist, civil servant, and citizenship judge, was also an avid historian who went to great lengths to document and preserve Black History in Canada and beyond. His collection is now held at Library and Archives Canada. Join us as we explore who the porters were, where they came from, and how they found themselves on the rails. (Episode 2 trailer) \nTranscript\nNarrator Biographies",
+          "link": "https://share.transistor.fm/s/958a8685",
+          "publishedOn": "2024-09-26T13:01:39.000Z",
+          "wordCount": null,
+          "title": "Porter Talk: Episode 2 Trailer",
+          "itunes": {
+            "duration": "54"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/958a8685/8cb11753.mp3",
+            "length": "858703",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "4E5D6216-6E83-4EC1-BF06-9604FEEF8EE0",
+          "author": "Discover Library and Archives Canada",
+          "description": "Discover Library and Archives Canada presents “Porter Talk.” This mini-series explores the lived experiences of Black men who laboured as porters for both the Canadian National and Canadian Pacific Railways during the twentieth century. Stanley G. Grizzle, a Canadian Pacific Railway porter for twenty years as well as a celebrated activist, civil servant, and citizenship judge, was also an avid historian who went to great lengths to document and preserve Black History in Canada and beyond. His collection is now held at Library and Archives Canada. Join us as we delve into the life of the man who recorded the stories of the porters working on the rails. (Episode 1) \nTranscript\nNarrator Biographies",
+          "link": "https://share.transistor.fm/s/483c1bfa",
+          "publishedOn": "2024-08-28T12:22:12.000Z",
+          "wordCount": null,
+          "title": "Porter Talk #1: Honouring Stanley G. Grizzle - An Activist For Our Times",
+          "itunes": {
+            "duration": "2799"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/483c1bfa/46a12ede.mp3",
+            "length": "44775389",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "93B266C9-63B3-4A7A-90BD-97D501EA7A05",
+          "author": "Discover Library and Archives Canada",
+          "description": "Discover Library and Archives Canada presents “Porter Talk.” This mini-series explores the lived experiences of Black men who laboured as porters for both the Canadian National and Canadian Pacific Railways during the twentieth century. Stanley G. Grizzle, a Canadian Pacific Railway porter for twenty years as well as a celebrated activist, civil servant, and citizenship judge, was also an avid historian who went to great lengths to document and preserve Black History in Canada and beyond. His collection is now held at Library and Archives Canada. Join us as we delve into the man who turned the microphone over to the porters to record their experiences working on the rails. (Episode 1 trailer)\nTranscript\nNarrator Biographies",
+          "link": "https://share.transistor.fm/s/69f33af4",
+          "publishedOn": "2024-08-21T19:11:58.000Z",
+          "wordCount": null,
+          "title": "Porter Talk: Episode 1 Trailer",
+          "itunes": {
+            "duration": "122"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/69f33af4/8a4d3c66.mp3",
+            "length": "1952502",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "07A30928-2DE6-4B23-9536-1672E250557A",
+          "author": "Discover Library and Archives Canada",
+          "description": "Discover Library and Archives Canada presents “Porter Talk.” This mini-series explores the lived experiences of Black men who laboured as porters for both the Canadian National and Canadian Pacific Railways during the twentieth century. Their voices, along with those of their wives and children, relay stories of both hardship and resilience. (Podcast series trailer)\nTranscript\nNarrator Biographies",
+          "link": "https://share.transistor.fm/s/fb5f3d58",
+          "publishedOn": "2024-08-14T17:42:21.000Z",
+          "wordCount": null,
+          "title": "Porter Talk: Trailer",
+          "itunes": {
+            "duration": "91"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/fb5f3d58/542042d8.mp3",
+            "length": "1453449",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "4438BE47-2608-412E-8122-BED1F29D7178",
+          "author": "Library and Archives Canada",
+          "description": "The hammering of the last spike into the Canadian Pacific Railway expanded access to the nation immeasurably, physically and symbolically connecting it from coast to coast. While seen as a victory in the dominant narrative of Canada, it served as a catalyst for the mass displacement of Indigenous peoples and the exploitation and even death of labourers involved in the construction of the railway. Join us as Marcelle Cinq-Mars delves into the historic image depicting this moment, and we reflect on the real human cost that was paid in the name of progress.",
+          "link": "https://share.transistor.fm/s/81acd6cf",
+          "publishedOn": "2024-04-17T21:14:03.000Z",
+          "wordCount": null,
+          "title": "Treasures Revealed: Episode 16",
+          "itunes": {
+            "duration": "943"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/81acd6cf/d5bc821b.mp3",
+            "length": "16343066",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "189C07E9-1C25-4BAD-9400-5A7BBE02C918",
+          "author": "Library and Archives Canada",
+          "description": "In this episode of Treasures Revealed we follow the journey of a rare document which is considered to be the first publication in English entirely about Canada, with the help of Senior Special Collections Librarian Meaghan Scanlon. Once carelessly discarded, this broadside is later discovered in an unrelated publication, miraculously preserved.",
+          "link": "https://share.transistor.fm/s/a0cd2d05",
+          "publishedOn": "2023-12-14T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Treasures Revealed: Episode 15",
+          "itunes": {
+            "duration": "695"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/a0cd2d05/66b1a19c.mp3",
+            "length": "11328649",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "6CF8D8B1-8BDC-4777-A7D9-2C6485DB1600",
+          "author": "Library and Archives Canada",
+          "description": "Did you know that 22% or roughly one in five Canadians under the age of 34 either hadn’t heard about the Holocaust, or were unsure if they had heard about the Holocaust? In this episode, Michael Kent delves into the significance of Raczyński’s Note, a Second World War publication regarded as the first official communication with the Western Hemisphere about the atrocities of the Holocaust.",
+          "link": "https://share.transistor.fm/s/93b22bdf",
+          "publishedOn": "2023-11-06T18:34:20.000Z",
+          "wordCount": null,
+          "title": "Treasures Revealed: Episode 14",
+          "itunes": {
+            "duration": "853"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/93b22bdf/eeb24b71.mp3",
+            "length": "13828204",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "156B026B-8C79-4F65-8FCB-F69463DFD49F",
+          "author": "Library and Archives Canada",
+          "description": "In this episode we speak with Steve Moore about the most successful silent film in Canadian history, Back to God’s Country – a lusty tale of jealousy, murder and betrayal starring trailblazer Nell Shipman, Canada’s first female director. Tune in to discover why the restoration of this film received international accolades and how it projected a light on the action heroine who co-wrote and starred in this groundbreaking film.",
+          "link": "https://share.transistor.fm/s/81394ed7",
+          "publishedOn": "2023-10-11T14:10:18.000Z",
+          "wordCount": null,
+          "title": "Treasures Revealed: Episode 13",
+          "itunes": {
+            "duration": "1081"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/81394ed7/b025e545.mp3",
+            "length": "17480153",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "37851E30-B12E-4762-9AF0-EDF8A3D3F38A",
+          "author": "Library and Archives Canada",
+          "description": "In this episode we speak with Krista Cooke about the curious absence of pregnant women in photos from the birth of photography in the 19th century up to the Second World War. Tune in to learn why the photo of Anna Jorosz Krista chose as her treasure is so remarkable!*re-edited version of previous release*",
+          "link": "https://share.transistor.fm/s/b28ed966",
+          "publishedOn": "2023-08-16T15:43:03.000Z",
+          "wordCount": null,
+          "title": "Treasures Revealed: Episode 12",
+          "itunes": {
+            "duration": "1429"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/b28ed966/a4d0156f.mp3",
+            "length": "23033784",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "A664979A-4ADB-4D2B-B3E3-223705B57A02",
+          "author": "Library and Archives Canada",
+          "description": "In celebration of National Parks Day we have partnered with our friends at Parks Canada and have featured an episode from their wonderful new history and archaeology podcast ReCollections, in our feed. Through the remarkable lives of Madam Ruby Scott and her employees, we'll hear about Dawson's Gold Rush heyday and the boom/bust cycle of both the mining and sex work industries. At the heart of the story is Ruby's Place, an elegant false-front building conserved as part of the Klondike National Historic Sites… despite the threats from climate change.",
+          "link": "https://share.transistor.fm/s/6ba0002b",
+          "publishedOn": "2023-07-12T13:49:37.000Z",
+          "wordCount": null,
+          "title": "Dawson City: A Ruby in the Rough",
+          "itunes": {
+            "duration": "2147"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/6ba0002b/f68dea80.mp3",
+            "length": "34415136",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "71275AE6-C1E8-47E4-9031-2F4A8A210C26",
+          "author": "Library and Archives Canada",
+          "description": "Robert Hood was only 24 in 1821, when he participated in the 1st of the infamous Franklin Expeditions. Hood was to take navigational, geographical and meteorological observations, and to make drawings of the land and of various objects of natural history. Unfortunately, Hood would not live to see his paintings published in Franklin’s account. In this episode LAC Archivist Shane McCord tells us about the tragic story of Robert Hood and the treasures he left behind, which are now part of the LAC collection.",
+          "link": "https://share.transistor.fm/s/5d274a4d",
+          "publishedOn": "2023-05-10T13:43:46.000Z",
+          "wordCount": null,
+          "title": "Treasures Revealed: Episode 11",
+          "itunes": {
+            "duration": "913"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/5d274a4d/edeea680.mp3",
+            "length": "14781661",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "12AF848A-8BA5-4AEF-A980-6BBC3D1F13AA",
+          "author": "Library and Archives Canada",
+          "description": "In the 9th episode of Treasures Revealed, LAC Curator Forrest Pass unravels the mystery of a Masonic tracing board dating back to the early 1800s.",
+          "link": "https://share.transistor.fm/s/45900a7c",
+          "publishedOn": "2023-01-18T16:16:36.000Z",
+          "wordCount": null,
+          "title": "Treasures Revealed: Episode 9",
+          "itunes": {
+            "duration": "1251"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/45900a7c/67de6767.mp3",
+            "length": "20183244",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "8A54F9C1-40A1-4BAE-AFBB-BFA7975810DB",
+          "author": "Library and Archives Canada",
+          "description": "In this episode of Treasures Revealed, Indigenous Research Archivist Elizabeth Montour relies on knowledge and instinct to decipher the story of a Kanienhkenha:ka woman she observes in a 19th century watercolour. As Elizabeth examines the painting, she imagines what life might have been like for her ancestors living in her home of Kahnawake, in a time of great transition.",
+          "link": "https://share.transistor.fm/s/5ae8a8ec",
+          "publishedOn": "2022-11-30T14:53:31.000Z",
+          "wordCount": null,
+          "title": "Treasures Revealed: Episode 8",
+          "itunes": {
+            "duration": "763"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/5ae8a8ec/25c27614.mp3",
+            "length": "12379109",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "C4563021-5A44-47B1-BDD4-084C4554022D",
+          "author": "Library and Archives Canada",
+          "description": "In the 7th episode of Treasures Revealed we speak with Senior Archivist Christine Barrass about an extraordinary scroll, or Sefer Torah, that is part of the Shearith Israel synagogue collection held at LAC. This scroll is a document  hand-written in Hebrew by a scribe and measures approximately 35 metres in length when fully unrolled. The Sefer Torah is considered to be the most valued object in Judaism, and is a highlight of the Jewish collections at LAC.",
+          "link": "https://share.transistor.fm/s/c6508cd6",
+          "publishedOn": "2022-11-14T20:19:02.000Z",
+          "wordCount": null,
+          "title": "Treasures Revealed: Episode 7",
+          "itunes": {
+            "duration": "839"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/c6508cd6/31635165.mp3",
+            "length": "13602114",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "6ED40A00-CBCA-4FD9-A464-8E5D8831C717",
+          "author": "Library and Archives Canada",
+          "description": "In this episode of Treasures Revealed, we speak with Marcelle Cinq-Mars, senior military archivist in the Government Archives Division at LAC. Marcelle tells us about the amazing discovery she made while rehousing documents LAC received from the Department of National Defence.",
+          "link": "https://share.transistor.fm/s/f5ae1610",
+          "publishedOn": "2022-10-19T13:19:30.000Z",
+          "wordCount": null,
+          "title": "Treasures Revealed: Episode 6",
+          "itunes": {
+            "duration": "980"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/f5ae1610/3fc6312d.mp3",
+            "length": "15855314",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
         }
       ]
     },
@@ -175,7 +2739,26 @@
       "title": "Faces of Freedom",
       "feedUrl": "https://feeds.blubrry.com/feeds/facesoffreedom.xml",
       "siteUrl": "http://blubrry.com/facesoffreedom/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blubrry.com/facesoffreedom//the-peacekeeping-series-africa-the-congo/",
+          "author": "Veterans Affairs Canada",
+          "description": "Charles Hamel first joined the Canadian Armed Forces in 1973, and went on to serve for more than 42 years, between the regular and reserve forces. He served on Operation Crocodile in the Congo in 2003.",
+          "link": "https://blubrry.com/facesoffreedom/80217691/the-peacekeeping-series-africa-the-congo/",
+          "publishedOn": "2023-03-29T12:23:01.000Z",
+          "wordCount": null,
+          "title": "The peacekeeping series - Africa: The Congo",
+          "itunes": {
+            "duration": "0:12:43"
+          },
+          "enclosure": {
+            "url": "https://media.blubrry.com/facesoffreedom/content.blubrry.com/facesoffreedom/peacekeeping-Ep-4.mp3",
+            "length": "18384531",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
