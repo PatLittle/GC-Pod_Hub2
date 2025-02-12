@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-12T06:30:17.016Z</id>
+    <id>urn:2025-02-12T06:57:04.882Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-12T06:30:17.016Z</updated>
+    <updated>2025-02-12T06:57:04.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -129,6 +129,18 @@ Container query units: cqi and cqb originally published on CSS-Tricks, which is 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Porter Talk #4: The Long Fight for Porters' Rights]]></title>
+        <id>9bff9f9c-94ac-41bf-8be7-271eaa16ed0b</id>
+        <link href="https://share.transistor.fm/s/9b21ab00"/>
+        <updated>2025-02-06T13:11:40.000Z</updated>
+        <summary type="html"><![CDATA[Join us as we delve into the inhumanity of portering, and the long fight for porters’ rights. (Episode 4) 
+Transcript
+Narrator Biographies]]></summary>
+        <author>
+            <name>Discover Library and Archives Canada</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Learn Clustering in Python – A Machine Learning Engineering Handbook]]></title>
         <id>67a3eddcb87640f436f52ba3</id>
         <link href="https://www.freecodecamp.org/news/clustering-in-python-a-machine-learning-handbook/"/>
@@ -235,6 +247,18 @@ The Mistakes of CSS originally published on CSS-Tricks, which is part of the Dig
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Porter Talk: Episode 4 Trailer]]></title>
+        <id>37fe8654-e1c0-48ae-9ba8-17c324d48496</id>
+        <link href="https://share.transistor.fm/s/28ea30a3"/>
+        <updated>2025-01-30T13:06:53.000Z</updated>
+        <summary type="html"><![CDATA[Join us as we delve into the inhumanity of portering, and the long fight for porters’ rights. (Episode 4 trailer)
+Transcript
+Narrator Biographies]]></summary>
+        <author>
+            <name>Discover Library and Archives Canada</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Digital Playbook: A Crucial Counterpart To Your Design System]]></title>
         <id>https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/</id>
         <link href="https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/"/>
@@ -253,6 +277,18 @@ The Mistakes of CSS originally published on CSS-Tricks, which is part of the Dig
 What on Earth is the `types` Descriptor in View Transitions? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mapping Happiness: How Where We Live Impacts Our Well-Being]]></title>
+        <id>164ed1f3-b00f-436f-b837-3ed4db957167</id>
+        <link href="https://share.transistor.fm/s/a1bbe7b5"/>
+        <updated>2025-01-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It might not surprise you that your relationships with friends and family affect your well-being. Same with your health and your job. But what about the place where you live? Whether you live in the downtown core of a major city or a commuter town or a rural community, what impact does this have on your life satisfaction, loneliness and sense of belonging? StatCan’s Lauren Pinault joins us today at the mic to explore how the places we live affect our well-being. 
+For more information:
+Beyond urban and rural: Rethinking the social geography of Canada]]></summary>
+        <author>
+            <name>Statistics Canada</name>
         </author>
     </entry>
     <entry>
@@ -306,6 +342,16 @@ Positioning Text Around Elements With CSS Offset originally published on CSS-Tri
 Some Things You Might Not Know About Custom Counter Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calculating crop rotation for potatoes]]></title>
+        <id>14f81efc-ce67-4e79-a1c6-24979d695f02</id>
+        <link href="https://share.transistor.fm/s/7f67f1c9"/>
+        <updated>2025-01-22T12:49:27.000Z</updated>
+        <summary type="html"><![CDATA[Lori Robinson, a 6th generation farmer in PEI, is a data hound.  As a result of her 50+ years of her and her family taking detailed notes and 20 + years of doing a four-year crop rotation system she laid the groundwork for a user-friendly calculator for crop rotations that has both economic benefits for producers and environmental benefits. Developed at the Living Labs initiative in PEI in conjunction with the PEI Potato Board, the calculator helps producers maximize profits while reducing their use of pesticides and improving soil health. And the story of the calculator has some interesting twists.]]></summary>
+        <author>
+            <name>Agriculture and Agri-food Canada</name>
         </author>
     </entry>
     <entry>

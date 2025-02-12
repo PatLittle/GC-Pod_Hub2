@@ -184,7 +184,7 @@
           "description": "In 2013, Marcel Moerkens was working on Brooklyn, his WordPress theme, and he needed a way to make it stand out from the pack of other WordPress themes. Little did he know that the intro section he called a “Hero” would become one of the most recognizable patterns in web design today. Here’s how the idea came to life and how it changed everything.",
           "link": "https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/",
           "publishedOn": "2025-02-10T13:00:00.000Z",
-          "wordCount": 3866,
+          "wordCount": 3868,
           "title": "How I Created A Popular WordPress Theme And Coined The Term “Hero Section” (Without Realizing It)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/popular-wordpress-theme-term-hero-section/popular-wordpress-theme-term-hero-section.jpg",
@@ -229,7 +229,7 @@
           "description": "Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!",
           "link": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
           "publishedOn": "2025-01-31T09:30:00.000Z",
-          "wordCount": 5080,
+          "wordCount": 5090,
           "title": "Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png",
@@ -244,7 +244,7 @@
           "description": "Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.",
           "link": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
           "publishedOn": "2025-01-30T08:00:00.000Z",
-          "wordCount": 4054,
+          "wordCount": 4052,
           "title": "The Digital Playbook: A Crucial Counterpart To Your Design System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg",
@@ -259,7 +259,7 @@
           "description": "It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.",
           "link": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
           "publishedOn": "2025-01-29T10:00:00.000Z",
-          "wordCount": 5398,
+          "wordCount": 5395,
           "title": "Transitioning Top-Layer Entries And The Display Property In CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg",
@@ -274,7 +274,7 @@
           "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
           "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
           "publishedOn": "2025-01-28T15:00:00.000Z",
-          "wordCount": 4048,
+          "wordCount": 4049,
           "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
@@ -304,7 +304,7 @@
           "description": "A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.",
           "link": "https://smashingmagazine.com/2025/01/ode-to-side-project-time/",
           "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": 3687,
+          "wordCount": 3802,
           "title": "An Ode To Side Project Time",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ode-to-side-project-time/ode-to-side-project-time.jpg",
@@ -319,7 +319,7 @@
           "description": "Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.",
           "link": "https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/",
           "publishedOn": "2025-01-16T13:00:00.000Z",
-          "wordCount": 4933,
+          "wordCount": 4935,
           "title": "On-Device AI: Building Smarter, Faster, And Private Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/on-device-ai-building-smarter-faster-private-applications/on-device-ai-building-smarter-faster-private-applications.jpg",
@@ -334,7 +334,7 @@
           "description": "How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.",
           "link": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
           "publishedOn": "2025-01-14T08:00:00.000Z",
-          "wordCount": 4323,
+          "wordCount": 4318,
           "title": "The Role Of Illustration Style In Visual Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg",
@@ -451,6 +451,183 @@
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738248926082/9a2a6855-00d4-4e25-a8bd-c1d645f21de5.png"
         }
       ]
+    },
+    {
+      "title": "Eh Sayers",
+      "feedUrl": "https://feeds.transistor.fm/statcan-eh-sayers",
+      "siteUrl": "http://www.statcan.gc.ca/en/sc/podcasts",
+      "articles": [
+        {
+          "id": "164ed1f3-b00f-436f-b837-3ed4db957167",
+          "author": "Statistics Canada",
+          "description": "It might not surprise you that your relationships with friends and family affect your well-being. Same with your health and your job. But what about the place where you live? Whether you live in the downtown core of a major city or a commuter town or a rural community, what impact does this have on your life satisfaction, loneliness and sense of belonging? StatCan’s Lauren Pinault joins us today at the mic to explore how the places we live affect our well-being. \nFor more information:\nBeyond urban and rural: Rethinking the social geography of Canada",
+          "link": "https://share.transistor.fm/s/a1bbe7b5",
+          "publishedOn": "2025-01-29T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Mapping Happiness: How Where We Live Impacts Our Well-Being",
+          "itunes": {
+            "duration": "840"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/a1bbe7b5/434fcb01.mp3",
+            "length": "33606113",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "The First Sixteen",
+      "feedUrl": "https://feeds.transistor.fm/the-first-sixteen",
+      "siteUrl": "https://agriculture.canada.ca/en/agri-info/first-sixteen-podcast",
+      "articles": [
+        {
+          "id": "14f81efc-ce67-4e79-a1c6-24979d695f02",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "Lori Robinson, a 6th generation farmer in PEI, is a data hound.  As a result of her 50+ years of her and her family taking detailed notes and 20 + years of doing a four-year crop rotation system she laid the groundwork for a user-friendly calculator for crop rotations that has both economic benefits for producers and environmental benefits. Developed at the Living Labs initiative in PEI in conjunction with the PEI Potato Board, the calculator helps producers maximize profits while reducing their use of pesticides and improving soil health. And the story of the calculator has some interesting twists.",
+          "link": "https://share.transistor.fm/s/7f67f1c9",
+          "publishedOn": "2025-01-22T12:49:27.000Z",
+          "wordCount": null,
+          "title": "Calculating crop rotation for potatoes",
+          "itunes": {
+            "duration": "1112"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/7f67f1c9/99d2a32e.mp3",
+            "length": "27102233",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Payroll podcast",
+      "feedUrl": "https://www.canada.ca/content/dam/cra-arc/migration/cra-arc/esrvc-srvce/rss/pyrll-eng.xml",
+      "siteUrl": "https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/podcasts.html?rss",
+      "articles": []
+    },
+    {
+      "title": "Taxology – The Official Canada Revenue Agency Podcast",
+      "feedUrl": "https://www.canada.ca/content/dam/cra-arc/migration/cra-arc/esrvc-srvce/rss/txlgy-strmng-eng.xml",
+      "siteUrl": "https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/podcasts.html",
+      "articles": []
+    },
+    {
+      "title": "Ducimus: The Canadian Infantry Podcast",
+      "feedUrl": "https://anchor.fm/s/11475f98/podcast/rss",
+      "siteUrl": "https://podcasters.spotify.com/pod/show/ducimus",
+      "articles": []
+    },
+    {
+      "title": "ReCollections",
+      "feedUrl": "https://feeds.megaphone.fm/recollections",
+      "siteUrl": "https://parks.canada.ca/recollections",
+      "articles": []
+    },
+    {
+      "title": "Employment and Social Development Canada",
+      "feedUrl": "https://feeds.simplecast.com/9Uo30mEr",
+      "siteUrl": "https://employment-and-social-development-canada.simplecast.com",
+      "articles": []
+    },
+    {
+      "title": "Employment and Social Development Canada",
+      "feedUrl": "https://feeds.simplecast.com/9Uo30mEr",
+      "siteUrl": "https://employment-and-social-development-canada.simplecast.com",
+      "articles": []
+    },
+    {
+      "title": "CCOHS Podcasts",
+      "feedUrl": "https://feeds.libsyn.com/23176/rss",
+      "siteUrl": "http://ccohs.libsyn.com",
+      "articles": []
+    },
+    {
+      "title": "Inspect and Protect",
+      "feedUrl": "https://anchor.fm/s/3bcc4b70/podcast/rss",
+      "siteUrl": "https://inspection.gc.ca/Inspect-Protect",
+      "articles": []
+    },
+    {
+      "title": "Canadian IP voices",
+      "feedUrl": "https://feeds.simplecast.com/Zd3oeWec",
+      "siteUrl": "https://canadian-ip-voices.simplecast.com",
+      "articles": []
+    },
+    {
+      "title": "Putting Pay Equity into Practice / Mettre l'équité salariale en pratique",
+      "feedUrl": "https://feeds.simplecast.com/6dg_HLOh",
+      "siteUrl": "https://putting-pay-equity-into-practice.simplecast.com",
+      "articles": []
+    },
+    {
+      "title": "Simply Science",
+      "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:269783479/sounds.rss",
+      "siteUrl": "https://www.nrcan.gc.ca/simply-science",
+      "articles": []
+    },
+    {
+      "title": "CCI and CHIN: In Our Words",
+      "feedUrl": "https://feeds.simplecast.com/6Azef75R",
+      "siteUrl": "https://cci-and-chin-in-our-words.simplecast.com",
+      "articles": []
+    },
+    {
+      "title": "Discover Library and Archives Canada",
+      "feedUrl": "https://feeds.transistor.fm/discover-library-and-archives-canada",
+      "siteUrl": "https://library-archives.canada.ca/eng/collection/engage-learn/podcast/pages/podcasts.aspx",
+      "articles": [
+        {
+          "id": "9bff9f9c-94ac-41bf-8be7-271eaa16ed0b",
+          "author": "Discover Library and Archives Canada",
+          "description": "Join us as we delve into the inhumanity of portering, and the long fight for porters’ rights. (Episode 4) \nTranscript\nNarrator Biographies",
+          "link": "https://share.transistor.fm/s/9b21ab00",
+          "publishedOn": "2025-02-06T13:11:40.000Z",
+          "wordCount": null,
+          "title": "Porter Talk #4: The Long Fight for Porters' Rights",
+          "itunes": {
+            "duration": "2646"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/9b21ab00/3c307b89.mp3",
+            "length": "42363662",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "37fe8654-e1c0-48ae-9ba8-17c324d48496",
+          "author": "Discover Library and Archives Canada",
+          "description": "Join us as we delve into the inhumanity of portering, and the long fight for porters’ rights. (Episode 4 trailer)\nTranscript\nNarrator Biographies",
+          "link": "https://share.transistor.fm/s/28ea30a3",
+          "publishedOn": "2025-01-30T13:06:53.000Z",
+          "wordCount": null,
+          "title": "Porter Talk: Episode 4 Trailer",
+          "itunes": {
+            "duration": "73"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/28ea30a3/7a99342b.mp3",
+            "length": "1201386",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Saskatchewan RCMP 10-36: ON DUTY",
+      "feedUrl": "https://www.rcmp-grc.gc.ca/podcasts-balados/f/podcast.xml",
+      "siteUrl": "https://www.rcmp-grc.gc.ca/en/saskatchewan-rcmp-10-36-duty",
+      "articles": []
+    },
+    {
+      "title": "Faces of Freedom",
+      "feedUrl": "https://feeds.blubrry.com/feeds/facesoffreedom.xml",
+      "siteUrl": "http://blubrry.com/facesoffreedom/",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
