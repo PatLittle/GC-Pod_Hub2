@@ -3,7 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://PatLittle.github.io/GC-Pod_Hub2/cache.json
 sources:
   - href: https://feeds.transistor.fm/statcan-eh-sayers
   - href: https://feeds.transistor.fm/the-first-sixteen
@@ -22,3 +22,6 @@ sources:
   - href: https://feeds.transistor.fm/discover-library-and-archives-canada
   - href: https://www.rcmp-grc.gc.ca/podcasts-balados/f/podcast.xml
   - href: https://feeds.blubrry.com/feeds/facesoffreedom.xml
+
+# `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
+siteTitle: "GC-Pod-Hub"
