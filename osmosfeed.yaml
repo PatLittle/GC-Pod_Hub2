@@ -22,6 +22,7 @@ sources:
   - href: https://feeds.transistor.fm/discover-library-and-archives-canada
   - href: https://www.rcmp-grc.gc.ca/podcasts-balados/f/podcast.xml
   - href: https://feeds.blubrry.com/feeds/facesoffreedom.xml
+  - href: https://feeds.buzzsprout.com/1265264.rss
 
 # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
 siteTitle: "GC-Pod-Hub"
