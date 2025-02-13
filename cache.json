@@ -2759,6 +2759,265 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "The Future Skills Podcast",
+      "feedUrl": "https://feeds.buzzsprout.com/1265264.rss",
+      "siteUrl": "https://www.buzzsprout.com/1265264",
+      "articles": [
+        {
+          "id": "Buzzsprout-16605224",
+          "author": null,
+          "description": "In this special live mini episode of the Future Skills Podcast, recorded at Cannexus25 in Ottawa, host Jeremy Strachan explores how labour market information (LMI) is shaping career development, workforce planning, and skills training in a time of rapid change. Featuring insights from Jason Dennison (Fleming College), Tony Bonen (The Conference Board of Canada), and Tricia Williams (Future Skills Centre), the discussion unpacks how data-driven decision-making can help job seekers, educators, and policymakers navigate economic shifts, automation, and AI’s growing influence on the labour market.\nFrom understanding regional job trends to leveraging tools like OpportuNext for career transitions, this episode highlights the critical role of LMI in building a resilient workforce. What skills will be in demand? How can Canadians future-proof their careers? And, how do we make labour market data more accessible and actionable? We’ll hear three expert perspectives on the evolving skills ecosystem and what it means for the future of work.",
+          "link": "https://www.conferenceboard.ca/insights/podcasts/future-skills-centre",
+          "publishedOn": "2025-02-12T07:00:00.000Z",
+          "wordCount": null,
+          "title": "S4 Ep. 07: Labour Market Data & Disruption—Insights from FSC @ Cannexus25",
+          "itunes": {
+            "duration": "786"
+          },
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1265264/episodes/16605224-s4-ep-07-labour-market-data-disruption-insights-from-fsc-cannexus25.mp3",
+            "length": "9464239",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "Buzzsprout-16556736",
+          "author": null,
+          "description": "In this mini episode of the Future Skills Podcast, Jeremy Strachan speaks with Dr. Jennifer Fane, Lead Research Associate at the Conference Board of Canada, about her recent study on neurodiversity in Canadian post-secondary education. The research, conducted in partnership with the Future Skills Centre, explores key findings from the report Creating Inclusive Campuses: Neuroinclusive Policies and Practices in Post-secondary Education.\nThe discussion highlights the challenges neurodivergent students face, including their invisibility on campuses, complex accommodation processes, and persistent stigma. Dr. Fane calls for greater accessibility within equity, diversity, and inclusion (EDI) frameworks and offers practical recommendations, such as establishing neurodiversity hubs and providing campus-wide neurodiversity training.\nThe episode also previews upcoming Future Skills Centre research on inclusive employment pathways for neurodivergent individuals.",
+          "link": "https://www.conferenceboard.ca/insights/podcasts/future-skills-centre",
+          "publishedOn": "2025-02-05T06:00:00.000Z",
+          "wordCount": null,
+          "title": "S4 Ep. 06: Neurodivergent student experiences in post-secondary education",
+          "itunes": {
+            "duration": "718"
+          },
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1265264/episodes/16556736-s4-ep-06-neurodivergent-student-experiences-in-post-secondary-education.mp3",
+            "length": "8654547",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "Buzzsprout-16220312",
+          "author": null,
+          "description": "In this bonus episode of the Future Skills Podcast, new host Jeremy Strachan dives into highlights from the Magnet Network Live event held in Toronto in October 2024, where leaders gathered to address Canada’s talent, training, and skills challenges. The episode features insights on AI, productivity, and Canada’s “12/21 problem,” where outdated learning models fall short in a 21st-century workforce. \nKey discussions focus on the need for risk-taking in business, the importance of social and emotional skills, and the critical role of trust in the workplace. Strachan also explores immigration’s role in Canada’s future, barriers faced by international students, and the impact of the Future Skills Centre’s efforts to foster an inclusive economy through innovative partnerships and initiatives a…",
+          "link": "https://www.conferenceboard.ca/insights/podcasts/future-skills-centre",
+          "publishedOn": "2024-12-04T12:00:00.000Z",
+          "wordCount": null,
+          "title": "S4 Ep. 05: Insights from Magnet Network Live",
+          "itunes": {
+            "duration": "1668"
+          },
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1265264/episodes/16220312-s4-ep-05-insights-from-magnet-network-live.mp3",
+            "length": "20045026",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "Buzzsprout-15775029",
+          "author": null,
+          "description": "The Black population in Canada is expected to exceed 3 million by 2041. Despite growing awareness of the root causes of inequities faced by Black communities, we don’t yet have interventions at scale in the skills ecosystem. In this episode, our guests describe the importance of culturally relevant, targeted programing for supporting Black communities in Canada to thrive in education and employment.\nOur guests envision a future where gaps in educational attainment and wages between black and non-black individuals are closed, and where anti-Black racism in our classrooms and workplaces is eradicated. They share successful components of workforce development programs, including social capital development, mentorship, socioemotional development, and community involvement.\nSpeakers:\n\nKofi Hope, CEO and Co-Founder, Monumental\nAndré McDonald, Professor, Mechanical Engineering, Associate Vice-President, Strategic Research Initiatives and Performance, University of Alberta\nMohamed Elmi, Executive Director, Diversity Institute\nHeather McIntosh, Director, Education and Skills, The Conference Board of Canada (host)",
+          "link": "https://www.conferenceboard.ca/insights/podcasts/future-skills-centre",
+          "publishedOn": "2024-09-19T06:00:00.000Z",
+          "wordCount": null,
+          "title": "S4 Ep. 04: Empowering Futures: Supporting Black Talent in the Canadian Labour Market",
+          "itunes": {
+            "duration": "2586"
+          },
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1265264/episodes/15775029-s4-ep-04-empowering-futures-supporting-black-talent-in-the-canadian-labour-market.mp3",
+            "length": "31072101",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "Buzzsprout-15588188",
+          "author": null,
+          "description": "We’ve heard the term “productivity” come up a lot lately. But what does the term really mean? And why does strong productivity matter for leaders, decision makers, and to Canadians at-large? Three experts join us in this episode to help us unpack this concept. They give us an overview of the economic concepts behind productivity, suggest solutions to help boost Canadian productivity, and explain why skills development and innovation are an important part of this conversation.  \n\nSpeaker list\n\n\nJonathan Barr, Senior Director, Innovation, Science and Economic Development Canada (ISED)\nPedro Antunes, Chief Economist, The Conference Board of Canada\nAnne-Lore Fraikin, Senior Manager, Economic Research, The Conference Board of Canada\nHeather McIntosh, Director, Education and Skills, The Conference Board of Canada (host)\n\nLinks: \n\n\nSkills and Productivity: Which Skills Shortages Are Impacting Canadian Productivity?—August 2024\nCompétences et productivité : Quelles pénuries de compétences influent sur la productivité canadienne?—Août 2024",
+          "link": "https://www.conferenceboard.ca/insights/podcasts/future-skills-centre",
+          "publishedOn": "2024-08-15T13:00:00.000Z",
+          "wordCount": null,
+          "title": "S4 Ep. 03: Canada’s Productivity Puzzle: The Skills Connection",
+          "itunes": {
+            "duration": "1988"
+          },
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1265264/episodes/15588188-s4-ep-03-canada-s-productivity-puzzle-the-skills-connection.mp3",
+            "length": "23889846",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "Buzzsprout-15393969",
+          "author": null,
+          "description": "The urgency of the climate crisis is undeniable. The transition to a clean economy demands significant changes in skills, occupations, and attitudes. In this episode, we delve into the challenges, opportunities, and strategies associated with developing higher education graduates who are equipped to lead and grow a sustainable economy. Our distinguished guests provide key employer, post-secondary, and international perspectives. Join us for a thought-provoking discussion on the intersection of higher education, employment, and a sustainable future. \nSpeaker list\n\nKevin Nilsen, President & CEO, ECO Canada\nCharles Hopkins, UNESCO Chair in Reorienting Education Towards Sustainability, York University \nTanzeela Faisal, Research Associate, The Conference Board of Canada\nHeather McIntosh, Director, Education and Skills, The Conference Board of Canada (host)\n\nLinks\nToward a More Sustainable Future: Preparing the Students of Today for a Greener Tomorrow (CBoC)",
+          "link": "https://www.conferenceboard.ca/insights/podcasts/future-skills-centre",
+          "publishedOn": "2024-07-18T05:00:00.000Z",
+          "wordCount": null,
+          "title": "S4 Ep. 02: Educating for Sustainability—Green Skills in Canada",
+          "itunes": {
+            "duration": "1906"
+          },
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1265264/episodes/15393969-s4-ep-02-educating-for-sustainability-green-skills-in-canada.mp3",
+            "length": "22903672",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "Buzzsprout-15263292",
+          "author": null,
+          "description": "In this episode, we delve into the implications of the AI revolution for teaching and learning within Canada’s post-secondary institutions. Join us as we speak with a researcher, an AI sector leader, and a university Chief AI Officer to uncover how this technology is reshaping education. From real-world applications to ethical considerations, we explore the opportunities and challenges of integrating generative AI tools (like ChatGPT) into the classroom, offering insights for educators, administrators, and policymakers alike.\nSpeaker list\n\nMelissa Judd, Vice-President, Research Operations and Academic Partnerships, Vector Institute\nMark Daley, Chief AI Officer, Western University\nAdam Vanzella Yang, Senior Research Associate, The Conference Board of Canada\nHeather McIntosh, Director, Education and Skills, The Conference Board of Canada (host)\n\nLinks\n\nAI and the Future of Post-Secondary Education: Navigating the AI Revolution https://www.conferenceboard.ca/product/navigating-the-ai-revolution/\nFuture Skills Centre Homepage: https://fsc-ccf.ca/\nFuture Skills Centre Twitter: https://twitter.com/fsc_ccf_en\nThe Conference Board of Canada Homepage: https://www.conferenceboard.ca/\nThe Conference Board of Canada Twitter: https://twitter.com/ConfBoardofCda\nThe Conference Board of Canada Facebook: https://www.facebook.com/ConferenceBoardofCanada/",
+          "link": "https://www.conferenceboard.ca/insights/podcasts/future-skills-centre",
+          "publishedOn": "2024-06-20T05:00:00.000Z",
+          "wordCount": null,
+          "title": "S4 Ep. 01: Educational AI—Unlocking Potential in Post-Secondary Institutions",
+          "itunes": {
+            "duration": "2222"
+          },
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1265264/episodes/15263292-s4-ep-01-educational-ai-unlocking-potential-in-post-secondary-institutions.mp3",
+            "length": "26698560",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "Buzzsprout-13465375",
+          "author": null,
+          "description": "350,000 Indigenous youth are set to come of age by 2026, offering unique contributions as they enter the workforce. Discover the multifaceted impacts of Indigenous youth on the labour market as two distinguished experts delve into this topic. In this episode, they explore the challenges, opportunities, and incredible value that Indigenous youth bring to the modern job market and how companies can advance inclusive environments that honor and integrate Indigenous traditions, thereby empowering young Indigenous employees to bring their authentic selves to work. We also learn about some of the collaborative approaches between employers, educational institutions, and Indigenous communities to bridge the gap and foster increased opportunities for Indigenous youth. \n Guests: \n\nMichael DeGagné, President & CEO, Indspire\nKory Wilson, Executive Director Indigenous Initiatives and Partnerships, BCIT\n\n Host:\n\nJulie Cafley, Executive Director, Catalyst Canada",
+          "link": "https://www.conferenceboard.ca/insights/podcasts/future-skills-centre",
+          "publishedOn": "2023-09-27T05:00:00.000Z",
+          "wordCount": null,
+          "title": "S3 Ep. 05: Indigenous Youth Entering the Labour Market",
+          "itunes": {
+            "duration": "1728"
+          },
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1265264/episodes/13465375-s3-ep-05-indigenous-youth-entering-the-labour-market.mp3",
+            "length": "20756283",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "Buzzsprout-13376049",
+          "author": null,
+          "description": "Neurodiversity is a range of different ways of thinking, interacting, and processing information, and is especially important to the future of work. In this episode, experts in neurodiversity in the workplace join us to discuss the immense potential of neurodiverse individuals in professional settings. Our guests share practical strategies and valuable insights for employers looking to create supportive environments for neurodiverse employees - from implementing accommodations for all to fostering inclusive company cultures. \nGuests: \n\nNeil Barnett, Director - Inclusive Hiring and Accessibility, Microsoft\nRadha MacCulloch, VP and Head of Canada, Specialisterne North America\n\nHost:\n\nJulie Cafley, Executive Director, Catalyst Canada",
+          "link": "https://www.conferenceboard.ca/insights/podcasts/future-skills-centre",
+          "publishedOn": "2023-08-09T13:00:00.000Z",
+          "wordCount": null,
+          "title": "S3 Ep. 04: Neurodiversity",
+          "itunes": {
+            "duration": "1593"
+          },
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1265264/episodes/13376049-s3-ep-04-neurodiversity.mp3",
+            "length": "19142483",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "Buzzsprout-13088123",
+          "author": null,
+          "description": "En 2020, les femmes représentaient seulement 16,8 % des propriétaires majoritaires de petites et moyennes entreprises (PME). Dans cet épisode, nous examinons l’expérience des femmes en entrepreneuriat, les obstacles à leur participation et la récente hausse du nombre d’entreprises fondées par des femmes. Nos invitées occupent des fonctions dirigeantes, l’une chez un gros pourvoyeur d’emplois et l’autre au sein d’une organisation qui aide les femmes entrepreneures et les réseaux qui les soutiennent à entrer en contact et à collaborer facilement. Elles nous racontent leur expérience personnelle et professionnelle, parlent des possibilités et des obstacles, et discutent des occasions de formation pour les femmes entrepreneures d’aujourd’hui et de demain, partout au Canada.\n  Invités\n\nSalwa Salek, cheffe Équité, diversité et inclusion, Desjardins\nSabine Soumare, directrice générale, Portail de connaissances pour les femmes en entrepreneuriat (PCFE)\n\nHôte\nJulie Cafley, directrice générale, Catalyst Canada",
+          "link": "https://www.conferenceboard.ca/future-skills-centre/podcast/",
+          "publishedOn": "2023-06-22T12:00:00.000Z",
+          "wordCount": null,
+          "title": "S3 Ep. 03: Les femmes en entrepreneuriat",
+          "itunes": {
+            "duration": "2671"
+          },
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1265264/episodes/13088123-s3-ep-03-les-femmes-en-entrepreneuriat.mp3",
+            "length": "32079395",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "Buzzsprout-12413608",
+          "author": null,
+          "description": "En 2022, le Canada a accueilli un nombre record de nouveaux arrivants : plus de 431 000, qui sont devenus des résidents permanents. Dans cet épisode, nous explorerons la question de l’intégration économique et professionnelle de ces personnes au Canada, principalement dans le contexte du Nouveau-Brunswick.\nNos invités sont des personnalités connues qui travaillent, l’un pour un gros employeur de la région, l’autre pour une organisation dont la mission est d’aider les nouveaux arrivants à participer pleinement à la société néo-brunswickoise. Ils parleront de leurs expériences personnelles et professionnelles, en plus d’offrir leurs éclairages et de faire des suggestions aux collectivités, aux employeurs et à l’écosystème des compétences du Canada tout entier. \nInvités \n\nJason Limongelli, vice-président de la Division Woodlands de J.D. Irving, Inc.\nMoncef Lakouas, président du Conseil culturel du Nouveau-Brunswick \n\nHôte\n\nJulie Cafley, directrice générale, Catalyst Canada",
+          "link": "https://www.conferenceboard.ca/insights/podcasts/future-skills-centre",
+          "publishedOn": "2023-03-15T05:00:00.000Z",
+          "wordCount": null,
+          "title": "S3 Ep. 02: L’intégration des nouveaux arrivants au Canada : l’exemple du Nouveau-Brunswick",
+          "itunes": {
+            "duration": "1585"
+          },
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1265264/episodes/12413608-s3-ep-02-l-integration-des-nouveaux-arrivants-au-canada-l-exemple-du-nouveau-brunswick.mp3",
+            "length": "19047632",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "Buzzsprout-11154033",
+          "author": null,
+          "description": "Technological change is affecting every sector, and these changes shift the roles and the skills in demand. Our guests share their perspectives on what needs to happen to ensure Canada has the skilled talent it needs to take full advantage of the growing digital economy. We hear about two rapid training initiatives that seek to help their learners transition mid-career to jobs in the digital economy.\nSpeakers\nGuests\nNamir Anani, President & CEO, Information and Communications Technology Council (ICTC)\nRushmi Hasham, Director, Development and Accelerated Cybersecurity Training Programs, Rogers Cybersecure Catalyst\nNathalie Sanon, Head, Training Program, IVADO\nHost\nLinda Nazareth\nLinks\nFuture Skills Centre Homepage: https://fsc-ccf.ca/\nFuture Skills Centre Twitter: https://twitter.com/fsc_ccf_en\nThe Conference Board of Canada Homepage :https://www.conferenceboard.ca/\nThe Conference Board of Canada Twitter: https://twitter.com/ConfBoardofCda \nThe Conference Board of Canada Facebook: https://www.facebook.com/ConferenceBoardofCanada/ \nICTC-CTIC: https://www.ictc-ctic.ca/\nRogers Cybersecure Catalyst: https://www.cybersecurecatalyst.ca/ \nIVADO https://ivado.ca/",
+          "link": "https://www.conferenceboard.ca/insights/podcasts/future-skills-centre",
+          "publishedOn": "2022-08-18T05:00:00.000Z",
+          "wordCount": null,
+          "title": "S2 Ep. 06: Skills for the Digital Economy",
+          "itunes": {
+            "duration": "1733"
+          },
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1265264/episodes/11154033-s2-ep-06-skills-for-the-digital-economy.mp3",
+            "length": "20824510",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "Buzzsprout-10916179",
+          "author": null,
+          "description": "In the face of the climate crisis, shifting to more carbon-neutral economic activities is a necessity. The growth of this clean economy can also be an opportunity – for individuals to have in-demand and meaningful careers, and for Canada to become a global leader in this area. In this episode, we hear from three Canadian organizations. Our guests tell us about the growing clean technology and blue economy sectors, and about the skills needed in these sectors, and share their insights on what needs to happen to support the development of a strong workforce in the clean economy.\nGuests\nDarren Gresch, Senior Research Associate, Innovation and Technology, Conference Board of Canada\nJeanette Jackson, CEO, Foresight Canada\nYogendra Chaudhry, Vice-President of Professional Services, ECO Canada\nHost\nLinda Nazareth\nEpisode Links:\nFuture Skills Centre Homepage: https://fsc-ccf.ca/\nFuture Skills Centre Twitter: https://twitter.com/fsc_ccf_en\nThe Conference Board of Canada Homepage :https://www.conferenceboard.ca/\nThe Conference Board of Canada Twitter: https://twitter.com/ConfBoardofCda \nThe Conference Board of Canada Facebook: https://www.facebook.com/ConferenceBoardofCanada/ \nECO Canada https://eco.ca/\nForesight Canada https://foresightcac.com/ \nOpportuNext https://www.opportunext.ca/",
+          "link": "https://www.conferenceboard.ca/insights/podcasts/future-skills-centre",
+          "publishedOn": "2022-07-07T05:00:00.000Z",
+          "wordCount": null,
+          "title": "S2 Ep. 05: Skills for the Clean Economy",
+          "itunes": {
+            "duration": "1567"
+          },
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1265264/episodes/10916179-s2-ep-05-skills-for-the-clean-economy.mp3",
+            "length": "18830214",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "Buzzsprout-10718625",
+          "author": null,
+          "description": "Microcredentials are a recognition of learning, assessing specific competencies and addressing employer needs. In this episode, we discuss the rise of microcredentials, their potential, and ongoing challenges such as coordination across Canada and assessment quality. Our guests provide perspectives from industry and from post-secondary education and include Emma Gooch from eCampusOntario, Kerri Korabelnikov from Red River College Polytechnic, and Theresa Davis-Woodhouse from the Canadian Council for Aviation and Aerospace. \nSpeakers\nGuests\nEmma Gooch, Program Manager, Microcredentials, eCampusOntario\nKerri Korabelnikov, Dean, School of Education, Arts and Sciences, Red River College Polytechnic\nTheresa Davis-Woodhouse, Director of Project Management, Canadian Council for Aviation & Aerospace\nHost\nLinda Nazareth\nLinks\nFuture Skills Centre Homepage: https://fsc-ccf.ca/\nFuture Skills Centre Twitter: https://twitter.com/fsc_ccf_en\nThe Conference Board of Canada Homepage :https://www.conferenceboard.ca/\nThe Conference Board of Canada Twitter: https://twitter.com/ConfBoardofCda \nThe Conference Board of Canada Facebook: https://www.facebook.com/ConferenceBoardofCanada/ \nResearch report: The Future is Micro: Digital learning and microcredentials for education, retraining, and lifelong learning https://fsc-ccf.ca/research/micro-credentials-for-retraining-and-lifelong-learning/\nFSC Project: Materials handling 4.0: Building pathways to employment for disadvantaged groups  https://fsc-ccf.ca/projects/material-handling-4-0-building-pathways-to-employment-for-disadvantaged-groups/\nFSC Project: Aiming higher: Microcredential training in aviation and aerospace https://fsc-ccf.ca/projects/aviation-aerospace/ \neCampusOntario: Microcredentials https://micro.ecampusontario.ca/ \neCampusOntario  https://www.ecampusontario.ca/",
+          "link": "https://www.conferenceboard.ca/insights/podcasts/future-skills-centre",
+          "publishedOn": "2022-06-01T13:00:00.000Z",
+          "wordCount": null,
+          "title": "S2 Ep. 04: Putting Microcredentials into Practice",
+          "itunes": {
+            "duration": "1527"
+          },
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1265264/episodes/10718625-s2-ep-04-putting-microcredentials-into-practice.mp3",
+            "length": "18344356",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
