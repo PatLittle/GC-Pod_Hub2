@@ -851,6 +851,24 @@
       "siteUrl": "http://ccohs.libsyn.com",
       "articles": [
         {
+          "id": "5270d2dd-edb0-4152-8cf4-e1de57f01682",
+          "author": null,
+          "description": "Do physically active occupations make for healthier workers? Not necessarily. In this episode, Dr. Avi Biswas, scientist at the Institute for Work and Health, shares recommendations for safe, practical physical activity designed to meet the diverse needs of workers.",
+          "link": "https://ccohs.libsyn.com/the-health-impacts-of-physically-demanding-work",
+          "publishedOn": "2025-02-14T15:01:00.000Z",
+          "wordCount": null,
+          "title": "The Health Impacts of Physically Demanding Work",
+          "itunes": {
+            "duration": "13:16"
+          },
+          "enclosure": {
+            "length": "8614506",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Avi_Biswas_normalized_1.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "85c5b2a8-aff0-4c0b-a1dc-e8bd93aff446",
           "author": null,
           "description": "La stigmatisation à l’égard de la consommation de substances influe sur la façon dont nous parlons aux personnes, sur les politiques que nous élaborons et sur la prestation des soins. Dans cet épisode, la Dre Theresa Tam, administratrice en chef de la santé publique du Canada, et Anne Tennier, présidente et première dirigeante du CCHST, discutent des façons de réduire la stigmatisation et de soutenir les hommes dans les métiers spécialisés qui font face à des difficultés.",

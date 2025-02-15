@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-02-14T00:50:06.898Z</updated>
+    <updated>2025-02-15T00:49:26.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Health Impacts of Physically Demanding Work]]></title>
+        <id>5270d2dd-edb0-4152-8cf4-e1de57f01682</id>
+        <link href="https://ccohs.libsyn.com/the-health-impacts-of-physically-demanding-work"/>
+        <updated>2025-02-14T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Do physically active occupations make for healthier workers? Not necessarily. In this episode, Dr. Avi Biswas, scientist at the Institute for Work and Health, shares recommendations for safe, practical physical activity designed to meet the diverse needs of workers.]]></summary>
+        <author>
+            <name>CCOHS Podcasts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[S4 Ep. 07: Labour Market Data & Disruption—Insights from FSC @ Cannexus25]]></title>
         <id>Buzzsprout-16605224</id>
