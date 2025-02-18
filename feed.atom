@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-02-17T00:52:55.255Z</updated>
+    <updated>2025-02-18T00:49:59.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2393,29 +2393,6 @@ eCampusOntario: Microcredentials https://micro.ecampusontario.ca/
 eCampusOntario  https://www.ecampusontario.ca/]]></summary>
         <author>
             <name>The Future Skills Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Putting a rope around antimicrobial resistance in cattle]]></title>
-        <id>fe9d9457-d03b-4525-aaac-a587044ceca0</id>
-        <link href="https://share.transistor.fm/s/a0151808"/>
-        <updated>2022-05-25T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When veterinarian Dr. Greg Dimmers noticed an alarming pattern of infection in beef cattle, he contacted microbiologist Dr. Tim McAllister to get some answers. Hear the two speak about their respective paths in the study of antimicrobial resistance.]]></summary>
-        <author>
-            <name>Agriculture and Agri-food Canada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powered by Haloo: How artificial intelligence systems can be used to prepare trademark registration applications]]></title>
-        <id>e2d845ad-2379-4ed7-9efa-87126177ff5e</id>
-        <link href="https://canadian-ip-voices.simplecast.com/episodes/powered-by-haloo-how-artificial-intelligence-systems-can-be-used-to-prepare-trademark-registration-applications-7z20x5UQ"/>
-        <updated>2022-05-25T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Julie MacDonell, Co-founder and CEO of Haloo discusses the importance of trademarks and how artificial intelligence is used at Haloo to partially replace manual searching in the trademark registration application process.
-Explore online:
-Learn more about trademarks and what the rules are concerning what can and cannot be registered at 
-www.cipo.gc.ca/tm-guide]]></summary>
-        <author>
-            <name>CanadianIPVoices@ised-isde.gc.ca (The Canadian Intellectual Property Office)</name>
         </author>
     </entry>
 </feed>

@@ -515,24 +515,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "fe9d9457-d03b-4525-aaac-a587044ceca0",
-          "author": "Agriculture and Agri-food Canada",
-          "description": "When veterinarian Dr. Greg Dimmers noticed an alarming pattern of infection in beef cattle, he contacted microbiologist Dr. Tim McAllister to get some answers. Hear the two speak about their respective paths in the study of antimicrobial resistance.",
-          "link": "https://share.transistor.fm/s/a0151808",
-          "publishedOn": "2022-05-25T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Putting a rope around antimicrobial resistance in cattle",
-          "itunes": {
-            "duration": "1316"
-          },
-          "enclosure": {
-            "url": "https://media.transistor.fm/a0151808/9cb2ba7a.mp3",
-            "length": "31664156",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2157,24 +2139,6 @@
             "length": "29943476",
             "type": "audio/mpeg",
             "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/e73b6ece-1938-4610-9664-fea09ba457ec/audio/865f32f8-77f5-4c9a-b21c-e8ff40ffb891/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "e2d845ad-2379-4ed7-9efa-87126177ff5e",
-          "author": "CanadianIPVoices@ised-isde.gc.ca (The Canadian Intellectual Property Office)",
-          "description": "Julie MacDonell, Co-founder and CEO of Haloo discusses the importance of trademarks and how artificial intelligence is used at Haloo to partially replace manual searching in the trademark registration application process.\nExplore online:\nLearn more about trademarks and what the rules are concerning what can and cannot be registered at \nwww.cipo.gc.ca/tm-guide",
-          "link": "https://canadian-ip-voices.simplecast.com/episodes/powered-by-haloo-how-artificial-intelligence-systems-can-be-used-to-prepare-trademark-registration-applications-7z20x5UQ",
-          "publishedOn": "2022-05-25T04:00:00.000Z",
-          "wordCount": null,
-          "title": "Powered by Haloo: How artificial intelligence systems can be used to prepare trademark registration applications",
-          "itunes": {
-            "duration": "00:25:56"
-          },
-          "enclosure": {
-            "length": "24969761",
-            "type": "audio/mpeg",
-            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/3bf094fc-c92e-4e98-84e5-6c238c5d6c64/audio/5258188f-98a5-4e70-a336-403e46921f95/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
           },
           "imageUrl": null
         }
