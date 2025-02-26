@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-02-25T00:51:49.877Z</updated>
+    <updated>2025-02-26T00:51:48.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2365,34 +2365,6 @@ Plant Breeders' Rights... What are they?
 Plant Breeders' Rights Office]]></summary>
         <author>
             <name>CanadianIPVoices@ised-isde.gc.ca (The Canadian Intellectual Property Office, Anthony Parker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S2 Ep. 04: Putting Microcredentials into Practice]]></title>
-        <id>Buzzsprout-10718625</id>
-        <link href="https://www.conferenceboard.ca/insights/podcasts/future-skills-centre"/>
-        <updated>2022-06-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Microcredentials are a recognition of learning, assessing specific competencies and addressing employer needs. In this episode, we discuss the rise of microcredentials, their potential, and ongoing challenges such as coordination across Canada and assessment quality. Our guests provide perspectives from industry and from post-secondary education and include Emma Gooch from eCampusOntario, Kerri Korabelnikov from Red River College Polytechnic, and Theresa Davis-Woodhouse from the Canadian Council for Aviation and Aerospace. 
-Speakers
-Guests
-Emma Gooch, Program Manager, Microcredentials, eCampusOntario
-Kerri Korabelnikov, Dean, School of Education, Arts and Sciences, Red River College Polytechnic
-Theresa Davis-Woodhouse, Director of Project Management, Canadian Council for Aviation & Aerospace
-Host
-Linda Nazareth
-Links
-Future Skills Centre Homepage: https://fsc-ccf.ca/
-Future Skills Centre Twitter: https://twitter.com/fsc_ccf_en
-The Conference Board of Canada Homepage :https://www.conferenceboard.ca/
-The Conference Board of Canada Twitter: https://twitter.com/ConfBoardofCda 
-The Conference Board of Canada Facebook: https://www.facebook.com/ConferenceBoardofCanada/ 
-Research report: The Future is Micro: Digital learning and microcredentials for education, retraining, and lifelong learning https://fsc-ccf.ca/research/micro-credentials-for-retraining-and-lifelong-learning/
-FSC Project: Materials handling 4.0: Building pathways to employment for disadvantaged groups  https://fsc-ccf.ca/projects/material-handling-4-0-building-pathways-to-employment-for-disadvantaged-groups/
-FSC Project: Aiming higher: Microcredential training in aviation and aerospace https://fsc-ccf.ca/projects/aviation-aerospace/ 
-eCampusOntario: Microcredentials https://micro.ecampusontario.ca/ 
-eCampusOntario  https://www.ecampusontario.ca/]]></summary>
-        <author>
-            <name>The Future Skills Podcast</name>
         </author>
     </entry>
 </feed>
