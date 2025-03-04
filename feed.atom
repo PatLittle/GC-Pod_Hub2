@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-03-03T00:53:44.445Z</updated>
+    <updated>2025-03-04T00:52:40.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2352,19 +2352,6 @@ Date de diffusion : 14 juin 2022
  Durée : 8 : 07 minutes]]></summary>
         <author>
             <name>CCOHS Podcasts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How plant breeders’ rights are protected in Canada]]></title>
-        <id>697fd7d7-f96e-4c85-ad69-dc3679269d1b</id>
-        <link href="https://canadian-ip-voices.simplecast.com/episodes/how-plant-breeders-rights-are-protected-in-canada-ltdEZjrz"/>
-        <updated>2022-06-08T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Anthony Parker, Commissioner of the Plant Breeders' Rights Office within the Canadian Food Inspection Agency, explains the development of plant breeders' rights, how they are examined and how they function in Canada.
-Explore online:
-Plant Breeders' Rights... What are they?
-Plant Breeders' Rights Office]]></summary>
-        <author>
-            <name>CanadianIPVoices@ised-isde.gc.ca (The Canadian Intellectual Property Office, Anthony Parker)</name>
         </author>
     </entry>
 </feed>
