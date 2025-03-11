@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-03-10T00:43:28.411Z</updated>
+    <updated>2025-03-11T00:53:15.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Does It Take to Exit Homelessness?]]></title>
+        <id>8c07daa9-913f-4c7b-81c9-a0ab90428cb8</id>
+        <link href="https://share.transistor.fm/s/2383792c"/>
+        <updated>2025-03-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What is it that helps someone transition from homeless to housed? We’re looking at new analysis of data from the Canadian Housing Survey to explore exactly that. In conversation with Peter Tilley, the CEO of the Ottawa Mission, and Jeff Randle, Chief of the Housing Need Project section at Statistics Canada, we’re asking why homelessness (and homelessness data!) is more complex than you might think, what factors most often led to regaining housing, and why housing can be challenging to maintain even after it’s been regained. 
+The Daily — Exiting homelessness: Results from the 2022 Canadian Housing Survey]]></summary>
+        <author>
+            <name>Statistics Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Health Impacts of Physically Demanding Work]]></title>
         <id>5270d2dd-edb0-4152-8cf4-e1de57f01682</id>
@@ -2329,29 +2340,6 @@ Part II: IP Metaverse Series - Part II: Patent Considerations
 The IP Metaverse Series -– Part II: Patent Considerations]]></summary>
         <author>
             <name>CanadianIPVoices@ised-isde.gc.ca (The Canadian Intellectual Property Office)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Identifying and Monitoring Trends in Occupational Disease]]></title>
-        <id>361508d0-9a22-4e5c-8078-4bdda713dd1f</id>
-        <link href="https://ccohs.libsyn.com/identifying-and-monitoring-trends-in-occupational-disease"/>
-        <updated>2022-06-14T16:34:32.000Z</updated>
-        <summary type="html"><![CDATA[Tracking patterns and trends in occupational disease in different industries can help target prevention efforts. We talk with Paul Demers from the Occupational Cancer Research Centre about the Occupational Disease Surveillance System (ODSS) and what the data reveals.
-  
-Released: June 14, 2022
- File Size:  5 MB
- Length: 8:07 minutes
-  
-****************************************
- « Identifying and Monitoring Trends in Occupational Disease »
- Le suivi des profils et des tendances des maladies professionnelles dans différents secteurs d’activité peut aider à cibler les efforts de prévention. Nous discutons avec Paul Demers du Centre de recherche sur le cancer professionnel au sujet du Système de surveillance des maladies professionnelles (SSMP) et de ce que les données révèlent.
-  
-  
-Date de diffusion : 14 juin 2022
- Taille du fichier : 5 MB
- Durée : 8 : 07 minutes]]></summary>
-        <author>
-            <name>CCOHS Podcasts</name>
         </author>
     </entry>
 </feed>

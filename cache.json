@@ -6,6 +6,24 @@
       "siteUrl": "http://www.statcan.gc.ca/en/sc/podcasts",
       "articles": [
         {
+          "id": "8c07daa9-913f-4c7b-81c9-a0ab90428cb8",
+          "author": "Statistics Canada",
+          "description": "What is it that helps someone transition from homeless to housed? We’re looking at new analysis of data from the Canadian Housing Survey to explore exactly that. In conversation with Peter Tilley, the CEO of the Ottawa Mission, and Jeff Randle, Chief of the Housing Need Project section at Statistics Canada, we’re asking why homelessness (and homelessness data!) is more complex than you might think, what factors most often led to regaining housing, and why housing can be challenging to maintain even after it’s been regained. \nThe Daily — Exiting homelessness: Results from the 2022 Canadian Housing Survey",
+          "link": "https://share.transistor.fm/s/2383792c",
+          "publishedOn": "2025-03-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "What Does It Take to Exit Homelessness?",
+          "itunes": {
+            "duration": "1431"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/2383792c/75fb7f6c.mp3",
+            "length": "57252135",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "164ed1f3-b00f-436f-b837-3ed4db957167",
           "author": "Statistics Canada",
           "description": "It might not surprise you that your relationships with friends and family affect your well-being. Same with your health and your job. But what about the place where you live? Whether you live in the downtown core of a major city or a commuter town or a rural community, what impact does this have on your life satisfaction, loneliness and sense of belonging? StatCan’s Lauren Pinault joins us today at the mic to explore how the places we live affect our well-being. \nFor more information:\nBeyond urban and rural: Rethinking the social geography of Canada",
@@ -1621,24 +1639,6 @@
             "length": "3863140",
             "type": "audio/mpeg",
             "url": "https://traffic.libsyn.com/secure/ccohs/Episode193_Disconnecting_French.mp3?dest-id=32116"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "361508d0-9a22-4e5c-8078-4bdda713dd1f",
-          "author": null,
-          "description": "Tracking patterns and trends in occupational disease in different industries can help target prevention efforts. We talk with Paul Demers from the Occupational Cancer Research Centre about the Occupational Disease Surveillance System (ODSS) and what the data reveals.\n  \nReleased: June 14, 2022\n File Size:  5 MB\n Length: 8:07 minutes\n  \n****************************************\n « Identifying and Monitoring Trends in Occupational Disease »\n Le suivi des profils et des tendances des maladies professionnelles dans différents secteurs d’activité peut aider à cibler les efforts de prévention. Nous discutons avec Paul Demers du Centre de recherche sur le cancer professionnel au sujet du Système de surveillance des maladies professionnelles (SSMP) et de ce que les données révèlent.\n  \n  \nDate de diffusion : 14 juin 2022\n Taille du fichier : 5 MB\n Durée : 8 : 07 minutes",
-          "link": "https://ccohs.libsyn.com/identifying-and-monitoring-trends-in-occupational-disease",
-          "publishedOn": "2022-06-14T16:34:32.000Z",
-          "wordCount": null,
-          "title": "Identifying and Monitoring Trends in Occupational Disease",
-          "itunes": {
-            "duration": "08:08"
-          },
-          "enclosure": {
-            "length": "5475201",
-            "type": "audio/mpeg",
-            "url": "https://traffic.libsyn.com/secure/ccohs/Episode192_IndentifyingOccupationalDiseaseTrends_PaulDemers.mp3?dest-id=32116"
           },
           "imageUrl": null
         }
