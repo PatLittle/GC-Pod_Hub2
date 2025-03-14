@@ -2332,6 +2332,24 @@
       "siteUrl": "https://library-archives.canada.ca/eng/collection/engage-learn/podcast/pages/podcasts.aspx",
       "articles": [
         {
+          "id": "bfc10cbe-cfe1-413d-8b4b-7b72768f40d0",
+          "author": "Discover Library and Archives Canada",
+          "description": "Join us as we meet some of the strong and devoted women who stood with porters. Without their commitment and persistence, union gains would not have been possible in light of the men’s absence while working on the rails. (Episode 5 trailer)\nTranscript\nNarrator Biographies",
+          "link": "https://share.transistor.fm/s/b831da0e",
+          "publishedOn": "2025-03-13T13:27:31.000Z",
+          "wordCount": null,
+          "title": "Porter Talk: Episode 5 Trailer",
+          "itunes": {
+            "duration": "84"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/b831da0e/b7339e85.mp3",
+            "length": "1367733",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "9bff9f9c-94ac-41bf-8be7-271eaa16ed0b",
           "author": "Discover Library and Archives Canada",
           "description": "Join us as we delve into the inhumanity of portering, and the long fight for porters’ rights. (Episode 4) \nTranscript\nNarrator Biographies",

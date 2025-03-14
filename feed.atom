@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-03-13T00:53:07.404Z</updated>
+    <updated>2025-03-14T00:52:37.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Porter Talk: Episode 5 Trailer]]></title>
+        <id>bfc10cbe-cfe1-413d-8b4b-7b72768f40d0</id>
+        <link href="https://share.transistor.fm/s/b831da0e"/>
+        <updated>2025-03-13T13:27:31.000Z</updated>
+        <summary type="html"><![CDATA[Join us as we meet some of the strong and devoted women who stood with porters. Without their commitment and persistence, union gains would not have been possible in light of the men’s absence while working on the rails. (Episode 5 trailer)
+Transcript
+Narrator Biographies]]></summary>
+        <author>
+            <name>Discover Library and Archives Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Does It Take to Exit Homelessness?]]></title>
         <id>8c07daa9-913f-4c7b-81c9-a0ab90428cb8</id>
