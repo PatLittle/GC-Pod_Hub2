@@ -851,6 +851,24 @@
       "siteUrl": "http://ccohs.libsyn.com",
       "articles": [
         {
+          "id": "456a3641-68a8-4c82-af88-65411f525633",
+          "author": null,
+          "description": "When personal protective equipment is designed with diverse body types in mind, everyone in the workplace benefits. Dr. Amin Yazdani joins us to discuss how using breakthrough technology can shape the design of more inclusive PPE for workers in Canada.",
+          "link": "https://ccohs.libsyn.com/addressing-inequities-in-personal-protective-equipment",
+          "publishedOn": "2025-03-14T15:46:00.000Z",
+          "wordCount": null,
+          "title": "Addressing Inequities in Personal Protective Equipment",
+          "itunes": {
+            "duration": "18:19"
+          },
+          "enclosure": {
+            "length": "13483810",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Ep_221_Amin_Yazdani_PhD_NORMALIZED.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "5270d2dd-edb0-4152-8cf4-e1de57f01682",
           "author": null,
           "description": "Do physically active occupations make for healthier workers? Not necessarily. In this episode, Dr. Avi Biswas, scientist at the Institute for Work and Health, shares recommendations for safe, practical physical activity designed to meet the diverse needs of workers.",
