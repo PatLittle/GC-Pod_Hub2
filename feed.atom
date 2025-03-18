@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-03-17T00:54:48.908Z</updated>
+    <updated>2025-03-18T00:53:11.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2324,44 +2324,6 @@ Foresight Canada https://foresightcac.com/ 
 OpportuNext https://www.opportunext.ca/]]></summary>
         <author>
             <name>The Future Skills Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feeling the sting: the impact of honey fraud on beekeepers]]></title>
-        <id>b65ad5a3-70a7-4eed-a5fa-62b52248b01f</id>
-        <link href="https://podcasters.spotify.com/pod/show/cfia/episodes/Feeling-the-sting-the-impact-of-honey-fraud-on-beekeepers-e1k8puh"/>
-        <updated>2022-06-22T07:00:38.000Z</updated>
-        <summary type="html"><![CDATA[There’s a sticky situation out there. In this podcast, we discuss honey adulteration with Jake Berg, a Saskatchewanian beekeeper, and Carmen Leung, a policy and program leader at the CFIA.
-This episode is a collaboration on adulterated honey with Agriculture and Agri-Food Canada’s podcast, The First Sixteen. Bee sure to catch their episode as well: 
-https://agriculture.agr.gc.ca/en/agri-info/first-sixteen-podcast/first-sixteen-podcast-ep-021]]></summary>
-        <author>
-            <name>Canadian Food Inspection Agency</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shedding light on food fraud]]></title>
-        <id>415f0ab2-69e7-42a1-a062-4bb6f41c4024</id>
-        <link href="https://share.transistor.fm/s/3aeabd91"/>
-        <updated>2022-06-22T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Agriculture and Agri-Food Canada and the Canadian Food Inspection Agency come together in this special two-part episode on honey fraud in Canada. Hear a scientist from each organization discuss how they identify fraudulent products – and listen to the CFIA’s Inspect and Protect episode here for the perspective of a policy leader and a beekeeper!]]></summary>
-        <author>
-            <name>Agriculture and Agri-food Canada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How  traditional brands and IP rights are entering the metaverse]]></title>
-        <id>7b19c1eb-3b25-4680-b4cc-1941992d0eec</id>
-        <link href="https://canadian-ip-voices.simplecast.com/episodes/how-traditional-brands-and-ip-rights-are-entering-the-metaverse-nRvjjt1y"/>
-        <updated>2022-06-22T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Brigitte Chan, lawyer and trademark agent discusses  what the IP professionals are observing as real brands are going virtual in a fictional universe; the metaverse.
- 
-Discover online: 
-The IP Metaverse Series: Part I: Brands are Plugging in and Cashing in - Protecting Trademarks and Copyright in Virtual Goods and Services
-Part II: IP Metaverse Series - Part II: Patent Considerations
- 
-The IP Metaverse Series -– Part II: Patent Considerations]]></summary>
-        <author>
-            <name>CanadianIPVoices@ised-isde.gc.ca (The Canadian Intellectual Property Office)</name>
         </author>
     </entry>
 </feed>
