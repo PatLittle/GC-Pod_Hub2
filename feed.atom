@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-04-01T01:01:12.379Z</updated>
+    <updated>2025-04-02T00:55:06.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Future of Work with Tyler Waye]]></title>
+        <id>1e9bf2d0-84cd-4425-bd13-eb451b10a587</id>
+        <link href="https://ccohs.libsyn.com/the-future-of-work-with-tyler-waye"/>
+        <updated>2025-03-31T18:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The world around us is changing rapidly – and so is the workplace and what motivates us. Work and leadership strategist Tyler Waye joins us to discuss what employers and workers can do to build the thriving workplaces of the future.]]></summary>
+        <author>
+            <name>CCOHS Podcasts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Addressing Inequities in Personal Protective Equipment]]></title>
         <id>456a3641-68a8-4c82-af88-65411f525633</id>
@@ -2299,31 +2309,6 @@ Date de diffusion : 17 juillet 2022
         <summary type="html"><![CDATA[When agriculture meets forestry, the result can have a surprising impact on the environment, wildlife habitats, crop production, and beyond. AAFC research scientist Dr. Raju Soolanayakanahally and Kevin Boon, General Manager of the BC Cattlemen’s Association, explore the roots of the long-standing practice of agroforestry, and the benefits it brings to the future of agriculture and climate change.]]></summary>
         <author>
             <name>Agriculture and Agri-food Canada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S2 Ep. 05: Skills for the Clean Economy]]></title>
-        <id>Buzzsprout-10916179</id>
-        <link href="https://www.conferenceboard.ca/insights/podcasts/future-skills-centre"/>
-        <updated>2022-07-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the face of the climate crisis, shifting to more carbon-neutral economic activities is a necessity. The growth of this clean economy can also be an opportunity – for individuals to have in-demand and meaningful careers, and for Canada to become a global leader in this area. In this episode, we hear from three Canadian organizations. Our guests tell us about the growing clean technology and blue economy sectors, and about the skills needed in these sectors, and share their insights on what needs to happen to support the development of a strong workforce in the clean economy.
-Guests
-Darren Gresch, Senior Research Associate, Innovation and Technology, Conference Board of Canada
-Jeanette Jackson, CEO, Foresight Canada
-Yogendra Chaudhry, Vice-President of Professional Services, ECO Canada
-Host
-Linda Nazareth
-Episode Links:
-Future Skills Centre Homepage: https://fsc-ccf.ca/
-Future Skills Centre Twitter: https://twitter.com/fsc_ccf_en
-The Conference Board of Canada Homepage :https://www.conferenceboard.ca/
-The Conference Board of Canada Twitter: https://twitter.com/ConfBoardofCda 
-The Conference Board of Canada Facebook: https://www.facebook.com/ConferenceBoardofCanada/ 
-ECO Canada https://eco.ca/
-Foresight Canada https://foresightcac.com/ 
-OpportuNext https://www.opportunext.ca/]]></summary>
-        <author>
-            <name>The Future Skills Podcast</name>
         </author>
     </entry>
 </feed>

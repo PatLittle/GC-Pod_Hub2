@@ -833,6 +833,24 @@
       "siteUrl": "http://ccohs.libsyn.com",
       "articles": [
         {
+          "id": "1e9bf2d0-84cd-4425-bd13-eb451b10a587",
+          "author": null,
+          "description": "The world around us is changing rapidly – and so is the workplace and what motivates us. Work and leadership strategist Tyler Waye joins us to discuss what employers and workers can do to build the thriving workplaces of the future.",
+          "link": "https://ccohs.libsyn.com/the-future-of-work-with-tyler-waye",
+          "publishedOn": "2025-03-31T18:10:00.000Z",
+          "wordCount": null,
+          "title": "The Future of Work with Tyler Waye",
+          "itunes": {
+            "duration": "14:20"
+          },
+          "enclosure": {
+            "length": "10206988",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode_223__with_Tyler_Waye_NORMALIZED.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "456a3641-68a8-4c82-af88-65411f525633",
           "author": null,
           "description": "When personal protective equipment is designed with diverse body types in mind, everyone in the workplace benefits. Dr. Amin Yazdani joins us to discuss how using breakthrough technology can shape the design of more inclusive PPE for workers in Canada.",
@@ -2923,24 +2941,6 @@
           "enclosure": {
             "url": "https://www.buzzsprout.com/1265264/episodes/11154033-s2-ep-06-skills-for-the-digital-economy.mp3",
             "length": "20824510",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "Buzzsprout-10916179",
-          "author": null,
-          "description": "In the face of the climate crisis, shifting to more carbon-neutral economic activities is a necessity. The growth of this clean economy can also be an opportunity – for individuals to have in-demand and meaningful careers, and for Canada to become a global leader in this area. In this episode, we hear from three Canadian organizations. Our guests tell us about the growing clean technology and blue economy sectors, and about the skills needed in these sectors, and share their insights on what needs to happen to support the development of a strong workforce in the clean economy.\nGuests\nDarren Gresch, Senior Research Associate, Innovation and Technology, Conference Board of Canada\nJeanette Jackson, CEO, Foresight Canada\nYogendra Chaudhry, Vice-President of Professional Services, ECO Canada\nHost\nLinda Nazareth\nEpisode Links:\nFuture Skills Centre Homepage: https://fsc-ccf.ca/\nFuture Skills Centre Twitter: https://twitter.com/fsc_ccf_en\nThe Conference Board of Canada Homepage :https://www.conferenceboard.ca/\nThe Conference Board of Canada Twitter: https://twitter.com/ConfBoardofCda \nThe Conference Board of Canada Facebook: https://www.facebook.com/ConferenceBoardofCanada/ \nECO Canada https://eco.ca/\nForesight Canada https://foresightcac.com/ \nOpportuNext https://www.opportunext.ca/",
-          "link": "https://www.conferenceboard.ca/insights/podcasts/future-skills-centre",
-          "publishedOn": "2022-07-07T05:00:00.000Z",
-          "wordCount": null,
-          "title": "S2 Ep. 05: Skills for the Clean Economy",
-          "itunes": {
-            "duration": "1567"
-          },
-          "enclosure": {
-            "url": "https://www.buzzsprout.com/1265264/episodes/10916179-s2-ep-05-skills-for-the-clean-economy.mp3",
-            "length": "18830214",
             "type": "audio/mpeg"
           },
           "imageUrl": null
