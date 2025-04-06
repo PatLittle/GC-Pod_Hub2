@@ -497,24 +497,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "ce67d808-7ad5-40ca-b045-86b09b372234",
-          "author": "Agriculture and Agri-food Canada",
-          "description": "When agriculture meets forestry, the result can have a surprising impact on the environment, wildlife habitats, crop production, and beyond. AAFC research scientist Dr. Raju Soolanayakanahally and Kevin Boon, General Manager of the BC Cattlemen’s Association, explore the roots of the long-standing practice of agroforestry, and the benefits it brings to the future of agriculture and climate change.",
-          "link": "https://share.transistor.fm/s/782b35a9",
-          "publishedOn": "2022-07-11T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Agroforestry: The new-old science",
-          "itunes": {
-            "duration": "1458"
-          },
-          "enclosure": {
-            "url": "https://media.transistor.fm/782b35a9/f70abdf0.mp3",
-            "length": "35063802",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },

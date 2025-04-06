@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-04-05T00:53:18.246Z</updated>
+    <updated>2025-04-06T00:57:59.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2299,16 +2299,6 @@ Date de diffusion : 17 juillet 2022
  Durée : 7 : 24 minutes]]></summary>
         <author>
             <name>CCOHS Podcasts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agroforestry: The new-old science]]></title>
-        <id>ce67d808-7ad5-40ca-b045-86b09b372234</id>
-        <link href="https://share.transistor.fm/s/782b35a9"/>
-        <updated>2022-07-11T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When agriculture meets forestry, the result can have a surprising impact on the environment, wildlife habitats, crop production, and beyond. AAFC research scientist Dr. Raju Soolanayakanahally and Kevin Boon, General Manager of the BC Cattlemen’s Association, explore the roots of the long-standing practice of agroforestry, and the benefits it brings to the future of agriculture and climate change.]]></summary>
-        <author>
-            <name>Agriculture and Agri-food Canada</name>
         </author>
     </entry>
 </feed>
