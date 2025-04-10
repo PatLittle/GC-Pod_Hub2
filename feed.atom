@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-04-09T00:54:41.386Z</updated>
+    <updated>2025-04-10T00:54:45.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Climate Change Impacts on Workplace Health and Safety with Dr. Sarah Henderson]]></title>
+        <id>1bc8bc7d-613e-4ea9-8298-527fd8bc7edd</id>
+        <link href="https://ccohs.libsyn.com/climate-change-impacts-on-workplace-health-and-safety-with-dr-sarah-henderson"/>
+        <updated>2025-04-09T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Extreme weather events driven by climate change are happening across Canada with increasing frequency. Dr. Sarah Henderson joins us to discuss the potential impacts on workers and how workplaces can build more climate resiliency.]]></summary>
+        <author>
+            <name>CCOHS Podcasts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Future of Work with Tyler Waye]]></title>
         <id>1e9bf2d0-84cd-4425-bd13-eb451b10a587</id>
