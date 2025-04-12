@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-04-11T00:55:01.819Z</updated>
+    <updated>2025-04-12T00:54:08.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Day of Mourning: Tracey Csordas’ Story]]></title>
+        <id>6076381d-8af4-4aca-a37c-971bb539be49</id>
+        <link href="https://ccohs.libsyn.com/day-of-mourning-tracey-csordas-story"/>
+        <updated>2025-04-11T13:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Threads of Life Ambassador Tracey Csordas’ life changed forever the day her brother died in a preventable workplace tragedy. Hear her powerful story.]]></summary>
+        <author>
+            <name>CCOHS Podcasts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Climate Change Impacts on Workplace Health and Safety with Dr. Sarah Henderson]]></title>
         <id>1bc8bc7d-613e-4ea9-8298-527fd8bc7edd</id>

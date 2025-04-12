@@ -815,6 +815,24 @@
       "siteUrl": "http://ccohs.libsyn.com",
       "articles": [
         {
+          "id": "6076381d-8af4-4aca-a37c-971bb539be49",
+          "author": null,
+          "description": "Threads of Life Ambassador Tracey Csordas’ life changed forever the day her brother died in a preventable workplace tragedy. Hear her powerful story.",
+          "link": "https://ccohs.libsyn.com/day-of-mourning-tracey-csordas-story",
+          "publishedOn": "2025-04-11T13:05:00.000Z",
+          "wordCount": null,
+          "title": "Day of Mourning: Tracey Csordas’ Story",
+          "itunes": {
+            "duration": "15:54"
+          },
+          "enclosure": {
+            "length": "10122882",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Tracey_Csordas_final.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "1bc8bc7d-613e-4ea9-8298-527fd8bc7edd",
           "author": null,
           "description": "Extreme weather events driven by climate change are happening across Canada with increasing frequency. Dr. Sarah Henderson joins us to discuss the potential impacts on workers and how workplaces can build more climate resiliency.",
