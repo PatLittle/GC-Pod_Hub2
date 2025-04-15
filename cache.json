@@ -1641,42 +1641,6 @@
             "url": "https://traffic.libsyn.com/secure/ccohs/Episode194_FiveBasicRights_ofWorkers_French.mp3?dest-id=32116"
           },
           "imageUrl": null
-        },
-        {
-          "id": "cc3381fd-6699-467b-8508-4aa36a583bee",
-          "author": null,
-          "description": "Being able to fully disconnect from work is key to a healthy, happy, and productive workplace. In this episode, we discuss what employers and workers can each do to help.\n  \nReleased: July 19, 2022\n File Size:  3 MB\n Length: 5:51 minutes",
-          "link": "https://ccohs.libsyn.com/disconnecting-from-work",
-          "publishedOn": "2022-07-19T15:53:27.000Z",
-          "wordCount": null,
-          "title": "Disconnecting from Work",
-          "itunes": {
-            "duration": "05:52"
-          },
-          "enclosure": {
-            "length": "3174106",
-            "type": "audio/mpeg",
-            "url": "https://traffic.libsyn.com/secure/ccohs/Episode193_Disconnecting_English.mp3?dest-id=32116"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "933fcd6b-0ff4-4b13-a9c8-7be175f0b65b",
-          "author": null,
-          "description": "Être capable de complètement décrocher du travail est essentiel à un milieu de travail sain, positif et productif. Dans cet épisode, nous discutons de ce que les employeurs et les employés peuvent faire pour aider.\n  \nDate de diffusion : 17 juillet 2022\n Taille du fichier :7 MB\n Durée : 7 : 24 minutes",
-          "link": "https://ccohs.libsyn.com/se-dconnecter-du-travail",
-          "publishedOn": "2022-07-19T15:51:50.000Z",
-          "wordCount": null,
-          "title": "Se déconnecter du travail",
-          "itunes": {
-            "duration": "07:25"
-          },
-          "enclosure": {
-            "length": "3863140",
-            "type": "audio/mpeg",
-            "url": "https://traffic.libsyn.com/secure/ccohs/Episode193_Disconnecting_French.mp3?dest-id=32116"
-          },
-          "imageUrl": null
         }
       ]
     },
