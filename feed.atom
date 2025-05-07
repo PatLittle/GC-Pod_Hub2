@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-05-06T00:57:16.259Z</updated>
+    <updated>2025-05-07T00:57:19.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Losing Our Religion? It's Not That Simple]]></title>
+        <id>5ee3b70a-dc1d-48d5-9922-b136f8878ad5</id>
+        <link href="https://share.transistor.fm/s/b3bb6fe2"/>
+        <updated>2025-05-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Is that Canada in the corner? In the spotlight? Are we losing our religion?
+  The census found that 12.6 million people reported no religious affiliation in 2021, more than 1/3 of Canada's population. But is there more to the picture?
+  With guests Simon-Pierre Lacasse, Senior Analyst at StatCan, and Sarah Wilkins-Laflamme, Associate Professor at the University of Waterloo, we're exploring what's driving this trend, whether "no religion" means "no spirituality," and how the story varies from spiritual British Columbia to the cultural Catholicism of Quebec to the freshly painted churches of Atlantic Canada.]]></summary>
+        <author>
+            <name>Statistics Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day of Mourning: Tracey Csordas’ Story]]></title>
         <id>6076381d-8af4-4aca-a37c-971bb539be49</id>

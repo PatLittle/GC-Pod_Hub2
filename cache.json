@@ -6,6 +6,24 @@
       "siteUrl": "http://www.statcan.gc.ca/en/sc/podcasts",
       "articles": [
         {
+          "id": "5ee3b70a-dc1d-48d5-9922-b136f8878ad5",
+          "author": "Statistics Canada",
+          "description": "Is that Canada in the corner? In the spotlight? Are we losing our religion?\n  The census found that 12.6 million people reported no religious affiliation in 2021, more than 1/3 of Canada's population. But is there more to the picture?\n  With guests Simon-Pierre Lacasse, Senior Analyst at StatCan, and Sarah Wilkins-Laflamme, Associate Professor at the University of Waterloo, we're exploring what's driving this trend, whether \"no religion\" means \"no spirituality,\" and how the story varies from spiritual British Columbia to the cultural Catholicism of Quebec to the freshly painted churches of Atlantic Canada.",
+          "link": "https://share.transistor.fm/s/b3bb6fe2",
+          "publishedOn": "2025-05-06T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Losing Our Religion? It's Not That Simple",
+          "itunes": {
+            "duration": "2304"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/b3bb6fe2/63821fcd.mp3",
+            "length": "92192479",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "8c07daa9-913f-4c7b-81c9-a0ab90428cb8",
           "author": "Statistics Canada",
           "description": "What is it that helps someone transition from homeless to housed? We’re looking at new analysis of data from the Canadian Housing Survey to explore exactly that. In conversation with Peter Tilley, the CEO of the Ottawa Mission, and Jeff Randle, Chief of the Housing Need Project section at Statistics Canada, we’re asking why homelessness (and homelessness data!) is more complex than you might think, what factors most often led to regaining housing, and why housing can be challenging to maintain even after it’s been regained. \nThe Daily — Exiting homelessness: Results from the 2022 Canadian Housing Survey",
