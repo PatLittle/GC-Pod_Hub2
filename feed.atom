@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-05-13T00:58:03.493Z</updated>
+    <updated>2025-05-14T00:57:26.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2249,32 +2249,6 @@ Date de diffusion : 21 septembre 2022
         <summary type="html"><![CDATA[40% of Quebec’s fruits and vegetables are grown in the Montérégie region due to its abundantly fertile organic soils. But these soils are under threat. We speak to Jacynthe Masse, an agroecology researcher, and Denys Van Winden, a vegetable producer from Sherrington, to learn about the challenges they’re facing and the experiments they’re running to save these soils.]]></summary>
         <author>
             <name>Agriculture and Agri-food Canada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S2 Ep. 06: Skills for the Digital Economy]]></title>
-        <id>Buzzsprout-11154033</id>
-        <link href="https://www.conferenceboard.ca/insights/podcasts/future-skills-centre"/>
-        <updated>2022-08-18T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Technological change is affecting every sector, and these changes shift the roles and the skills in demand. Our guests share their perspectives on what needs to happen to ensure Canada has the skilled talent it needs to take full advantage of the growing digital economy. We hear about two rapid training initiatives that seek to help their learners transition mid-career to jobs in the digital economy.
-Speakers
-Guests
-Namir Anani, President & CEO, Information and Communications Technology Council (ICTC)
-Rushmi Hasham, Director, Development and Accelerated Cybersecurity Training Programs, Rogers Cybersecure Catalyst
-Nathalie Sanon, Head, Training Program, IVADO
-Host
-Linda Nazareth
-Links
-Future Skills Centre Homepage: https://fsc-ccf.ca/
-Future Skills Centre Twitter: https://twitter.com/fsc_ccf_en
-The Conference Board of Canada Homepage :https://www.conferenceboard.ca/
-The Conference Board of Canada Twitter: https://twitter.com/ConfBoardofCda 
-The Conference Board of Canada Facebook: https://www.facebook.com/ConferenceBoardofCanada/ 
-ICTC-CTIC: https://www.ictc-ctic.ca/
-Rogers Cybersecure Catalyst: https://www.cybersecurecatalyst.ca/ 
-IVADO https://ivado.ca/]]></summary>
-        <author>
-            <name>The Future Skills Podcast</name>
         </author>
     </entry>
 </feed>
