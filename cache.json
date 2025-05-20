@@ -497,24 +497,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "814c8431-c3b0-44be-9b66-9c97f0ddb649",
-          "author": "Agriculture and Agri-food Canada",
-          "description": "40% of Quebec’s fruits and vegetables are grown in the Montérégie region due to its abundantly fertile organic soils. But these soils are under threat. We speak to Jacynthe Masse, an agroecology researcher, and Denys Van Winden, a vegetable producer from Sherrington, to learn about the challenges they’re facing and the experiments they’re running to save these soils.",
-          "link": "https://share.transistor.fm/s/1e1f16a5",
-          "publishedOn": "2022-08-24T11:42:54.000Z",
-          "wordCount": null,
-          "title": "Saving our organic soils",
-          "itunes": {
-            "duration": "1344"
-          },
-          "enclosure": {
-            "url": "https://media.transistor.fm/1e1f16a5/015667c4.mp3",
-            "length": "32340938",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },

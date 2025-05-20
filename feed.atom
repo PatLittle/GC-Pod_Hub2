@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-05-19T01:00:43.840Z</updated>
+    <updated>2025-05-20T00:58:59.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2239,16 +2239,6 @@ Date de diffusion : 21 septembre 2022
  Durée : 9 : 57 minutes]]></summary>
         <author>
             <name>CCOHS Podcasts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saving our organic soils]]></title>
-        <id>814c8431-c3b0-44be-9b66-9c97f0ddb649</id>
-        <link href="https://share.transistor.fm/s/1e1f16a5"/>
-        <updated>2022-08-24T11:42:54.000Z</updated>
-        <summary type="html"><![CDATA[40% of Quebec’s fruits and vegetables are grown in the Montérégie region due to its abundantly fertile organic soils. But these soils are under threat. We speak to Jacynthe Masse, an agroecology researcher, and Denys Van Winden, a vegetable producer from Sherrington, to learn about the challenges they’re facing and the experiments they’re running to save these soils.]]></summary>
-        <author>
-            <name>Agriculture and Agri-food Canada</name>
         </author>
     </entry>
 </feed>
