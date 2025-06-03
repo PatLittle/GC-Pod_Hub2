@@ -337,6 +337,24 @@
       "siteUrl": "https://agriculture.canada.ca/en/agri-info/first-sixteen-podcast",
       "articles": [
         {
+          "id": "1b3e9b56-9ee7-48a5-aad4-deea3b35805f",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "Farmers are taking action to protect the environment and strengthen the competitiveness of our agricultural sector. We speak with three producers who are leaders in reducing greenhouse gases, sequestering carbon, and building resilience against climate change. With support from the On-Farm Climate Action Fund (OFCAF), they’ve adopted beneficial management practices (BMPs) that make good business sense. Tune in to hear their insights and advice for fellow producers.",
+          "link": "https://share.transistor.fm/s/c84383ee",
+          "publishedOn": "2025-06-02T18:30:23.000Z",
+          "wordCount": null,
+          "title": "On Farm Climate Action in Action",
+          "itunes": {
+            "duration": "1686"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/c84383ee/4728d47b.mp3",
+            "length": "40579413",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "14f81efc-ce67-4e79-a1c6-24979d695f02",
           "author": "Agriculture and Agri-food Canada",
           "description": "Lori Robinson, a 6th generation farmer in PEI, is a data hound.  As a result of her 50+ years of her and her family taking detailed notes and 20 + years of doing a four-year crop rotation system she laid the groundwork for a user-friendly calculator for crop rotations that has both economic benefits for producers and environmental benefits. Developed at the Living Labs initiative in PEI in conjunction with the PEI Potato Board, the calculator helps producers maximize profits while reducing their use of pesticides and improving soil health. And the story of the calculator has some interesting twists.",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-06-02T01:01:05.765Z</updated>
+    <updated>2025-06-03T00:59:38.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On Farm Climate Action in Action]]></title>
+        <id>1b3e9b56-9ee7-48a5-aad4-deea3b35805f</id>
+        <link href="https://share.transistor.fm/s/c84383ee"/>
+        <updated>2025-06-02T18:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Farmers are taking action to protect the environment and strengthen the competitiveness of our agricultural sector. We speak with three producers who are leaders in reducing greenhouse gases, sequestering carbon, and building resilience against climate change. With support from the On-Farm Climate Action Fund (OFCAF), they’ve adopted beneficial management practices (BMPs) that make good business sense. Tune in to hear their insights and advice for fellow producers.]]></summary>
+        <author>
+            <name>Agriculture and Agri-food Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Losing Our Religion? It's Not That Simple]]></title>
         <id>5ee3b70a-dc1d-48d5-9922-b136f8878ad5</id>
