@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-06-11T00:59:39.747Z</updated>
+    <updated>2025-06-12T00:58:58.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Porter Talk #5: The Women Who Stood With Porters]]></title>
+        <id>d33b9267-4f10-483c-a79d-33a0c87e8d7a</id>
+        <link href="https://share.transistor.fm/s/433531c2"/>
+        <updated>2025-06-11T18:21:44.000Z</updated>
+        <summary type="html"><![CDATA[Join us as we meet some of the strong and devoted women who stood with porters. Without their commitment and persistence, union gains would not have been possible in light of the men’s absence while working on the rails. (Episode 5) 
+Transcript
+Narrator Biographies]]></summary>
+        <author>
+            <name>Discover Library and Archives Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On Farm Climate Action in Action]]></title>
         <id>1b3e9b56-9ee7-48a5-aad4-deea3b35805f</id>

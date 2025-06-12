@@ -2422,6 +2422,24 @@
       "siteUrl": "https://library-archives.canada.ca/eng/collection/engage-learn/podcast/pages/podcasts.aspx",
       "articles": [
         {
+          "id": "d33b9267-4f10-483c-a79d-33a0c87e8d7a",
+          "author": "Discover Library and Archives Canada",
+          "description": "Join us as we meet some of the strong and devoted women who stood with porters. Without their commitment and persistence, union gains would not have been possible in light of the men’s absence while working on the rails. (Episode 5) \nTranscript\nNarrator Biographies",
+          "link": "https://share.transistor.fm/s/433531c2",
+          "publishedOn": "2025-06-11T18:21:44.000Z",
+          "wordCount": null,
+          "title": "Porter Talk #5: The Women Who Stood With Porters",
+          "itunes": {
+            "duration": "3133"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/433531c2/c61dfcea.mp3",
+            "length": "50188851",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "bfc10cbe-cfe1-413d-8b4b-7b72768f40d0",
           "author": "Discover Library and Archives Canada",
           "description": "Join us as we meet some of the strong and devoted women who stood with porters. Without their commitment and persistence, union gains would not have been possible in light of the men’s absence while working on the rails. (Episode 5 trailer)\nTranscript\nNarrator Biographies",
