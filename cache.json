@@ -977,6 +977,42 @@
       "siteUrl": "http://ccohs.libsyn.com",
       "articles": [
         {
+          "id": "8c874cc6-995e-4c39-bd70-dfe74b8832fb",
+          "author": null,
+          "description": "À mesure que les journées s’allongent et que les températures grimpent, il est agréable de passer plus de temps dehors. Cependant, le travail à l’extérieur durant l’été comporte des risques particuliers. Dans cet épisode, nous examinons ces dangers et proposons des conseils pour que les employeurs et les travailleurs puissent y faire face.",
+          "link": "https://ccohs.libsyn.com/lt-lextrieur-prenez-garde-la-chaleur-conseils-pour-travailler-en-toute-scurit-dehors",
+          "publishedOn": "2025-06-12T13:46:00.000Z",
+          "wordCount": null,
+          "title": "L’été à l’extérieur, prenez garde à la chaleur : Conseils pour travailler en toute sécurité dehors",
+          "itunes": {
+            "duration": "11:10"
+          },
+          "enclosure": {
+            "length": "10713267",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Ep_225_TempsUpHeadsUp_FR.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "cdba8377-1514-4903-8eea-61eb6a048b85",
+          "author": null,
+          "description": "As days get longer and temperatures rise, it’s great to be able to spend more time outside. But working outdoors in the summer comes with unique hazards. We take a look at what those hazards are, and how employers and workers can prepare.",
+          "link": "https://ccohs.libsyn.com/temps-up-heads-up-working-safely-outdoors",
+          "publishedOn": "2025-06-12T13:34:00.000Z",
+          "wordCount": null,
+          "title": "Temps Up, Heads Up - Working Safely Outdoors",
+          "itunes": {
+            "duration": "05:26"
+          },
+          "enclosure": {
+            "length": "3506450",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Temps_Up_ENG.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "6076381d-8af4-4aca-a37c-971bb539be49",
           "author": null,
           "description": "Threads of Life Ambassador Tracey Csordas’ life changed forever the day her brother died in a preventable workplace tragedy. Hear her powerful story.",

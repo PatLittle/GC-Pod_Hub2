@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-06-12T00:58:58.003Z</updated>
+    <updated>2025-06-13T00:59:43.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[L’été à l’extérieur, prenez garde à la chaleur : Conseils pour travailler en toute sécurité dehors]]></title>
+        <id>8c874cc6-995e-4c39-bd70-dfe74b8832fb</id>
+        <link href="https://ccohs.libsyn.com/lt-lextrieur-prenez-garde-la-chaleur-conseils-pour-travailler-en-toute-scurit-dehors"/>
+        <updated>2025-06-12T13:46:00.000Z</updated>
+        <summary type="html"><![CDATA[À mesure que les journées s’allongent et que les températures grimpent, il est agréable de passer plus de temps dehors. Cependant, le travail à l’extérieur durant l’été comporte des risques particuliers. Dans cet épisode, nous examinons ces dangers et proposons des conseils pour que les employeurs et les travailleurs puissent y faire face.]]></summary>
+        <author>
+            <name>CCOHS Podcasts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temps Up, Heads Up - Working Safely Outdoors]]></title>
+        <id>cdba8377-1514-4903-8eea-61eb6a048b85</id>
+        <link href="https://ccohs.libsyn.com/temps-up-heads-up-working-safely-outdoors"/>
+        <updated>2025-06-12T13:34:00.000Z</updated>
+        <summary type="html"><![CDATA[As days get longer and temperatures rise, it’s great to be able to spend more time outside. But working outdoors in the summer comes with unique hazards. We take a look at what those hazards are, and how employers and workers can prepare.]]></summary>
+        <author>
+            <name>CCOHS Podcasts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Porter Talk #5: The Women Who Stood With Porters]]></title>
         <id>d33b9267-4f10-483c-a79d-33a0c87e8d7a</id>
