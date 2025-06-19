@@ -337,6 +337,24 @@
       "siteUrl": "https://agriculture.canada.ca/en/agri-info/first-sixteen-podcast",
       "articles": [
         {
+          "id": "41e29034-5f2e-401e-8428-68c66393276f",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "Innovators take risks. And they need investors who are willing and informed to help them take the risks.  Alison Sunstrum is a pioneering entrepreneur turned investor, now on a mission to fix the gaps she once faced—mentorship and access to capital—by investing in exceptional talent and bold ideas in agriculture. Graeme is part of the team at FCC Capital, which is a new effort from Farm Credit Canada to provide what he calls 'patient, and reliable capital' to agri-food and ag-tech companies across the country. Hear how these two and their teams are filling an important funding gap in Canada to help innovation in the ag sector.",
+          "link": "https://share.transistor.fm/s/b853f6d5",
+          "publishedOn": "2025-06-18T16:19:43.000Z",
+          "wordCount": null,
+          "title": "Innovative investments: Venture capital funding in agriculture and food",
+          "itunes": {
+            "duration": "1722"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/b853f6d5/b2920555.mp3",
+            "length": "48314080",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "1b3e9b56-9ee7-48a5-aad4-deea3b35805f",
           "author": "Agriculture and Agri-food Canada",
           "description": "Farmers are taking action to protect the environment and strengthen the competitiveness of our agricultural sector. We speak with three producers who are leaders in reducing greenhouse gases, sequestering carbon, and building resilience against climate change. With support from the On-Farm Climate Action Fund (OFCAF), they’ve adopted beneficial management practices (BMPs) that make good business sense. Tune in to hear their insights and advice for fellow producers.",

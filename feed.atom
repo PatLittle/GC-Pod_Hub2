@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-06-18T00:59:36.639Z</updated>
+    <updated>2025-06-19T00:59:36.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Innovative investments: Venture capital funding in agriculture and food]]></title>
+        <id>41e29034-5f2e-401e-8428-68c66393276f</id>
+        <link href="https://share.transistor.fm/s/b853f6d5"/>
+        <updated>2025-06-18T16:19:43.000Z</updated>
+        <summary type="html"><![CDATA[Innovators take risks. And they need investors who are willing and informed to help them take the risks.  Alison Sunstrum is a pioneering entrepreneur turned investor, now on a mission to fix the gaps she once faced—mentorship and access to capital—by investing in exceptional talent and bold ideas in agriculture. Graeme is part of the team at FCC Capital, which is a new effort from Farm Credit Canada to provide what he calls 'patient, and reliable capital' to agri-food and ag-tech companies across the country. Hear how these two and their teams are filling an important funding gap in Canada to help innovation in the ag sector.]]></summary>
+        <author>
+            <name>Agriculture and Agri-food Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[L’été à l’extérieur, prenez garde à la chaleur : Conseils pour travailler en toute sécurité dehors]]></title>
         <id>8c874cc6-995e-4c39-bd70-dfe74b8832fb</id>
