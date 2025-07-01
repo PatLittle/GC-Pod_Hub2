@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-06-30T01:03:51.703Z</updated>
+    <updated>2025-07-01T01:07:02.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2423,17 +2423,6 @@ Sylvia was a Jewish woman in economics, and even after she earned a Ph.D. from t
 We’re celebrating the 50th anniversary of Sylvia Ostry’s appointment as Chief Statistician. In this episode of Eh Sayers, featuring interviews with her sons, Adam Ostry and Jonathan Ostry, we are pleased to introduce you to this remarkable woman and to share with you eight pieces of advice inspired by her life.]]></summary>
         <author>
             <name>Statistics Canada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do incubators/accelerators support innovators and their IP?]]></title>
-        <id>9f1c96a4-d660-4816-91ce-6632a3538eda</id>
-        <link href="https://canadian-ip-voices.simplecast.com/episodes/how-do-incubators-accelerators-support-innovators-and-their-ip-6wiuPD_f"/>
-        <updated>2022-10-05T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Josée Pharand, Director of IP Programs and Policies at ventureLAB, explains how ventureLAB supports innovators and their IP in the Canadian innovation ecosystem. Tune in for a discussion about choosing between patents and trade secrets, and learn how many accelerators and incubators help companies grow without asking for any stake in their IP, equity or future revenues.
-Discover online: https://www.venturelab.ca/news/intellectual-property-101]]></summary>
-        <author>
-            <name>CanadianIPVoices@ised-isde.gc.ca (Josée Pharand, ventureLAB)</name>
         </author>
     </entry>
 </feed>
