@@ -310,24 +310,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "4e87cd5d-8c66-444a-8b47-9319c72d145f",
-          "author": "Statistics Canada",
-          "description": "If this is the first time you’re hearing about Sylvia Ostry, buckle up. \nSylvia was appointed Canada’s first and only female Chief Statistician in 1972, but she didn’t get there by playing by the rules. She was ambitious but grew up in a world where many thought that it was shameful to be female and have a career. \n \nSylvia was a Jewish woman in economics, and even after she earned a Ph.D. from the University of Cambridge, she was denied a job with the United Nations because of her gender. Nevertheless, she had a storied career, becoming the Chairman of the Economic Council of Canada then the Chief Economist  at the OECD. But we're not focusing on her career highlights. We're going behind the scenes to look at how she challenged herself to succeed, becoming both a respected economist and mother, and how she handled setbacks, and discrimination, all while staying true to herself and demonstrating the integrity for which she's remembered today.\nWe’re celebrating the 50th anniversary of Sylvia Ostry’s appointment as Chief Statistician. In this episode of Eh Sayers, featuring interviews with her sons, Adam Ostry and Jonathan Ostry, we are pleased to introduce you to this remarkable woman and to share with you eight pieces of advice inspired by her life.",
-          "link": "https://share.transistor.fm/s/26b274b8",
-          "publishedOn": "2022-10-07T04:00:00.000Z",
-          "wordCount": null,
-          "title": "Sylvia Ostry: Lessons from a Legend",
-          "itunes": {
-            "duration": "1920"
-          },
-          "enclosure": {
-            "url": "https://media.transistor.fm/26b274b8/15424d5c.mp3",
-            "length": "23070993",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2439,6 +2421,24 @@
       "feedUrl": "https://feeds.transistor.fm/discover-library-and-archives-canada",
       "siteUrl": "https://library-archives.canada.ca/eng/collection/engage-learn/podcast/pages/podcasts.aspx",
       "articles": [
+        {
+          "id": "93e20123-ebf0-4865-8ef1-bf9ea9d48fe0",
+          "author": "Discover Library and Archives Canada",
+          "description": "In the final episode of Porter Talk, we dive into how union gains paved the way for a brighter future for Black communities in Canada. This fight for basic human rights significantly contributed to a stronger and more progressive Canada for all. (Episode 6 trailer)\nTranscript\nNarrator Biographies",
+          "link": "https://share.transistor.fm/s/eadea876",
+          "publishedOn": "2025-07-02T18:50:51.000Z",
+          "wordCount": null,
+          "title": "Porter Talk: Episode 6 Trailer",
+          "itunes": {
+            "duration": "96"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/eadea876/29b90954.mp3",
+            "length": "1557905",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "d33b9267-4f10-483c-a79d-33a0c87e8d7a",
           "author": "Discover Library and Archives Canada",

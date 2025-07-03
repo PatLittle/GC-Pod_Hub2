@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-07-02T01:00:17.800Z</updated>
+    <updated>2025-07-03T00:59:57.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Porter Talk: Episode 6 Trailer]]></title>
+        <id>93e20123-ebf0-4865-8ef1-bf9ea9d48fe0</id>
+        <link href="https://share.transistor.fm/s/eadea876"/>
+        <updated>2025-07-02T18:50:51.000Z</updated>
+        <summary type="html"><![CDATA[In the final episode of Porter Talk, we dive into how union gains paved the way for a brighter future for Black communities in Canada. This fight for basic human rights significantly contributed to a stronger and more progressive Canada for all. (Episode 6 trailer)
+Transcript
+Narrator Biographies]]></summary>
+        <author>
+            <name>Discover Library and Archives Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Innovative investments: Venture capital funding in agriculture and food]]></title>
         <id>41e29034-5f2e-401e-8428-68c66393276f</id>
@@ -2407,20 +2419,6 @@ But why? What happened? Will the poverty rate continue to fall? And what happens
 Has there ever been a time and place in Canada where the poverty rate was zero? The closest may be the Mincome Experiment of the 1970s in Manitoba.   Many Canadians have never heard of this guaranteed income experiment, but it offers a glimpse at what eliminating poverty might look like. 
  
 To learn more, we spoke with Burton Gustajtis an economist from Statistics Canada, Evelyn Forget, a Professor of Economics and Community Health Sciences at the University of Manitoba and Kevin Milligan, a Professor of Economics in the Vancouver School of Economics at the University of British Columbia.]]></summary>
-        <author>
-            <name>Statistics Canada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sylvia Ostry: Lessons from a Legend]]></title>
-        <id>4e87cd5d-8c66-444a-8b47-9319c72d145f</id>
-        <link href="https://share.transistor.fm/s/26b274b8"/>
-        <updated>2022-10-07T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If this is the first time you’re hearing about Sylvia Ostry, buckle up. 
-Sylvia was appointed Canada’s first and only female Chief Statistician in 1972, but she didn’t get there by playing by the rules. She was ambitious but grew up in a world where many thought that it was shameful to be female and have a career. 
- 
-Sylvia was a Jewish woman in economics, and even after she earned a Ph.D. from the University of Cambridge, she was denied a job with the United Nations because of her gender. Nevertheless, she had a storied career, becoming the Chairman of the Economic Council of Canada then the Chief Economist  at the OECD. But we're not focusing on her career highlights. We're going behind the scenes to look at how she challenged herself to succeed, becoming both a respected economist and mother, and how she handled setbacks, and discrimination, all while staying true to herself and demonstrating the integrity for which she's remembered today.
-We’re celebrating the 50th anniversary of Sylvia Ostry’s appointment as Chief Statistician. In this episode of Eh Sayers, featuring interviews with her sons, Adam Ostry and Jonathan Ostry, we are pleased to introduce you to this remarkable woman and to share with you eight pieces of advice inspired by her life.]]></summary>
         <author>
             <name>Statistics Canada</name>
         </author>
