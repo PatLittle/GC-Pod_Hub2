@@ -2422,6 +2422,24 @@
       "siteUrl": "https://library-archives.canada.ca/eng/collection/engage-learn/podcast/pages/podcasts.aspx",
       "articles": [
         {
+          "id": "57c2f93f-d26a-4a5d-b988-7d8f10ef1477",
+          "author": "Discover Library and Archives Canada",
+          "description": "In the final episode of Porter Talk, we dive into how union gains paved the way for a brighter future for Black communities in Canada. This fight for basic human rights significantly contributed to a stronger and more progressive Canada for all. (Episode 6) \nTranscript\nNarrator Biographies",
+          "link": "https://share.transistor.fm/s/dcc73db0",
+          "publishedOn": "2025-07-09T18:07:32.000Z",
+          "wordCount": null,
+          "title": "Porter Talk #6: Porters and the Making of Modern Canada",
+          "itunes": {
+            "duration": "3509"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/dcc73db0/d6af6a02.mp3",
+            "length": "56187857",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "93e20123-ebf0-4865-8ef1-bf9ea9d48fe0",
           "author": "Discover Library and Archives Canada",
           "description": "In the final episode of Porter Talk, we dive into how union gains paved the way for a brighter future for Black communities in Canada. This fight for basic human rights significantly contributed to a stronger and more progressive Canada for all. (Episode 6 trailer)\nTranscript\nNarrator Biographies",

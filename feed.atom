@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-07-09T01:01:21.240Z</updated>
+    <updated>2025-07-10T01:01:14.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Porter Talk #6: Porters and the Making of Modern Canada]]></title>
+        <id>57c2f93f-d26a-4a5d-b988-7d8f10ef1477</id>
+        <link href="https://share.transistor.fm/s/dcc73db0"/>
+        <updated>2025-07-09T18:07:32.000Z</updated>
+        <summary type="html"><![CDATA[In the final episode of Porter Talk, we dive into how union gains paved the way for a brighter future for Black communities in Canada. This fight for basic human rights significantly contributed to a stronger and more progressive Canada for all. (Episode 6) 
+Transcript
+Narrator Biographies]]></summary>
+        <author>
+            <name>Discover Library and Archives Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Porter Talk: Episode 6 Trailer]]></title>
         <id>93e20123-ebf0-4865-8ef1-bf9ea9d48fe0</id>
