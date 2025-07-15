@@ -959,6 +959,24 @@
       "siteUrl": "http://ccohs.libsyn.com",
       "articles": [
         {
+          "id": "5e3a7f2e-e52e-461d-bb8f-8bc7e7cf273c",
+          "author": null,
+          "description": "Despite legislation designed to protect the rights of two-spirit, trans and non-binary people in Canada, many still face discrimination in their daily lives, including at work or seeking employment. A recent study by Egale Canada seeks to better understand their challenges.",
+          "link": "https://ccohs.libsyn.com/creating-workplaces-where-everyone-can-thrive",
+          "publishedOn": "2025-07-14T14:14:00.000Z",
+          "wordCount": null,
+          "title": "Creating Workplaces Where Everyone Can Thrive",
+          "itunes": {
+            "duration": "20:57"
+          },
+          "enclosure": {
+            "length": "11284496",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Ep_226_EgaleCanada_NORMALIZED.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "8c874cc6-995e-4c39-bd70-dfe74b8832fb",
           "author": null,
           "description": "À mesure que les journées s’allongent et que les températures grimpent, il est agréable de passer plus de temps dehors. Cependant, le travail à l’extérieur durant l’été comporte des risques particuliers. Dans cet épisode, nous examinons ces dangers et proposons des conseils pour que les employeurs et les travailleurs puissent y faire face.",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-07-14T01:04:59.447Z</updated>
+    <updated>2025-07-15T01:04:12.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Creating Workplaces Where Everyone Can Thrive]]></title>
+        <id>5e3a7f2e-e52e-461d-bb8f-8bc7e7cf273c</id>
+        <link href="https://ccohs.libsyn.com/creating-workplaces-where-everyone-can-thrive"/>
+        <updated>2025-07-14T14:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite legislation designed to protect the rights of two-spirit, trans and non-binary people in Canada, many still face discrimination in their daily lives, including at work or seeking employment. A recent study by Egale Canada seeks to better understand their challenges.]]></summary>
+        <author>
+            <name>CCOHS Podcasts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Porter Talk #6: Porters and the Making of Modern Canada]]></title>
         <id>57c2f93f-d26a-4a5d-b988-7d8f10ef1477</id>
