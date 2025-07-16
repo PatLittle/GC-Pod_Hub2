@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-07-15T01:04:12.464Z</updated>
+    <updated>2025-07-16T01:02:40.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Tariff on Both Your Houses]]></title>
+        <id>94e44611-87c1-4dd0-8d4e-b80bd316df7c</id>
+        <link href="https://share.transistor.fm/s/2d57cae0"/>
+        <updated>2025-07-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Two countries, both alike in dignity, 
+In North America, where we lay our scene, 
+From ancient friendship break to new trade tragedy, 
+Of data on trade and tariffs, what might we glean? 
+ 
+Join us as we speak with Guy Gellatly, Chief Economic Advisor, at Statistics Canada, as we explore what’s been going on with trade with our closest neighbour, what the early numbers suggest about the conflict, and what impact it might have on Canada’s economy.]]></summary>
+        <author>
+            <name>Statistics Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creating Workplaces Where Everyone Can Thrive]]></title>
         <id>5e3a7f2e-e52e-461d-bb8f-8bc7e7cf273c</id>
@@ -2401,30 +2416,6 @@ Date de diffusion : 20 octobre 2022
  Durée : 9 : 23 minutes]]></summary>
         <author>
             <name>CCOHS Podcasts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Take a Stand on Ergonomic Hazards]]></title>
-        <id>3b949531-0016-4c99-8992-e106be58e237</id>
-        <link href="https://ccohs.libsyn.com/take-a-stand-on-ergonomic-hazards"/>
-        <updated>2022-10-19T17:31:19.000Z</updated>
-        <summary type="html"><![CDATA[Preventing any ergonomic injury starts with identifying the hazards and risk factors. Here’s what to look out for when it comes to standing on the job.
-  
-Released: October 19, 2022
- File Size: 5 MB
- Length: 6:40 minutes]]></summary>
-        <author>
-            <name>CCOHS Podcasts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Treasures Revealed: Episode 6]]></title>
-        <id>6ED40A00-CBCA-4FD9-A464-8E5D8831C717</id>
-        <link href="https://share.transistor.fm/s/f5ae1610"/>
-        <updated>2022-10-19T13:19:30.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of Treasures Revealed, we speak with Marcelle Cinq-Mars, senior military archivist in the Government Archives Division at LAC. Marcelle tells us about the amazing discovery she made while rehousing documents LAC received from the Department of National Defence.]]></summary>
-        <author>
-            <name>Library and Archives Canada</name>
         </author>
     </entry>
 </feed>
