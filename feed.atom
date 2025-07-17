@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-07-16T01:02:40.097Z</updated>
+    <updated>2025-07-17T01:03:16.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Opening new markets in the Indo-Pacific]]></title>
+        <id>56bc96e2-6d5d-42ce-83a0-47f4bd62dcac</id>
+        <link href="https://share.transistor.fm/s/a0b844c2"/>
+        <updated>2025-07-16T14:33:56.000Z</updated>
+        <summary type="html"><![CDATA[How do we open new markets in diverse and dynamic countries? What challenges do we face, and what solutions are being used? Chris White, President and CEO of the Canadian Meat Council, and Diedrah Kelly, Executive Director of the Indo-Pacific Agriculture and Agri-Food Office in Manila, share their insights. From building strong trade relationships to promoting Canada’s trusted brand, this episode explores the work needed to grow Canada’s presence in one of the world’s fastest-growing regions.]]></summary>
+        <author>
+            <name>Agriculture and Agri-food Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Tariff on Both Your Houses]]></title>
         <id>94e44611-87c1-4dd0-8d4e-b80bd316df7c</id>
@@ -2402,20 +2412,6 @@ Filing for a trademark with the Canadian Intellectual Property Office
 Canadian Internet Registration Authority]]></summary>
         <author>
             <name>CanadianIPVoices@ised-isde.gc.ca (James Plotkin, CIPO, Corporations Canada)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prenez position contre les risques ergonomiques]]></title>
-        <id>320bbda9-f11b-4a9d-a251-e69d507e64ef</id>
-        <link href="https://ccohs.libsyn.com/prenez-position-contre-les-risques-ergonomiques"/>
-        <updated>2022-10-20T22:01:19.000Z</updated>
-        <summary type="html"><![CDATA[La prévention des blessures ergonomiques commence par la détermination des dangers et des facteurs de risque. Voici ce qu'il faut surveiller lorsqu'il s'agit de se tenir au travail.
-  
-Date de diffusion : 20 octobre 2022
- Taille du fichier : 4.8 MB
- Durée : 9 : 23 minutes]]></summary>
-        <author>
-            <name>CCOHS Podcasts</name>
         </author>
     </entry>
 </feed>
