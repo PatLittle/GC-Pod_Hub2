@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-07-28T01:07:55.013Z</updated>
+    <updated>2025-07-29T01:10:16.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2386,32 +2386,6 @@ Date de diffusion : 16 novembre 2022
         <summary type="html"><![CDATA[In the 7th episode of Treasures Revealed we speak with Senior Archivist Christine Barrass about an extraordinary scroll, or Sefer Torah, that is part of the Shearith Israel synagogue collection held at LAC. This scroll is a document  hand-written in Hebrew by a scribe and measures approximately 35 metres in length when fully unrolled. The Sefer Torah is considered to be the most valued object in Judaism, and is a highlight of the Jewish collections at LAC.]]></summary>
         <author>
             <name>Library and Archives Canada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You asked, we answer]]></title>
-        <id>a57e62a4-073a-4f61-89e3-638d818c169a</id>
-        <link href="https://podcasters.spotify.com/pod/show/cfia/episodes/You-asked--we-answer-e1q38vh"/>
-        <updated>2022-11-02T10:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year, we asked for your questions. This podcast, we answer them! We reached out to experts across the country to get answers about travelling with food, alcohol labelling, pet food, chicken hatcheries, allergen recalls and much more.]]></summary>
-        <author>
-            <name>Canadian Food Inspection Agency</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the difference between a corporation name, trade name, brand name and domain name?]]></title>
-        <id>0617f558-97ad-47cb-8260-481324ff59bd</id>
-        <link href="https://canadian-ip-voices.simplecast.com/episodes/what-is-the-difference-between-a-corporation-name-trade-name-brand-name-and-domain-name-8ahjiPVK"/>
-        <updated>2022-11-02T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Martin Lacelle from Corporations Canada and lawyer James Plotkin clarify the differences between and importance of legal/trade/brand/domain names.
-Explore online:
-
-Corporations Canada
-Incorporating in a specific province or territory
-Filing for a trademark with the Canadian Intellectual Property Office
-Canadian Internet Registration Authority]]></summary>
-        <author>
-            <name>CanadianIPVoices@ised-isde.gc.ca (James Plotkin, CIPO, Corporations Canada)</name>
         </author>
     </entry>
 </feed>

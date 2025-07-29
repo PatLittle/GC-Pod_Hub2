@@ -1864,24 +1864,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "a57e62a4-073a-4f61-89e3-638d818c169a",
-          "author": "Canadian Food Inspection Agency",
-          "description": "Earlier this year, we asked for your questions. This podcast, we answer them! We reached out to experts across the country to get answers about travelling with food, alcohol labelling, pet food, chicken hatcheries, allergen recalls and much more.",
-          "link": "https://podcasters.spotify.com/pod/show/cfia/episodes/You-asked--we-answer-e1q38vh",
-          "publishedOn": "2022-11-02T10:00:07.000Z",
-          "wordCount": null,
-          "title": "You asked, we answer",
-          "itunes": {
-            "duration": "00:23:51"
-          },
-          "enclosure": {
-            "url": "https://anchor.fm/s/3bcc4b70/podcast/play/59924913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-1%2Ff4610bbd-ee2a-9fdb-a6ac-61bd12005cfc.mp3",
-            "length": "57280512",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2193,24 +2175,6 @@
             "length": "19998336",
             "type": "audio/mpeg",
             "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/913d15c4-ce79-4733-bbbc-e38c38a5158a/audio/eee3dbcf-c288-4643-81e3-27200085bcd1/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "0617f558-97ad-47cb-8260-481324ff59bd",
-          "author": "CanadianIPVoices@ised-isde.gc.ca (James Plotkin, CIPO, Corporations Canada)",
-          "description": "Martin Lacelle from Corporations Canada and lawyer James Plotkin clarify the differences between and importance of legal/trade/brand/domain names.\nExplore online:\n\nCorporations Canada\nIncorporating in a specific province or territory\nFiling for a trademark with the Canadian Intellectual Property Office\nCanadian Internet Registration Authority",
-          "link": "https://canadian-ip-voices.simplecast.com/episodes/what-is-the-difference-between-a-corporation-name-trade-name-brand-name-and-domain-name-8ahjiPVK",
-          "publishedOn": "2022-11-02T04:00:00.000Z",
-          "wordCount": null,
-          "title": "What is the difference between a corporation name, trade name, brand name and domain name?",
-          "itunes": {
-            "duration": "00:23:53"
-          },
-          "enclosure": {
-            "length": "22997412",
-            "type": "audio/mpeg",
-            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/6c89ef65-b386-461c-bbc4-8e7c9ae96897/audio/14451807-10ed-4c0e-ad21-65c3476d1d43/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
           },
           "imageUrl": null
         }
