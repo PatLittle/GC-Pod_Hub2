@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-08-10T01:08:31.646Z</updated>
+    <updated>2025-08-11T01:05:54.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2376,16 +2376,6 @@ Date de diffusion : 16 novembre 2022
  Durée : 17 : 57 minutes]]></summary>
         <author>
             <name>CCOHS Podcasts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Treasures Revealed: Episode 7]]></title>
-        <id>C4563021-5A44-47B1-BDD4-084C4554022D</id>
-        <link href="https://share.transistor.fm/s/c6508cd6"/>
-        <updated>2022-11-14T20:19:02.000Z</updated>
-        <summary type="html"><![CDATA[In the 7th episode of Treasures Revealed we speak with Senior Archivist Christine Barrass about an extraordinary scroll, or Sefer Torah, that is part of the Shearith Israel synagogue collection held at LAC. This scroll is a document  hand-written in Hebrew by a scribe and measures approximately 35 metres in length when fully unrolled. The Sefer Torah is considered to be the most valued object in Judaism, and is a highlight of the Jewish collections at LAC.]]></summary>
-        <author>
-            <name>Library and Archives Canada</name>
         </author>
     </entry>
 </feed>
