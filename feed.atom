@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-08-12T00:59:19.737Z</updated>
+    <updated>2025-08-13T01:00:28.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Canadians Just Aren't California Dreamin' These Days]]></title>
+        <id>08484d18-c6b5-4789-acfb-aa9833a7387a</id>
+        <link href="https://share.transistor.fm/s/0e051e5c"/>
+        <updated>2025-08-12T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Calllllll-i-forrrrr-nia... here we come?
+
+
+ If you've changed your plans to visit the US recently, you're not alone. Nowadays, Canadians are more likely to be singing along to "Bobcaygeon" than "Sweet Home Alabama."
+ 
+Today, we're sitting down with Jane Lin, of the Tourism Statistics Program at Statistics Canada, to dig into StatCan's tourism data and talk about how travel is different these days.
+Travel and Tourism Statistics]]></summary>
+        <author>
+            <name>Statistics Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Opening new markets in the Indo-Pacific]]></title>
         <id>56bc96e2-6d5d-42ce-83a0-47f4bd62dcac</id>
@@ -2354,28 +2370,6 @@ At the same time, the climate impacts our homes: when severe weather strikes and
 Andrew DeFazio, Climate Change Advisor at Canada Mortgage and Housing Corporation (CMHC) joins us to explore how we can climate-proof our housing strategy and home-proof our climate strategy.]]></summary>
         <author>
             <name>Statistics Canada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carer-Friendly Workplaces]]></title>
-        <id>c050d323-3a64-442c-9777-adb7a1ecad98</id>
-        <link href="https://ccohs.libsyn.com/carer-friendly-workplaces-with-nora-spinx"/>
-        <updated>2022-11-16T17:50:21.000Z</updated>
-        <summary type="html"><![CDATA[The number of workers in Canada who are also caregivers is on the rise. Here’s how workplaces can provide support.
-  
-Released: November 16, 2022
- File Size: 9 MB
- Length: 17:57 minutes
-  
--------------------------
- >
-  Le nombre de travailleurs canadiens qui sont également des aidants naturels augmente. Voici comment les lieux de travail peuvent vous aider.
-  
-Date de diffusion : 16 novembre 2022
- Taille du fichier :9 MB
- Durée : 17 : 57 minutes]]></summary>
-        <author>
-            <name>CCOHS Podcasts</name>
         </author>
     </entry>
 </feed>

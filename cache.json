@@ -6,6 +6,24 @@
       "siteUrl": "http://www.statcan.gc.ca/en/sc/podcasts",
       "articles": [
         {
+          "id": "08484d18-c6b5-4789-acfb-aa9833a7387a",
+          "author": "Statistics Canada",
+          "description": "Calllllll-i-forrrrr-nia... here we come?\n\n\n If you've changed your plans to visit the US recently, you're not alone. Nowadays, Canadians are more likely to be singing along to \"Bobcaygeon\" than \"Sweet Home Alabama.\"\n \nToday, we're sitting down with Jane Lin, of the Tourism Statistics Program at Statistics Canada, to dig into StatCan's tourism data and talk about how travel is different these days.\nTravel and Tourism Statistics",
+          "link": "https://share.transistor.fm/s/0e051e5c",
+          "publishedOn": "2025-08-12T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Canadians Just Aren't California Dreamin' These Days",
+          "itunes": {
+            "duration": "657"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/0e051e5c/d6563af3.mp3",
+            "length": "26273012",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "94e44611-87c1-4dd0-8d4e-b80bd316df7c",
           "author": "Statistics Canada",
           "description": "Two countries, both alike in dignity, \nIn North America, where we lay our scene, \nFrom ancient friendship break to new trade tragedy, \nOf data on trade and tariffs, what might we glean? \n \nJoin us as we speak with Guy Gellatly, Chief Economic Advisor, at Statistics Canada, as we explore what’s been going on with trade with our closest neighbour, what the early numbers suggest about the conflict, and what impact it might have on Canada’s economy.",
@@ -1765,24 +1783,6 @@
             "length": "4716985",
             "type": "audio/mpeg",
             "url": "https://traffic.libsyn.com/secure/ccohs/Episode198_WorkingInTheCold_French.mp3?dest-id=32116"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "c050d323-3a64-442c-9777-adb7a1ecad98",
-          "author": null,
-          "description": "The number of workers in Canada who are also caregivers is on the rise. Here’s how workplaces can provide support.\n  \nReleased: November 16, 2022\n File Size: 9 MB\n Length: 17:57 minutes\n  \n-------------------------\n >\n  Le nombre de travailleurs canadiens qui sont également des aidants naturels augmente. Voici comment les lieux de travail peuvent vous aider.\n  \nDate de diffusion : 16 novembre 2022\n Taille du fichier :9 MB\n Durée : 17 : 57 minutes",
-          "link": "https://ccohs.libsyn.com/carer-friendly-workplaces-with-nora-spinx",
-          "publishedOn": "2022-11-16T17:50:21.000Z",
-          "wordCount": null,
-          "title": "Carer-Friendly Workplaces",
-          "itunes": {
-            "duration": "17:58"
-          },
-          "enclosure": {
-            "length": "10376071",
-            "type": "audio/mpeg",
-            "url": "https://traffic.libsyn.com/secure/ccohs/Episode197_CarerFriendlyWorkplaces.mp3?dest-id=32116"
           },
           "imageUrl": null
         }
