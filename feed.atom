@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-08-18T01:04:33.630Z</updated>
+    <updated>2025-08-19T00:58:22.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2347,16 +2347,6 @@ FIFA Intellectual Property Guidelines]]></summary>
         <summary type="html"><![CDATA[In this episode of Treasures Revealed, Indigenous Research Archivist Elizabeth Montour relies on knowledge and instinct to decipher the story of a Kanienhkenha:ka woman she observes in a 19th century watercolour. As Elizabeth examines the painting, she imagines what life might have been like for her ancestors living in her home of Kahnawake, in a time of great transition.]]></summary>
         <author>
             <name>Library and Archives Canada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modelling the future of water]]></title>
-        <id>19c37a2e-ecb3-46dc-b759-6700d0492e42</id>
-        <link href="https://share.transistor.fm/s/f5f619ce"/>
-        <updated>2022-11-23T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To predict the future of water, we have to understand the present. That's exactly what AAFC's Dr. David Lapen and Dr. Steven Frey from Aquanty Inc., are endeavoring to do. Listen in as they discuss their work on a complex, country-wide hydrological modelling tool.  It is designed to help researchers, producers and decision makers anticipate water resources of tomorrow and make better, more informed decisions today. This is the Canada 1 Water project.]]></summary>
-        <author>
-            <name>Agriculture and Agri-food Canada</name>
         </author>
     </entry>
 </feed>

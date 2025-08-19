@@ -515,24 +515,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "19c37a2e-ecb3-46dc-b759-6700d0492e42",
-          "author": "Agriculture and Agri-food Canada",
-          "description": "To predict the future of water, we have to understand the present. That's exactly what AAFC's Dr. David Lapen and Dr. Steven Frey from Aquanty Inc., are endeavoring to do. Listen in as they discuss their work on a complex, country-wide hydrological modelling tool.  It is designed to help researchers, producers and decision makers anticipate water resources of tomorrow and make better, more informed decisions today. This is the Canada 1 Water project.",
-          "link": "https://share.transistor.fm/s/f5f619ce",
-          "publishedOn": "2022-11-23T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Modelling the future of water",
-          "itunes": {
-            "duration": "1353"
-          },
-          "enclosure": {
-            "url": "https://media.transistor.fm/f5f619ce/1a674b23.mp3",
-            "length": "21690353",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
