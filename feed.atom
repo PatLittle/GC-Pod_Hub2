@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-08-19T00:58:22.394Z</updated>
+    <updated>2025-08-20T00:56:11.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Safe and Welcoming Workplace for Newcomers]]></title>
+        <id>707fa6a4-1a8e-4ee1-90aa-8d9133273147</id>
+        <link href="https://ccohs.libsyn.com/a-safe-and-welcoming-workplace-for-newcomers"/>
+        <updated>2025-08-19T12:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Immigrants contribute significantly to Canada’s economy but often face challenges that could impact their health and safety. We speak with Bill Chen of Workplace Safety and Protection Services on how workplaces can create safer and more welcoming environments for newcomers.]]></summary>
+        <author>
+            <name>CCOHS Podcasts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canadians Just Aren't California Dreamin' These Days]]></title>
         <id>08484d18-c6b5-4789-acfb-aa9833a7387a</id>

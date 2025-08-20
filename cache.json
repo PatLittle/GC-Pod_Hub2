@@ -977,6 +977,24 @@
       "siteUrl": "http://ccohs.libsyn.com",
       "articles": [
         {
+          "id": "707fa6a4-1a8e-4ee1-90aa-8d9133273147",
+          "author": null,
+          "description": "Immigrants contribute significantly to Canada’s economy but often face challenges that could impact their health and safety. We speak with Bill Chen of Workplace Safety and Protection Services on how workplaces can create safer and more welcoming environments for newcomers.",
+          "link": "https://ccohs.libsyn.com/a-safe-and-welcoming-workplace-for-newcomers",
+          "publishedOn": "2025-08-19T12:44:00.000Z",
+          "wordCount": null,
+          "title": "A Safe and Welcoming Workplace for Newcomers",
+          "itunes": {
+            "duration": "13:01"
+          },
+          "enclosure": {
+            "length": "7063100",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Ep_227_A_Safe_and_Welcoming_Workplace_for_Newcomers_NORMALIZED.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "5e3a7f2e-e52e-461d-bb8f-8bc7e7cf273c",
           "author": null,
           "description": "Despite legislation designed to protect the rights of two-spirit, trans and non-binary people in Canada, many still face discrimination in their daily lives, including at work or seeking employment. A recent study by Egale Canada seeks to better understand their challenges.",
