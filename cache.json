@@ -2744,24 +2744,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "8A54F9C1-40A1-4BAE-AFBB-BFA7975810DB",
-          "author": "Library and Archives Canada",
-          "description": "In this episode of Treasures Revealed, Indigenous Research Archivist Elizabeth Montour relies on knowledge and instinct to decipher the story of a Kanienhkenha:ka woman she observes in a 19th century watercolour. As Elizabeth examines the painting, she imagines what life might have been like for her ancestors living in her home of Kahnawake, in a time of great transition.",
-          "link": "https://share.transistor.fm/s/5ae8a8ec",
-          "publishedOn": "2022-11-30T14:53:31.000Z",
-          "wordCount": null,
-          "title": "Treasures Revealed: Episode 8",
-          "itunes": {
-            "duration": "763"
-          },
-          "enclosure": {
-            "url": "https://media.transistor.fm/5ae8a8ec/25c27614.mp3",
-            "length": "12379109",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },

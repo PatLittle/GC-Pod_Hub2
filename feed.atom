@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-08-26T00:57:22.556Z</updated>
+    <updated>2025-08-27T00:55:49.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2347,16 +2347,6 @@ Explore online: 
 FIFA Intellectual Property Guidelines]]></summary>
         <author>
             <name>CanadianIPVoices@ised-isde.gc.ca (FIFA, Raed AlHout, Julie Jones, CIPO)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Treasures Revealed: Episode 8]]></title>
-        <id>8A54F9C1-40A1-4BAE-AFBB-BFA7975810DB</id>
-        <link href="https://share.transistor.fm/s/5ae8a8ec"/>
-        <updated>2022-11-30T14:53:31.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of Treasures Revealed, Indigenous Research Archivist Elizabeth Montour relies on knowledge and instinct to decipher the story of a Kanienhkenha:ka woman she observes in a 19th century watercolour. As Elizabeth examines the painting, she imagines what life might have been like for her ancestors living in her home of Kahnawake, in a time of great transition.]]></summary>
-        <author>
-            <name>Library and Archives Canada</name>
         </author>
     </entry>
 </feed>
