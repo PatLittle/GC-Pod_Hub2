@@ -2141,24 +2141,6 @@
             "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/1c1f149a-72c8-4d08-a2b6-8ab8e24cf9b0/audio/d97ae5a5-245c-4425-b722-954fe3635d0c/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
           },
           "imageUrl": null
-        },
-        {
-          "id": "7f9de9c0-3238-4aaa-958d-535b71b43472",
-          "author": "CanadianIPVoices@ised-isde.gc.ca (FIFA, Raed AlHout, Julie Jones, CIPO)",
-          "description": "Julie Jones and Raed AlHout explain how the FIFA head office in Switzerland and officials in Qatar protect FIFA IP assets before and during the World Cup.\nExplore online: \nFIFA Intellectual Property Guidelines",
-          "link": "https://canadian-ip-voices.simplecast.com/episodes/fifa-world-cup-special-how-fifa-protects-its-intellectual-property-d0ihJoDR",
-          "publishedOn": "2022-12-07T05:00:00.000Z",
-          "wordCount": null,
-          "title": "FIFA World Cup special: How FIFA protects its intellectual property",
-          "itunes": {
-            "duration": "00:20:45"
-          },
-          "enclosure": {
-            "length": "19998336",
-            "type": "audio/mpeg",
-            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/913d15c4-ce79-4733-bbbc-e38c38a5158a/audio/eee3dbcf-c288-4643-81e3-27200085bcd1/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
-          },
-          "imageUrl": null
         }
       ]
     },
