@@ -1828,24 +1828,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "6a55cf10-9370-4e00-84d4-81ad930203aa",
-          "author": "Canadian Food Inspection Agency",
-          "description": "Crickets have attracted global interest for their sustainable farming potential. And yet, so few of us have hopped on to this protein trend. In this podcast, we explore the edible insect landscape in Canada with food trend expert Dana McCauley.",
-          "link": "https://podcasters.spotify.com/pod/show/cfia/episodes/Are-crickets-the-new-tofu-e1rtvhc",
-          "publishedOn": "2022-12-08T11:01:00.000Z",
-          "wordCount": null,
-          "title": "Are crickets the new tofu?",
-          "itunes": {
-            "duration": "00:22:47"
-          },
-          "enclosure": {
-            "url": "https://anchor.fm/s/3bcc4b70/podcast/play/61848556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-7%2F670ce1b4-269b-ee6f-b988-5479a2d9ec14.mp3",
-            "length": "54704128",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
