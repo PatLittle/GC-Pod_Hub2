@@ -1731,42 +1731,6 @@
             "url": "https://traffic.libsyn.com/secure/ccohs/Episode199_PlainLanguage_Francais.mp3?dest-id=32116"
           },
           "imageUrl": null
-        },
-        {
-          "id": "cda728cd-e607-4b35-b228-ffa467342c79",
-          "author": null,
-          "description": "There’s a lot more to working safely in the cold than bundling up in layers. In the latest CCOHS podcast: what workers and employers need to know.\n  \nReleased: December 13, 2022\n File Size: 5 MB\n Length: 6:34 minutes",
-          "link": "https://ccohs.libsyn.com/temps-down-heads-up-working-safely-in-the-cold",
-          "publishedOn": "2022-12-13T22:17:42.000Z",
-          "wordCount": null,
-          "title": "Temps down, heads up: Working Safely in the Cold",
-          "itunes": {
-            "duration": "06:35"
-          },
-          "enclosure": {
-            "length": "3635021",
-            "type": "audio/mpeg",
-            "url": "https://traffic.libsyn.com/secure/ccohs/Episode198_WorkingInTheCold_English.mp3?dest-id=32116"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "6833ea75-ff40-4bfb-9f2b-3902d0c66a60",
-          "author": null,
-          "description": "Pour travailler en toute sécurité dans le froid, il ne suffit pas de s’emmitoufler dans plusieurs couches de vêtements. Dans le dernier balado du CCHST : ce que les travailleurs et les employeurs doivent savoir.\n  \nDate de diffusion : 13 decembre 2022\n Taille du fichier :5 MB\n Durée : 9 : 13 minutes",
-          "link": "https://ccohs.libsyn.com/tempratures-la-baisse-attachez-votre-tuque-travaillez-au-froid-en-scurit",
-          "publishedOn": "2022-12-13T22:15:55.000Z",
-          "wordCount": null,
-          "title": "Températures à la baisse ? Attachez votre tuque ! Travaillez au froid en sécurité",
-          "itunes": {
-            "duration": "09:14"
-          },
-          "enclosure": {
-            "length": "4716985",
-            "type": "audio/mpeg",
-            "url": "https://traffic.libsyn.com/secure/ccohs/Episode198_WorkingInTheCold_French.mp3?dest-id=32116"
-          },
-          "imageUrl": null
         }
       ]
     },
