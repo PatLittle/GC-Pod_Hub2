@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-09-10T00:53:31.316Z</updated>
+    <updated>2025-09-11T00:54:48.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2287,16 +2287,6 @@ Explore online :
 Learn about IP]]></summary>
         <author>
             <name>CanadianIPVoices@ised-isde.gc.ca (Point Cardinal, CIPO)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turning manure into gold]]></title>
-        <id>3513bd14-368b-463c-a03c-df97430ed169</id>
-        <link href="https://share.transistor.fm/s/eb9844f8"/>
-        <updated>2022-12-15T17:21:32.000Z</updated>
-        <summary type="html"><![CDATA[“Waste is not waste. It’s just misplaced resources”. That is according to Rajinikanth Rajagopal and the team of researchers at the Sherbrooke Research and Development Centre as they work to adapt anaerobic bio digestion to a Canadian climate and livestock sector.  We also speak to Mauricio Alanís, Director of Sustainability Strategy and Partnerships at Maple Leaf Foods. His company is interested in the technology and AAFC’s expertise as it could all play an important role in Maple Leaf Foods’ sustainability journey.]]></summary>
-        <author>
-            <name>Agriculture and Agri-food Canada</name>
         </author>
     </entry>
 </feed>
