@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-09-15T00:57:56.234Z</updated>
+    <updated>2025-09-16T00:53:23.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prévenir les maladies respiratoires infectieuses au travail]]></title>
+        <id>c281bfcf-7a95-4a7f-97cd-7d8eeed7c2e8</id>
+        <link href="https://ccohs.libsyn.com/prvenir-les-maladies-respiratoires-infectieuses-au-travail"/>
+        <updated>2025-09-15T13:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Les maladies respiratoires infectieuses peuvent se propager facilement en milieu de travail, et leurs symptômes varient de légers à très graves. Nous discutons des mesures que nous pouvons tous prendre pour nous protéger et protéger les autres pendant la saison du rhume et de la grippe.]]></summary>
+        <author>
+            <name>CCOHS Podcasts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preventing Respiratory Infectious Diseases in the Workplace]]></title>
+        <id>7b7c93a3-9002-46bf-a17b-9dedf0042166</id>
+        <link href="https://ccohs.libsyn.com/preventing-respiratory-infectious-diseases-in-the-workplace"/>
+        <updated>2025-09-15T13:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Respiratory infectious diseases can spread easily in the workplace, with symptoms ranging from mild to very serious. We discuss the steps we can all take to protect ourselves and others during cold and flu season.]]></summary>
+        <author>
+            <name>CCOHS Podcasts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Safe and Welcoming Workplace for Newcomers]]></title>
         <id>707fa6a4-1a8e-4ee1-90aa-8d9133273147</id>

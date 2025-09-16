@@ -959,6 +959,42 @@
       "siteUrl": "http://ccohs.libsyn.com",
       "articles": [
         {
+          "id": "c281bfcf-7a95-4a7f-97cd-7d8eeed7c2e8",
+          "author": null,
+          "description": "Les maladies respiratoires infectieuses peuvent se propager facilement en milieu de travail, et leurs symptômes varient de légers à très graves. Nous discutons des mesures que nous pouvons tous prendre pour nous protéger et protéger les autres pendant la saison du rhume et de la grippe.",
+          "link": "https://ccohs.libsyn.com/prvenir-les-maladies-respiratoires-infectieuses-au-travail",
+          "publishedOn": "2025-09-15T13:28:00.000Z",
+          "wordCount": null,
+          "title": "Prévenir les maladies respiratoires infectieuses au travail",
+          "itunes": {
+            "duration": "11:30"
+          },
+          "enclosure": {
+            "length": "6363213",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Ep_228_FR_Preventing_RIDs_in_the_Workplace_NORMALIZED.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "7b7c93a3-9002-46bf-a17b-9dedf0042166",
+          "author": null,
+          "description": "Respiratory infectious diseases can spread easily in the workplace, with symptoms ranging from mild to very serious. We discuss the steps we can all take to protect ourselves and others during cold and flu season.",
+          "link": "https://ccohs.libsyn.com/preventing-respiratory-infectious-diseases-in-the-workplace",
+          "publishedOn": "2025-09-15T13:24:00.000Z",
+          "wordCount": null,
+          "title": "Preventing Respiratory Infectious Diseases in the Workplace",
+          "itunes": {
+            "duration": "07:14"
+          },
+          "enclosure": {
+            "length": "4581775",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/EN_Preventing_Respiratory_Infectious_Diseases_in_the_Workplace.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "707fa6a4-1a8e-4ee1-90aa-8d9133273147",
           "author": null,
           "description": "Immigrants contribute significantly to Canada’s economy but often face challenges that could impact their health and safety. We speak with Bill Chen of Workplace Safety and Protection Services on how workplaces can create safer and more welcoming environments for newcomers.",
