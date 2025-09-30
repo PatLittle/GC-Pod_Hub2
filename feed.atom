@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-09-29T00:56:41.735Z</updated>
+    <updated>2025-09-30T00:55:33.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2295,18 +2295,6 @@ Date de diffusion : 27 janvier 2023
         <summary type="html"><![CDATA[In the 9th episode of Treasures Revealed, LAC Curator Forrest Pass unravels the mystery of a Masonic tracing board dating back to the early 1800s.]]></summary>
         <author>
             <name>Library and Archives Canada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How IP rights saved my business]]></title>
-        <id>7911ec6f-9b5c-449e-942f-b791c219416c</id>
-        <link href="https://canadian-ip-voices.simplecast.com/episodes/how-ip-rights-saved-my-business-WYQDyrSs"/>
-        <updated>2023-01-04T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Johanne Boivin, expert advisor at Point Cardinal and former CEO or Executive Vice-President shares her story how IP saved her business.
-Explore online :
-Learn about IP]]></summary>
-        <author>
-            <name>CanadianIPVoices@ised-isde.gc.ca (Point Cardinal, CIPO)</name>
         </author>
     </entry>
 </feed>
