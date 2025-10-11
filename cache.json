@@ -959,6 +959,24 @@
       "siteUrl": "http://ccohs.libsyn.com",
       "articles": [
         {
+          "id": "fe85358b-dcc9-4532-8c15-f495a71f10af",
+          "author": null,
+          "description": "When thinking about workplace health and safety, physical safety is usually top of mind. But for a workplace to be truly healthy and safe, psychological safety is also an essential component. Troy Winters, National Health and Safety Coordinator for CUPE, joins us to discuss what that looks like in practice.",
+          "link": "https://ccohs.libsyn.com/psychological-health-and-safety-in-action-with-troy-winters",
+          "publishedOn": "2025-10-10T12:47:00.000Z",
+          "wordCount": null,
+          "title": "Psychological Health and Safety in Action with Troy Winters",
+          "itunes": {
+            "duration": "23:03"
+          },
+          "enclosure": {
+            "length": "19101093",
+            "type": "audio/mpeg",
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode_229_-_Psychological_Health_and_Safety_in_Action_with_Troy_Winters_NORMALIZED.mp3?dest-id=32116"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "c281bfcf-7a95-4a7f-97cd-7d8eeed7c2e8",
           "author": null,
           "description": "Les maladies respiratoires infectieuses peuvent se propager facilement en milieu de travail, et leurs symptômes varient de légers à très graves. Nous discutons des mesures que nous pouvons tous prendre pour nous protéger et protéger les autres pendant la saison du rhume et de la grippe.",
