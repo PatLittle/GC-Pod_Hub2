@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-10-14T00:54:33.959Z</updated>
+    <updated>2025-10-15T00:56:01.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2295,16 +2295,6 @@ Date de diffusion : 27 janvier 2023
  Durée : 6 : 35 minutes]]></summary>
         <author>
             <name>CCOHS Podcasts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Treasures Revealed: Episode 9]]></title>
-        <id>12AF848A-8BA5-4AEF-A980-6BBC3D1F13AA</id>
-        <link href="https://share.transistor.fm/s/45900a7c"/>
-        <updated>2023-01-18T16:16:36.000Z</updated>
-        <summary type="html"><![CDATA[In the 9th episode of Treasures Revealed, LAC Curator Forrest Pass unravels the mystery of a Masonic tracing board dating back to the early 1800s.]]></summary>
-        <author>
-            <name>Library and Archives Canada</name>
         </author>
     </entry>
 </feed>

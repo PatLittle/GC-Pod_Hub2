@@ -2672,24 +2672,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "12AF848A-8BA5-4AEF-A980-6BBC3D1F13AA",
-          "author": "Library and Archives Canada",
-          "description": "In the 9th episode of Treasures Revealed, LAC Curator Forrest Pass unravels the mystery of a Masonic tracing board dating back to the early 1800s.",
-          "link": "https://share.transistor.fm/s/45900a7c",
-          "publishedOn": "2023-01-18T16:16:36.000Z",
-          "wordCount": null,
-          "title": "Treasures Revealed: Episode 9",
-          "itunes": {
-            "duration": "1251"
-          },
-          "enclosure": {
-            "url": "https://media.transistor.fm/45900a7c/67de6767.mp3",
-            "length": "20183244",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
