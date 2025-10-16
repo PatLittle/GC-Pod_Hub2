@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-10-15T00:56:01.035Z</updated>
+    <updated>2025-10-16T00:55:34.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From Fences to Firewalls: Cyber security in agriculture]]></title>
+        <id>c37c710f-4abd-4b4b-a8e5-88b1e29a0617</id>
+        <link href="https://share.transistor.fm/s/00521957"/>
+        <updated>2025-10-15T19:50:13.000Z</updated>
+        <summary type="html"><![CDATA[From phones and computers to automated systems in barns and data collection in harvesters, each piece of technology on a farm is a fantastic tool – and a potential weak point. And hackers look for – weak points. Just as producers protect livestock and crops from predators, they need to do the same to protect their technology. In this episode, Dr. Ali Dehghantanha, Canada Research Chair in cyber security at the University of Guelph, explains how producers can stay a few simple and innovative steps ahead of the criminals.  And Charles-Félix Ross, Director General of Quebec’s UPA, shares what happened when his organization was hit by ransomware and the key lessons learned.  Learn more about the Toolkit.]]></summary>
+        <author>
+            <name>Agriculture and Agri-food Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Psychological Health and Safety in Action with Troy Winters]]></title>
         <id>fe85358b-dcc9-4532-8c15-f495a71f10af</id>
