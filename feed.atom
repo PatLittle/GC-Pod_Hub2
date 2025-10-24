@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-10-23T00:56:07.422Z</updated>
+    <updated>2025-10-24T00:53:05.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2277,34 +2277,6 @@ Explore online:
 Plan for success – Build an IP strategy]]></summary>
         <author>
             <name>CanadianIPVoices@ised-isde.gc.ca (Canadian Intellectual Property Office)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four Tips for Improving Workplace Safety with Plain Language]]></title>
-        <id>95f1e130-a234-4f9e-8dc6-c304585d7b13</id>
-        <link href="https://ccohs.libsyn.com/four-tips-for-improving-workplace-safety-with-plain-language"/>
-        <updated>2023-01-27T17:25:14.000Z</updated>
-        <summary type="html"><![CDATA[Are jargon and acronyms used everywhere in your workplace? Create a safer and more inclusive environment by using plain language. Here are four tips to get started.
-  
-Released: January 27, 2023
- File Size: 3 MB
- Length: 5:03 minutes]]></summary>
-        <author>
-            <name>CCOHS Podcasts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quatre conseils pour améliorer la sécurité sur le lieu de travail grâce à un langage simple]]></title>
-        <id>56483146-230d-4d5f-82f1-c965c3a5175d</id>
-        <link href="https://ccohs.libsyn.com/quatre-conseils-pour-amliorer-la-scurit-sur-le-lieu-de-travail-grce-un-langage-simple"/>
-        <updated>2023-01-27T17:20:48.000Z</updated>
-        <summary type="html"><![CDATA[Utilisez-vous du jargon et des acronymes partout dans votre lieu de travail? Adoptez un langage simple pour créer un environnement plus sûr et plus inclusif. Voici quatre conseils pour commencer.
-  
-Date de diffusion : 27 janvier 2023
- Taille du fichier : 3.3 MB
- Durée : 6 : 35 minutes]]></summary>
-        <author>
-            <name>CCOHS Podcasts</name>
         </author>
     </entry>
 </feed>
