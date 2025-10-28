@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-10-27T01:01:39.256Z</updated>
+    <updated>2025-10-28T00:55:13.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2264,19 +2264,6 @@ Simply Science on Instagram: https://www.instagram.com/simplysciencenrcan/
 Simply Science on LinkedIn: http://www.linkedin.com/company/natural-resources-canada]]></summary>
         <author>
             <name>Simply Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is your IP future-proof? How to think like an in-house IP counsel]]></title>
-        <id>c68137a4-cf51-4ced-bf32-77d853e3f438</id>
-        <link href="https://canadian-ip-voices.simplecast.com/episodes/is-your-ip-future-proof-how-to-think-like-an-in-house-ip-counsel-JRDPNKwy"/>
-        <updated>2023-02-01T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Robert Guay, director of IP at Shopify, shares some ideas and insights on how to think like a pro when it comes to patents.
-Explore online:
-
-Plan for success – Build an IP strategy]]></summary>
-        <author>
-            <name>CanadianIPVoices@ised-isde.gc.ca (Canadian Intellectual Property Office)</name>
         </author>
     </entry>
 </feed>
