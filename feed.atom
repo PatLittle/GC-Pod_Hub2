@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-11-12T00:58:25.322Z</updated>
+    <updated>2025-11-13T00:58:31.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Réduction de l'exposition à la silice en milieu de travail]]></title>
+        <id>e18ce2e6-342f-4be4-a210-1b35d6a8e451</id>
+        <link href="https://ccohs.libsyn.com/rduction-de-lexposition-la-silice-en-milieu-de-travail"/>
+        <updated>2025-11-12T14:38:00.000Z</updated>
+        <summary type="html"><![CDATA[L'exposition à la silice, qui peut causer le cancer du poumon, touche les travailleurs de plusieurs secteurs, mais la majorité des expositions surviennent dans la construction et le génie civil. Meghan Friesen, des Centres de santé des travailleurs (ses) de l'Ontario, se joint à nous pour discuter de la façon dont l'Outil de gestion de la silice peut aider à réduire le risque d'exposition et à protéger les travailleurs.]]></summary>
+        <author>
+            <name>CCOHS Podcasts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reducing Silica Exposure in the Workplace]]></title>
+        <id>11e7611e-4baa-427b-8844-03e3b36d608a</id>
+        <link href="https://ccohs.libsyn.com/reducing-silica-exposure-in-the-workplace"/>
+        <updated>2025-11-12T14:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Exposure to silica can cause serious occupational diseases, including lung cancer. Meghan Friesen of the Occupational Health Clinics for Ontario Workers joins us to discuss how the Silica Control Tool can help reduce the risk of exposure and protect workers.]]></summary>
+        <author>
+            <name>CCOHS Podcasts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Fences to Firewalls: Cyber security in agriculture]]></title>
         <id>c37c710f-4abd-4b4b-a8e5-88b1e29a0617</id>

@@ -977,6 +977,42 @@
       "siteUrl": "http://ccohs.libsyn.com",
       "articles": [
         {
+          "id": "e18ce2e6-342f-4be4-a210-1b35d6a8e451",
+          "author": null,
+          "description": "L'exposition à la silice, qui peut causer le cancer du poumon, touche les travailleurs de plusieurs secteurs, mais la majorité des expositions surviennent dans la construction et le génie civil. Meghan Friesen, des Centres de santé des travailleurs (ses) de l'Ontario, se joint à nous pour discuter de la façon dont l'Outil de gestion de la silice peut aider à réduire le risque d'exposition et à protéger les travailleurs.",
+          "link": "https://ccohs.libsyn.com/rduction-de-lexposition-la-silice-en-milieu-de-travail",
+          "publishedOn": "2025-11-12T14:38:00.000Z",
+          "wordCount": null,
+          "title": "Réduction de l'exposition à la silice en milieu de travail",
+          "itunes": {
+            "duration": "07:46"
+          },
+          "enclosure": {
+            "url": "https://traffic.libsyn.com/secure/ccohs/Silica_Control_Tool_French.mp3?dest-id=32116",
+            "length": "5170195",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "11e7611e-4baa-427b-8844-03e3b36d608a",
+          "author": null,
+          "description": "Exposure to silica can cause serious occupational diseases, including lung cancer. Meghan Friesen of the Occupational Health Clinics for Ontario Workers joins us to discuss how the Silica Control Tool can help reduce the risk of exposure and protect workers.",
+          "link": "https://ccohs.libsyn.com/reducing-silica-exposure-in-the-workplace",
+          "publishedOn": "2025-11-12T14:35:00.000Z",
+          "wordCount": null,
+          "title": "Reducing Silica Exposure in the Workplace",
+          "itunes": {
+            "duration": "07:07"
+          },
+          "enclosure": {
+            "url": "https://traffic.libsyn.com/secure/ccohs/Silica_Control_Tool_English_Normalized_1.mp3?dest-id=32116",
+            "length": "4727936",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "fe85358b-dcc9-4532-8c15-f495a71f10af",
           "author": null,
           "description": "When thinking about workplace health and safety, physical safety is usually top of mind. But for a workplace to be truly healthy and safe, psychological safety is also an essential component. Troy Winters, National Health and Safety Coordinator for CUPE, joins us to discuss what that looks like in practice.",
