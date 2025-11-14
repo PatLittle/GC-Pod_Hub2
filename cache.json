@@ -6,6 +6,24 @@
       "siteUrl": "http://www.statcan.gc.ca/en/sc/podcasts",
       "articles": [
         {
+          "id": "b2a27c1a-de75-4b99-bc16-739b0f494661",
+          "author": "Statistics Canada",
+          "description": "Has Canada become a sedentary nation? \nHealth data have never been more accessible. We have smart watches to count our steps, notifications about our screen times and apps to track our daily diets. \nDespite the futuristic tech, researchers are growing concerned. And they’re especially concerned about young Canadians.\nToday we sat down with Rachel Colley, a senior health researcher at StatCan for a deep dive into Canada’s obesity, physical activity and screen time trends. And the new data from the Canadian Health Measures survey may surprise you. \nThe Daily — The prevalence of overweight and obesity is on the rise in Canada: New results from the Canadian Health Measures Survey, 2022 to 2024",
+          "link": "https://share.transistor.fm/s/ba358e47",
+          "publishedOn": "2025-11-13T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Screens Replaced Play, and Our Bodies Noticed",
+          "itunes": {
+            "duration": "1301"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/ba358e47/8056776c.mp3",
+            "length": "52032875",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "08484d18-c6b5-4789-acfb-aa9833a7387a",
           "author": "Statistics Canada",
           "description": "Calllllll-i-forrrrr-nia... here we come?\n\n\n If you've changed your plans to visit the US recently, you're not alone. Nowadays, Canadians are more likely to be singing along to \"Bobcaygeon\" than \"Sweet Home Alabama.\"\n \nToday, we're sitting down with Jane Lin, of the Tourism Statistics Program at Statistics Canada, to dig into StatCan's tourism data and talk about how travel is different these days.\nTravel and Tourism Statistics",

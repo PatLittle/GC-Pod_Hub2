@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-11-13T00:58:31.385Z</updated>
+    <updated>2025-11-14T00:58:33.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Screens Replaced Play, and Our Bodies Noticed]]></title>
+        <id>b2a27c1a-de75-4b99-bc16-739b0f494661</id>
+        <link href="https://share.transistor.fm/s/ba358e47"/>
+        <updated>2025-11-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Has Canada become a sedentary nation? 
+Health data have never been more accessible. We have smart watches to count our steps, notifications about our screen times and apps to track our daily diets. 
+Despite the futuristic tech, researchers are growing concerned. And they’re especially concerned about young Canadians.
+Today we sat down with Rachel Colley, a senior health researcher at StatCan for a deep dive into Canada’s obesity, physical activity and screen time trends. And the new data from the Canadian Health Measures survey may surprise you. 
+The Daily — The prevalence of overweight and obesity is on the rise in Canada: New results from the Canadian Health Measures Survey, 2022 to 2024]]></summary>
+        <author>
+            <name>Statistics Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Réduction de l'exposition à la silice en milieu de travail]]></title>
         <id>e18ce2e6-342f-4be4-a210-1b35d6a8e451</id>
