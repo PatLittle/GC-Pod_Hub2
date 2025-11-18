@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-11-17T00:59:32.980Z</updated>
+    <updated>2025-11-18T00:58:03.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2276,28 +2276,6 @@ Date de diffusion : 9 mars 2023
         <summary type="html"><![CDATA[Guillaume Lavoie Ste-Marie, copyright, patent and trademark litigator and principal at Smart & Biggar in Montreal, talks about ChatGPT, intellectual property (IP) tips and traps that artificial intelligence (AI) users should be aware of before creating works with AI—and if using AI to answer IP questions is a good idea.]]></summary>
         <author>
             <name>CanadianIPVoices@ised-isde.gc.ca (Guillaume Lavoie Ste-Marie, Canadian Intellectual Property Office)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A heated conversation on heat pumps]]></title>
-        <id>tag:soundcloud,2010:tracks/1447027255</id>
-        <link href="https://soundcloud.com/nrcan/a-heated-conversation-on-heat-pumps"/>
-        <updated>2023-02-21T18:00:27.000Z</updated>
-        <summary type="html"><![CDATA[There’s nothing quite like a Canadian winter. Majestic scenery, fun outdoor activities, and brutally cold days that cause your heating bill to skyrocket. Scientists and engineers at Natural Resources Canada believe a promising technology can help reduce your energy consumption, the heat pump. On this episode: What are heat pumps? How do they work? Why is everyone talking about them? Are they right for you? Listen to find out.
-
-Recommended Links:
-•	Heating and Cooling With a Heat Pump - https://natural-resources.canada.ca/energy-efficiency/energy-star-canada/about/energy-star-announcements/publications/heating-and-cooling-heat-pump/6817 
-•	Adapting Heat Pumps to Our Canadian Climate (Simply Science Video) - https://www.youtube.com/watch?v=276AP6Uh5nU 
-•	The future of home heating: Hybrid home heating systems offer energy savings and reduce GHG emissions (Simply Science Article) - https://natural-resources.canada.ca/simply-science/the-future-home-heating-hybrid-home-heating-systems-offer-energy-savings-and-reduce-g/22236 
-
-Simply Science Website: www.nrcan.gc.ca/simply-science 
-Simply Science YouTube Channel: https://gate.sc/?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCNbgD_ZfyM6lh1KbemOKfeg%3Fview_as%3Dsubscriber%253Fsub_confirmation%253D1&token=5be173-1-1594998865448
-Simply Science on Twitter: https://twitter.com/NRCanScience
-Simply Science on Facebook: https://www.facebook.com/Simply-Science-580046026023390
-Simply Science on Instagram: https://www.instagram.com/simplysciencenrcan/
-Simply Science on LinkedIn: http://www.linkedin.com/company/natural-resources-canada]]></summary>
-        <author>
-            <name>Simply Science</name>
         </author>
     </entry>
 </feed>
