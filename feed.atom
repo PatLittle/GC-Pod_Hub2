@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-11-24T01:02:19.660Z</updated>
+    <updated>2025-11-25T00:57:46.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2266,16 +2266,6 @@ Date de diffusion : 9 mars 2023
  Durée : 6 : 49 minutes]]></summary>
         <author>
             <name>CCOHS Podcasts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who owns AI-generated creations (and why you should care)]]></title>
-        <id>57215d48-582d-49ea-80ef-a5a999755c35</id>
-        <link href="https://canadian-ip-voices.simplecast.com/episodes/who-owns-ai-generated-creations-and-why-you-should-care-ZPe51mNa"/>
-        <updated>2023-03-01T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guillaume Lavoie Ste-Marie, copyright, patent and trademark litigator and principal at Smart & Biggar in Montreal, talks about ChatGPT, intellectual property (IP) tips and traps that artificial intelligence (AI) users should be aware of before creating works with AI—and if using AI to answer IP questions is a good idea.]]></summary>
-        <author>
-            <name>CanadianIPVoices@ised-isde.gc.ca (Guillaume Lavoie Ste-Marie, Canadian Intellectual Property Office)</name>
         </author>
     </entry>
 </feed>
