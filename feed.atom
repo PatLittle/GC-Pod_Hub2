@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-12-03T00:59:58.172Z</updated>
+    <updated>2025-12-04T00:59:49.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2238,34 +2238,6 @@ Hôte
 Julie Cafley, directrice générale, Catalyst Canada]]></summary>
         <author>
             <name>The Future Skills Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workplace Impacts from Climate Change]]></title>
-        <id>9efc7b55-8073-44ef-b099-f89b96116458</id>
-        <link href="https://ccohs.libsyn.com/workplace-impacts-from-climate-change"/>
-        <updated>2023-03-09T18:34:16.000Z</updated>
-        <summary type="html"><![CDATA[Canada is warming at roughly twice the rate of the rest of the world, and the effects are being felt in workplaces across the country. In the latest episode of Health and Safety To Go, hear from a geoscientist and climate change expert on which industries are most affected and how employers and workers can adapt.
-  
-Released: March 9, 2023
- File Size: 3.6 MB
- Length: 6:41 minutes]]></summary>
-        <author>
-            <name>CCOHS Podcasts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effets des changements climatiques dans les milieux de travail]]></title>
-        <id>932c1a43-9474-4f3d-bb8b-f8c843899620</id>
-        <link href="https://ccohs.libsyn.com/effets-des-changements-climatiques-dans-les-milieux-de-travail"/>
-        <updated>2023-03-09T18:31:26.000Z</updated>
-        <summary type="html"><![CDATA[Au Canada, le réchauffement climatique est environ deux fois plus rapide que dans le reste du monde, et les effets de celui-ci se font sentir jusque dans les milieux de travail partout au pays. Dans le plus récent balado De la SST pour emporter!, un géoscientifique et spécialiste en changements climatiques explique quels sont les secteurs les plus touchés et comment les employeurs et les travailleurs peuvent s’adapter.
-  
-Date de diffusion : 9 mars 2023
- Taille du fichier : 3.5 MB
- Durée : 6 : 49 minutes]]></summary>
-        <author>
-            <name>CCOHS Podcasts</name>
         </author>
     </entry>
 </feed>
