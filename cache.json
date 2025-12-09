@@ -995,6 +995,24 @@
       "siteUrl": "http://ccohs.libsyn.com",
       "articles": [
         {
+          "id": "36bf17fa-4d06-434d-ab6b-392abe6f3e04",
+          "author": null,
+          "description": "We reveal the most popular health and safety questions of the year, as sent to our Safety InfoLine service.",
+          "link": "https://ccohs.libsyn.com/top-health-and-safety-questions-of-2025",
+          "publishedOn": "2025-12-08T17:27:00.000Z",
+          "wordCount": null,
+          "title": "Top Health and Safety Questions of 2025",
+          "itunes": {
+            "duration": "09:44"
+          },
+          "enclosure": {
+            "url": "https://traffic.libsyn.com/secure/ccohs/December_Podcast_EN.mp3?dest-id=32116",
+            "length": "7805047",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "e18ce2e6-342f-4be4-a210-1b35d6a8e451",
           "author": null,
           "description": "L'exposition à la silice, qui peut causer le cancer du poumon, touche les travailleurs de plusieurs secteurs, mais la majorité des expositions surviennent dans la construction et le génie civil. Meghan Friesen, des Centres de santé des travailleurs (ses) de l'Ontario, se joint à nous pour discuter de la façon dont l'Outil de gestion de la silice peut aider à réduire le risque d'exposition et à protéger les travailleurs.",
@@ -2833,24 +2851,6 @@
           "enclosure": {
             "url": "https://www.buzzsprout.com/1265264/episodes/13088123-s3-ep-03-les-femmes-en-entrepreneuriat.mp3",
             "length": "32079395",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "Buzzsprout-12413608",
-          "author": null,
-          "description": "En 2022, le Canada a accueilli un nombre record de nouveaux arrivants : plus de 431 000, qui sont devenus des résidents permanents. Dans cet épisode, nous explorerons la question de l’intégration économique et professionnelle de ces personnes au Canada, principalement dans le contexte du Nouveau-Brunswick.\nNos invités sont des personnalités connues qui travaillent, l’un pour un gros employeur de la région, l’autre pour une organisation dont la mission est d’aider les nouveaux arrivants à participer pleinement à la société néo-brunswickoise. Ils parleront de leurs expériences personnelles et professionnelles, en plus d’offrir leurs éclairages et de faire des suggestions aux collectivités, aux employeurs et à l’écosystème des compétences du Canada tout entier. \nInvités \n\nJason Limongelli, vice-président de la Division Woodlands de J.D. Irving, Inc.\nMoncef Lakouas, président du Conseil culturel du Nouveau-Brunswick \n\nHôte\n\nJulie Cafley, directrice générale, Catalyst Canada",
-          "link": "https://www.conferenceboard.ca/insights/podcasts/future-skills-centre",
-          "publishedOn": "2023-03-15T05:00:00.000Z",
-          "wordCount": null,
-          "title": "S3 Ep. 02: L’intégration des nouveaux arrivants au Canada : l’exemple du Nouveau-Brunswick",
-          "itunes": {
-            "duration": "1585"
-          },
-          "enclosure": {
-            "url": "https://www.buzzsprout.com/1265264/episodes/12413608-s3-ep-02-l-integration-des-nouveaux-arrivants-au-canada-l-exemple-du-nouveau-brunswick.mp3",
-            "length": "19047632",
             "type": "audio/mpeg"
           },
           "imageUrl": null

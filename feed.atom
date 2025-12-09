@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2025-12-08T01:00:31.314Z</updated>
+    <updated>2025-12-09T00:59:55.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Top Health and Safety Questions of 2025]]></title>
+        <id>36bf17fa-4d06-434d-ab6b-392abe6f3e04</id>
+        <link href="https://ccohs.libsyn.com/top-health-and-safety-questions-of-2025"/>
+        <updated>2025-12-08T17:27:00.000Z</updated>
+        <summary type="html"><![CDATA[We reveal the most popular health and safety questions of the year, as sent to our Safety InfoLine service.]]></summary>
+        <author>
+            <name>CCOHS Podcasts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Screens Replaced Play, and Our Bodies Noticed]]></title>
         <id>b2a27c1a-de75-4b99-bc16-739b0f494661</id>
@@ -2219,25 +2229,6 @@ Discover Library and Archives Canada podcast is available wherever you get your 
         <summary type="html"><![CDATA[Charles Hamel first joined the Canadian Armed Forces in 1973, and went on to serve for more than 42 years, between the regular and reserve forces. He served on Operation Crocodile in the Congo in 2003.]]></summary>
         <author>
             <name>Veterans Affairs Canada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S3 Ep. 02: L’intégration des nouveaux arrivants au Canada : l’exemple du Nouveau-Brunswick]]></title>
-        <id>Buzzsprout-12413608</id>
-        <link href="https://www.conferenceboard.ca/insights/podcasts/future-skills-centre"/>
-        <updated>2023-03-15T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[En 2022, le Canada a accueilli un nombre record de nouveaux arrivants : plus de 431 000, qui sont devenus des résidents permanents. Dans cet épisode, nous explorerons la question de l’intégration économique et professionnelle de ces personnes au Canada, principalement dans le contexte du Nouveau-Brunswick.
-Nos invités sont des personnalités connues qui travaillent, l’un pour un gros employeur de la région, l’autre pour une organisation dont la mission est d’aider les nouveaux arrivants à participer pleinement à la société néo-brunswickoise. Ils parleront de leurs expériences personnelles et professionnelles, en plus d’offrir leurs éclairages et de faire des suggestions aux collectivités, aux employeurs et à l’écosystème des compétences du Canada tout entier. 
-Invités 
-
-Jason Limongelli, vice-président de la Division Woodlands de J.D. Irving, Inc.
-Moncef Lakouas, président du Conseil culturel du Nouveau-Brunswick 
-
-Hôte
-
-Julie Cafley, directrice générale, Catalyst Canada]]></summary>
-        <author>
-            <name>The Future Skills Podcast</name>
         </author>
     </entry>
 </feed>
