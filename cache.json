@@ -6,6 +6,24 @@
       "siteUrl": "http://www.statcan.gc.ca/en/sc/podcasts",
       "articles": [
         {
+          "id": "86a27334-f1e2-4b7c-b51b-493d00498710",
+          "author": "Statistics Canada",
+          "description": "Think your Christmas tree knowledge is top‑notch? Time to put it to the test!\nIn this holiday special of Eh Sayers, our colleagues face off in a trivia showdown all about Canada’s Christmas tree industry.\nDiscover which nation first sparked the tradition, how much Canadian Christmas tree farmers earned in 2023, the surprising numbers behind exports and imports, and more festive facts.\nAfter listening, you’ll be the go‑to expert on Christmas trees at your holiday party!\nOh Christmas tree, oh Christmas tree - Statistics Canada",
+          "link": "https://share.transistor.fm/s/8baaa9f7",
+          "publishedOn": "2025-12-10T11:00:00.000Z",
+          "wordCount": null,
+          "title": "A Christmas Tree Trivia Showdown",
+          "itunes": {
+            "duration": "519"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/8baaa9f7/daad8ffa.mp3",
+            "length": "20752796",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "b2a27c1a-de75-4b99-bc16-739b0f494661",
           "author": "Statistics Canada",
           "description": "Has Canada become a sedentary nation? \nHealth data have never been more accessible. We have smart watches to count our steps, notifications about our screen times and apps to track our daily diets. \nDespite the futuristic tech, researchers are growing concerned. And they’re especially concerned about young Canadians.\nToday we sat down with Rachel Colley, a senior health researcher at StatCan for a deep dive into Canada’s obesity, physical activity and screen time trends. And the new data from the Canadian Health Measures survey may surprise you. \nThe Daily — The prevalence of overweight and obesity is on the rise in Canada: New results from the Canadian Health Measures Survey, 2022 to 2024",
