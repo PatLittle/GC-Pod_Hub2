@@ -6,6 +6,24 @@
       "siteUrl": "http://www.statcan.gc.ca/en/sc/podcasts",
       "articles": [
         {
+          "id": "74d80baf-4153-4810-be13-f8a7376aab1f",
+          "author": "Statistics Canada",
+          "description": "The Gross Domestic Product (GDP) tells us about the health and size of Canada’s economy. But for those of us who don’t own or operate multi-million-dollar companies, why does it matter at all? In this episode, Amanda Sinclair, Assistant director for the National Economic Accounts at Statistics Canada, explains some surprising ways GDP can be useful and why, for certain Canadian households, the numbers don’t always seem to add up.\nEconomic accounts statistics",
+          "link": "https://share.transistor.fm/s/a6d79eb5",
+          "publishedOn": "2026-01-08T15:00:00.000Z",
+          "wordCount": null,
+          "title": "GDP Explained Without Putting You to Sleep (We Promise!)",
+          "itunes": {
+            "duration": "679"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/a6d79eb5/67a1e5f0.mp3",
+            "length": "27152820",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "86a27334-f1e2-4b7c-b51b-493d00498710",
           "author": "Statistics Canada",
           "description": "Think your Christmas tree knowledge is top‑notch? Time to put it to the test!\nIn this holiday special of Eh Sayers, our colleagues face off in a trivia showdown all about Canada’s Christmas tree industry.\nDiscover which nation first sparked the tradition, how much Canadian Christmas tree farmers earned in 2023, the surprising numbers behind exports and imports, and more festive facts.\nAfter listening, you’ll be the go‑to expert on Christmas trees at your holiday party!\nOh Christmas tree, oh Christmas tree - Statistics Canada",
@@ -328,24 +346,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "a593b0a3-6a24-49c9-809c-8a3e0f0d5f58",
-          "author": "Statistics Canada",
-          "description": "StatCan’s Consumer Price Index tells us a lot about the economy… if you know what to look for.  \nGuy Gellatly, Chief Economic Advisor at StatCan, joins us at the mic to break down the CPI and answer our questions about the economy. What’s the ideal inflation rate? Is no inflation the best kind of inflation? And what is a deflationary spiral?",
-          "link": "https://share.transistor.fm/s/9dbaf1c4",
-          "publishedOn": "2023-04-18T15:15:00.000Z",
-          "wordCount": null,
-          "title": "In a Movie About the Economy, Is Inflation the Bad Guy?",
-          "itunes": {
-            "duration": "793"
-          },
-          "enclosure": {
-            "url": "https://media.transistor.fm/9dbaf1c4/d93b78e9.mp3",
-            "length": "9549867",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -354,6 +354,24 @@
       "feedUrl": "https://feeds.transistor.fm/the-first-sixteen",
       "siteUrl": "https://agriculture.canada.ca/en/agri-info/first-sixteen-podcast",
       "articles": [
+        {
+          "id": "65b115ae-bef4-4dca-a1e0-7936eb5bdd00",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "Farm transitions aren’t simply business deals — they’re deeply human and often emotionally complex. In this episode, we speak with two innovators reimagining how farms change hands and how new farmers find their place. Heather Watson, Executive Director of Farm Management Canada, brings a national view on business planning, succession, and the changing realities of farm ownership. Sara Dent, co-founder of Young Agrarians, is creating new pathways into farming — helping aspiring producers find land, mentors, and community.\nLearn more about the toolkits from Farm Management Canada, Young Agrarians, and Farm Credit Canada.",
+          "link": "https://share.transistor.fm/s/f54d619d",
+          "publishedOn": "2025-12-22T18:25:10.000Z",
+          "wordCount": null,
+          "title": "More Than a Transaction: Reimagining Farm Transitions",
+          "itunes": {
+            "duration": "1817"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/f54d619d/a28c3fd4.mp3",
+            "length": "43716088",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "c37c710f-4abd-4b4b-a8e5-88b1e29a0617",
           "author": "Agriculture and Agri-food Canada",
@@ -576,134 +594,7 @@
       "title": "ReCollections",
       "feedUrl": "https://feeds.megaphone.fm/recollections",
       "siteUrl": "https://parks.canada.ca/recollections",
-      "articles": [
-        {
-          "id": "2d604408-bc61-11ed-a6d0-371b77f9b71d",
-          "author": null,
-          "description": "Join us for a journey of national historic significance.",
-          "link": "https://parks.canada.ca/recollections",
-          "publishedOn": "2023-04-17T21:11:00.000Z",
-          "wordCount": null,
-          "title": "Introducing ReCollections: A Parks Canada Podcast",
-          "itunes": {
-            "duration": "120"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/CAN5676838234.mp3?updated=1681683954",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "8bf54926-d8c9-11ed-91d3-ffd80f910e57",
-          "author": null,
-          "description": "Travel back to the Viking Age to uncover the remnants of a thousand-year-old Norse encampment. We’ll hear about their incredible journey from Greenland to northern Newfoundland from a diverse group of experts including historians, archaeologists, and interpreters at L’Anse aux Meadows National Historic Site.\n\nLearn more: \n\nL’Anse aux Meadows National Historic Site: https://parks.canada.ca/lhn-nhs/nl/meadows \n\nGoogle Arts and Culture Exhibition: https://g.co/arts/zsrgMj8ex1cQe5yK7\n\n\nPlan your visit: https://parks.canada.ca/lhn-nhs/nl/meadows/visit \n\nUNESCO page: https://whc.unesco.org/en/list/4/\n\n\nNational Film Board documentaries:\n\nThe Man Who Discovered America: https://www.nfb.ca/film/man_discovered_america \n\nThe Vinland Mystery: https://www.nfb.ca/film/vinland_mystery/\n\n\n\nDo you have a suggestion for a new National Historic Person, Site or Event? We’d love to hear it! Visit https://parks.canada.ca/commemorate for details on how to submit a nomination.\nA transcript and bibliography for this episode is available on our website: https://parks.canada.ca/recollections",
-          "link": "https://parks.canada.ca/recollections",
-          "publishedOn": "2023-04-17T21:08:00.000Z",
-          "wordCount": null,
-          "title": "L’Anse aux Meadows: The Saga of Vinland",
-          "itunes": {
-            "duration": "1760"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/CAN3798034907.mp3?updated=1681956945",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "57b1d404-d8c9-11ed-b188-ff1aa21b7b9a",
-          "author": null,
-          "description": "Welcome to Ruby's Place in Dawson City, Yukon, “the Paris of the North.” Through the remarkable lives of Madam Ruby Scott and her employees, we’ll hear about Dawson’s Gold Rush heyday and the boom/bust cycle of both the mining and sex work industries. At the heart of the story is Ruby's Place, an elegant false-front building conserved as part of the Klondike National Historic Sites… despite the threats from climate change.\n\nLearn More: \n\nKlondike National Historic Sites: https://parks.canada.ca/lhn-nhs/yt/klondike\n\n\nPlan your visit: https://parks.canada.ca/lhn-nhs/yt/klondike/visit\n\n\nGoogle Arts and Culture Exhibition: https://artsandculture.google.com/story/PwWxfnGFmjSquw\n\n\nUNESCO World Heritage Site (Tentative List): https://whc.unesco.org/en/tentativelists/6255/\n\n\nTr'ochëk National Historic Site: https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1970&i=65024\n\n\n\nThe Other Little House: The Brothel as a Colonial Institution on the Canadian Prairies, 1880–93 by L. K. Bertram: https://academic.oup.com/jsh/article/56/1/58/6554394?login=false\n\n\n\nDo you have a suggestion for a new National Historic Person, Site or Event? We’d love to hear it! Visit https://parks.canada.ca/commemorate for details on how to submit a nomination.\nA transcript and bibliography for this episode is available on our website: https://parks.canada.ca/recollections",
-          "link": "https://parks.canada.ca/recollections",
-          "publishedOn": "2023-04-17T21:06:00.000Z",
-          "wordCount": null,
-          "title": "Dawson City: A Ruby in the Rough",
-          "itunes": {
-            "duration": "2097"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/CAN8710856847.mp3?updated=1685464150",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "aed14ba2-d8c9-11ed-8369-e70ff95c3d55",
-          "author": null,
-          "description": "In this episode, we’ll travel to the Pacific Northwest islands of Haida Gwaii, home to the Haida Nation for more than 13,000 years. Our focus: a collaborative archaeology project at an evacuated village on the remote island of SGang Gwaay, a UNESCO World Heritage Site, that was devastated by hurricane-force winds in a 2018 storm. Many voices tell the rich history of Gwaii Haanas National Park Reserve, National Marine Conservation Area Reserve and Haida Heritage Site. \nSpecial thanks to Consulting Producer Camille Collinson.\n\nLearn More:\n\nGwaii Haanas National Park Reserve, National Marine Conservation Area Reserve and Haida Heritage Site: https://parks.canada.ca/pn-np/bc/gwaiihaanas\n\n\nLiving Landscapes of SG̱ang Gwaay project: https://parks.canada.ca/pn-np/bc/gwaiihaanas/nature/conservation/restauration-restoration/vivants-living\n\n\nFollow the Gwaii Haanas - Islands of Beauty Facebook page for the latest on the Living Landscapes project: https://www.facebook.com/GwaiiHaanas/\n\n\nPlan your visit: https://parks.canada.ca/pn-np/bc/gwaiihaanas/visit\n\n\nUNESCO World Heritage Site: https://whc.unesco.org/en/list/157/\n\n\nTake the Haida Gwaii Pledge: https://haidagwaiipledge.ca/\n\n\nThe Hope For Wellness Helpline is available at 1-855-242-3310 or https://www.hopeforwellness.ca/  \n\n\nDo you have a suggestion for a new National Historic Person, Site or Event? We’d love to hear it! Visit https://parks.canada.ca/commemorate for details on how to submit a nomination.\nA transcript and bibliography for this episode is available on our website: https://parks.canada.ca/recollections",
-          "link": "https://parks.canada.ca/recollections",
-          "publishedOn": "2023-04-17T21:04:00.000Z",
-          "wordCount": null,
-          "title": "Gwaii Haanas: The Living Landscapes of SG̱ang Gwaay",
-          "itunes": {
-            "duration": "2701"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/CAN4819924056.mp3?updated=1682025749",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "7d5ef3bc-d8c9-11ed-8710-43f547fcd7db",
-          "author": null,
-          "description": "For over a century, an unassuming island in the St. Lawrence River played a major role in the immigration journey from Europe to North America. A scene of hope and tragedy, punctuated by a series of deadly crises, Grosse Île was home to a quarantine station that served as the gateway for millions of newcomers. Witness to pandemics, health emergencies and the development of modern medical science, Grosse Île and the Irish Memorial National Historic Site is a powerful reminder of the immigrant experience. And it all kicked off with a volcanic eruption on the other side of the planet.\n\nLearn More:\n\nGrosse-Ile and the Irish Memorial National Historic Site: https://parks.canada.ca/lhn-nhs/qc/grosseile\n\n\nPlan Your Visit: https://parks.canada.ca/lhn-nhs/qc/grosseile/visit\n\n\nDr. Frédérick Montizambert, National Historic Person: https://www.pc.gc.ca/apps/DFHD/page_nhs_eng.aspx?id=1843\n\n\n\nFor the Temporary Accommodation of Settlers by David Monteyne: https://www.mqup.ca/for-the-temporary-accommodation-of-settlers-products-9780228006381.php\n\n\nGoogle Arts and Culture Exhibition: https://artsandculture.google.com/story/WgXRiCleYInljA\n\n\n\nDo you have a suggestion for a new National Historic Person, Site or Event? We’d love to hear it! Visit https://parks.canada.ca/commemorate for details on how to submit a nomination.\nA transcript and bibliography for this episode is available on our website: https://parks.canada.ca/recollections",
-          "link": "https://parks.canada.ca/recollections",
-          "publishedOn": "2023-04-17T21:02:00.000Z",
-          "wordCount": null,
-          "title": "Grosse Île: The Quarantine Island",
-          "itunes": {
-            "duration": "2336"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/CAN8257036304.mp3?updated=1689279459",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "9db57c30-d8c9-11ed-b49f-17653b65c0b1",
-          "author": null,
-          "description": "In this episode, we find traces of the lives of enslaved people at the 18th-century French Fortress of Louisbourg in Cape Breton, Nova Scotia. By piecing together the unique story of Guinea-born Marie Marguerite Rose, we’ll learn about those who lived and died in enslavement…as well as the rise and fall (and rise again) of the Fortress of Louisbourg National Historic Site.\nSpecial thanks to our Consulting Producers: Dr. Karolyn Smardz-Frost and Dr. Afua Cooper of A Black People’s History of Canada Project: https://www.blackpeopleshistory.ca/\nLearn More:\n\nFortress of Louisbourg National Historic Site: https://parks.canada.ca/lhn-nhs/ns/louisbourg\n\n\nMarie Marguerite Rose, National Historic Person: https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=12005\n\n\nPlan your visit: https://parks.canada.ca/lhn-nhs/ns/louisbourg/visit\n\n\nGoogle Arts and Culture Exhibit: https://artsandculture.google.com/story/vQVxpt_04-996g\n\n\n\nDo you have a suggestion for a new National Historic Person, Site or Event? We’d love to hear it! Visit https://parks.canada.ca/commemorate for details on how to submit a nomination.\nA transcript and bibliography for this episode is available on our website: https://parks.canada.ca/recollections",
-          "link": "https://parks.canada.ca/recollections",
-          "publishedOn": "2023-04-17T21:01:00.000Z",
-          "wordCount": null,
-          "title": "Louisbourg: Enslavement and Freedom at the French Fortress",
-          "itunes": {
-            "duration": "1806"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/CAN2832715255.mp3?updated=1689279532",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "513f89e2-5f09-11ee-a4d6-cf2b15d7183f",
-          "author": null,
-          "description": "A special episode from our friends at the Discover Library and Archives Canada podcast - Bill Mason: Wilderness Artist.\nIf you enjoyed our ReCollections episode Grosse-Île: The Quarantine Island, check out their The Shamrock and the Fleur-de-Lys episode to learn more about Irish immigration to Québec.\nBill Mason's films: Pukaskwa National Park and Paddle to the Sea.\nPlan a visit to Pukaskwa National Park in Ontario.\nDiscover Library and Archives Canada podcast is available wherever you get your podcasts. Subscribe for lots more stories about the treasures in their collection.",
-          "link": "https://library-archives.canada.ca/eng/collection/engage-learn/podcast/Pages/podcasts.aspx",
-          "publishedOn": "2023-04-17T20:59:00.000Z",
-          "wordCount": null,
-          "title": "Bill Mason: Wilderness Artist - from Discover Library and Archives Canada podcast",
-          "itunes": {
-            "duration": "3102"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/CAN2035820304.mp3?updated=1698866722",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Employment and Social Development Canada",
@@ -1012,6 +903,42 @@
       "feedUrl": "https://feeds.libsyn.com/23176/rss",
       "siteUrl": "http://ccohs.libsyn.com",
       "articles": [
+        {
+          "id": "9018c093-34c5-432d-9d26-a268508ce60f",
+          "author": null,
+          "description": "Whether work involves prolonged sitting or standing, reducing repetitive strain injuries starts with identifying the hazards and risk factors and improving job design. Here's where workplaces can start.",
+          "link": "https://ccohs.libsyn.com/sit-stand-stretch-preventing-repetitive-strain-injuries-at-work",
+          "publishedOn": "2026-01-20T17:41:00.000Z",
+          "wordCount": null,
+          "title": "Sit, Stand, Stretch: Preventing Repetitive Strain Injuries at Work",
+          "itunes": {
+            "duration": "06:14"
+          },
+          "enclosure": {
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode_232_Preventing_RSIs_in_the_WorkplaceNORMALIZED.mp3?dest-id=32116",
+            "length": "6719005",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "15e0675f-5b57-41ad-99d7-6e1aa34d8766",
+          "author": null,
+          "description": "Nous révélons les questions en matière de santé et de sécurité les plus populaires de l'année, comme elles ont été envoyées à notre Ligne d'information sur la sécurité.",
+          "link": "https://ccohs.libsyn.com/les-principales-questions-de-sant-et-de-scurit-de-2025",
+          "publishedOn": "2026-01-02T19:25:00.000Z",
+          "wordCount": null,
+          "title": "Les principales questions de santé et de sécurité de 2025",
+          "itunes": {
+            "duration": "07:06"
+          },
+          "enclosure": {
+            "url": "https://traffic.libsyn.com/secure/ccohs/Ep_231_Les_principales_questions_de_sant_et_de_scurit_de_2025_NORMALIZED.mp3?dest-id=32116",
+            "length": "4735698",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "36bf17fa-4d06-434d-ab6b-392abe6f3e04",
           "author": null,
@@ -1767,42 +1694,6 @@
             "url": "https://traffic.libsyn.com/secure/ccohs/Episode203_Dani_GomezOrtega.mp3?dest-id=32116"
           },
           "imageUrl": null
-        },
-        {
-          "id": "772cf722-cbe3-4fd6-b8af-5cab321469d0",
-          "author": null,
-          "description": "Implementing small changes can have a profound effect on employee well-being. Leadership expert Dr. Julian Barling shares the most important factors for creating a productive, healthy and safe workplace. Dr. Barling will speak more about navigating the brave new workplace at CCOHS Forum, taking place September 26-27 in Halifax, Nova Scotia.\n  \nReleased: May 9, 2023\n File Size:  6.7 MB\n Length:  11:30 minutes\n  \n-------------------------\n « Comment retrouver le Nord dans le nouveau monde du travail? »\n Description: La mise en œuvre de petits changements peut avoir un effet profond sur le bien-être des employés. L’expert en leadership Julian Barling, Ph. D., nous présente aujourd’hui les incontournables de la création d’un milieu de travail productif, sain et sécuritaire. M. Barling nous expliquera mieux comment retrouver le Nord dans le nouveau monde du travail lors du Forum du CCHST, qui aura lieu du 26 au 27 septembre à Halifax, en Nouvelle-Écosse.\n  \nDate de diffusion : 9 mai 2023\n Taille du fichier : 6.7 MB\n Durée : 11 : 30 minutes",
-          "link": "https://ccohs.libsyn.com/tips-to-navigate-the-brave-new-workplace",
-          "publishedOn": "2023-05-09T20:17:56.000Z",
-          "wordCount": null,
-          "title": "Tips to Navigate the Brave New Workplace",
-          "itunes": {
-            "duration": "12:01"
-          },
-          "enclosure": {
-            "length": "7016586",
-            "type": "audio/mpeg",
-            "url": "https://traffic.libsyn.com/secure/ccohs/Episode202_JulianBarling.mp3?dest-id=32116"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "5f833c62-57b0-478a-9942-358702a9e7e4",
-          "author": null,
-          "description": "“He had big hands, big feet, and a great big heart.” Donna Van Bruggen’s life was forever changed the day her son David didn’t come home from work. Hear her powerful story, and how getting involved with Threads of Life has helped her process her grief.\n  \n ·         Released:  April 12, 2023\n  ·         File Size:   9.9 MB\n  ·         Length:  18:29 minutes\n  \n *************************\n  « Day of Mourning: Donna Van Bruggen’s Story »\n « Il avait de grandes mains, de grands pieds et un grand cœur. » La vie de Donna Van Bruggen a basculé le jour où son fils David n’est pas rentré du travail. Écoutez son histoire émouvante et découvrez comment sa participation à Fil de vie l’a aidée à surmonter son chagrin.\n  \n ·         Date de diffusion : 12 avril 2023\n  ·         Taille du fichier :  9.9 MB\n   Durée :  18 : 29 minutes",
-          "link": "https://ccohs.libsyn.com/day-of-mourning-donna-van-bruggens-story",
-          "publishedOn": "2023-04-12T17:51:06.000Z",
-          "wordCount": null,
-          "title": "Day of Mourning: Donna Van Bruggen’s Story",
-          "itunes": {
-            "duration": "18:30"
-          },
-          "enclosure": {
-            "length": "10397599",
-            "type": "audio/mpeg",
-            "url": "https://traffic.libsyn.com/secure/ccohs/Episode201_DayOfMourning_DVB_Interview.mp3?dest-id=32116"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1843,24 +1734,6 @@
           "enclosure": {
             "url": "https://anchor.fm/s/3bcc4b70/podcast/play/76114648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-19%2F2c82a47e-b116-1863-309a-20c503e2647a.mp3",
             "length": "48948450",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "d6799733-40d3-4106-9c99-b209ffea6716",
-          "author": "Canadian Food Inspection Agency",
-          "description": "You've finally gathered the courage to clean up your fridge or pantry, but how do you know what to keep or chuck? In this podcast, labelling expert Laura Reid helps us understand the different dates on our foods.\nWe also hear from Sophie Langlois-Blouin, Vice-President of RECYC Québec, about food waste in Canada.",
-          "link": "https://podcasters.spotify.com/pod/show/cfia/episodes/Understanding-the-dates-on-our-food-e22vfh2",
-          "publishedOn": "2023-04-25T12:00:04.000Z",
-          "wordCount": null,
-          "title": "Understanding the dates on our food",
-          "itunes": {
-            "duration": "00:16:06"
-          },
-          "enclosure": {
-            "url": "https://anchor.fm/s/3bcc4b70/podcast/play/69237730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-25%2F1bd3b04b-93f6-41f0-f6be-285f50d27ee8.mp3",
-            "length": "38647808",
             "type": "audio/mpeg"
           },
           "imageUrl": null
@@ -2085,24 +1958,6 @@
             "length": "20787758",
             "type": "audio/mpeg",
             "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/16a7110b-97cd-46b8-985d-d82e83eeb324/audio/3425cd1d-1050-466e-aeff-302a29a064ad/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "ca5eac4f-008b-43b8-9cd3-4587e255323e",
-          "author": "CanadianIPVoices@ised-isde.gc.ca (Louis Carbonneau, Canadian Intellectual Property Office)",
-          "description": "Louis Carbonneau, patent broker who evaluates hundreds of patents for clients each year shares some tips and tricks on where to spend the money to ensure you file for valuable IP rights. \nExplore online: \nLouis Carbonneau’s blog\n \n(English only)",
-          "link": "https://canadian-ip-voices.simplecast.com/episodes/how-not-to-spend-money-on-bad-patents-WQDakG_k",
-          "publishedOn": "2023-05-03T04:00:00.000Z",
-          "wordCount": null,
-          "title": "How not to spend money on bad patents",
-          "itunes": {
-            "duration": "00:38:06"
-          },
-          "enclosure": {
-            "length": "36590376",
-            "type": "audio/mpeg",
-            "url": "https://cdn.simplecast.com/audio/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/ad3d73fe-7565-4948-abb1-943f0af04615/audio/1d8d173b-f65c-4e2a-be2e-d02e7640ad64/default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
           },
           "imageUrl": null
         }
@@ -2636,24 +2491,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "71275AE6-C1E8-47E4-9031-2F4A8A210C26",
-          "author": "Library and Archives Canada",
-          "description": "Robert Hood was only 24 in 1821, when he participated in the 1st of the infamous Franklin Expeditions. Hood was to take navigational, geographical and meteorological observations, and to make drawings of the land and of various objects of natural history. Unfortunately, Hood would not live to see his paintings published in Franklin’s account. In this episode LAC Archivist Shane McCord tells us about the tragic story of Robert Hood and the treasures he left behind, which are now part of the LAC collection.",
-          "link": "https://share.transistor.fm/s/5d274a4d",
-          "publishedOn": "2023-05-10T13:43:46.000Z",
-          "wordCount": null,
-          "title": "Treasures Revealed: Episode 11",
-          "itunes": {
-            "duration": "913"
-          },
-          "enclosure": {
-            "url": "https://media.transistor.fm/5d274a4d/edeea680.mp3",
-            "length": "14781661",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2667,26 +2504,7 @@
       "title": "Faces of Freedom",
       "feedUrl": "https://feeds.blubrry.com/feeds/facesoffreedom.xml",
       "siteUrl": "http://blubrry.com/facesoffreedom/",
-      "articles": [
-        {
-          "id": "https://blubrry.com/facesoffreedom//the-peacekeeping-series-africa-the-congo/",
-          "author": "Veterans Affairs Canada",
-          "description": "Charles Hamel first joined the Canadian Armed Forces in 1973, and went on to serve for more than 42 years, between the regular and reserve forces. He served on Operation Crocodile in the Congo in 2003.",
-          "link": "https://blubrry.com/facesoffreedom/80217691/the-peacekeeping-series-africa-the-congo/",
-          "publishedOn": "2023-03-29T12:23:01.000Z",
-          "wordCount": null,
-          "title": "The peacekeeping series - Africa: The Congo",
-          "itunes": {
-            "duration": "0:12:43"
-          },
-          "enclosure": {
-            "url": "https://media.blubrry.com/facesoffreedom/content.blubrry.com/facesoffreedom/peacekeeping-Ep-4.mp3",
-            "length": "18384531",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Future Skills Podcast",
