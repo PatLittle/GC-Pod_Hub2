@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-02-11T01:26:02.820Z</updated>
+    <updated>2026-02-12T01:19:00.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Women farmers leading into the future]]></title>
+        <id>5b9c5a8e-2c7b-4e5a-9079-781e3571e6a4</id>
+        <link href="https://share.transistor.fm/s/27b48ed8"/>
+        <updated>2026-02-11T12:43:18.000Z</updated>
+        <summary type="html"><![CDATA[2026 is the International Year of the Woman Farmer.  Women are changing the face of farming in Canada. They are highly educated. They’re working hard. And, while they are having success, they also encounter unique barriers to entry and advancement in the sector. This episode speaks with two women from the Prairies who are at the vanguard of this movement. Learn how they are breaking down barriers. Hear their vision for the future of agriculture in Canada.
+Learn more about the programs and resources discussed in the episode through AGPAL and from Farm Credit Canada.]]></summary>
+        <author>
+            <name>Agriculture and Agri-food Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bar U Ranch: Grass Into Money]]></title>
         <id>ac41d97a-ed88-11f0-97f5-23251e179747</id>

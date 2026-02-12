@@ -355,6 +355,24 @@
       "siteUrl": "https://agriculture.canada.ca/en/agri-info/first-sixteen-podcast",
       "articles": [
         {
+          "id": "5b9c5a8e-2c7b-4e5a-9079-781e3571e6a4",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "2026 is the International Year of the Woman Farmer.  Women are changing the face of farming in Canada. They are highly educated. They’re working hard. And, while they are having success, they also encounter unique barriers to entry and advancement in the sector. This episode speaks with two women from the Prairies who are at the vanguard of this movement. Learn how they are breaking down barriers. Hear their vision for the future of agriculture in Canada.\nLearn more about the programs and resources discussed in the episode through AGPAL and from Farm Credit Canada.",
+          "link": "https://share.transistor.fm/s/27b48ed8",
+          "publishedOn": "2026-02-11T12:43:18.000Z",
+          "wordCount": null,
+          "title": "Women farmers leading into the future",
+          "itunes": {
+            "duration": "1520"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/27b48ed8/eb1658f7.mp3",
+            "length": "36581643",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "65b115ae-bef4-4dca-a1e0-7936eb5bdd00",
           "author": "Agriculture and Agri-food Canada",
           "description": "Farm transitions aren’t simply business deals — they’re deeply human and often emotionally complex. In this episode, we speak with two innovators reimagining how farms change hands and how new farmers find their place. Heather Watson, Executive Director of Farm Management Canada, brings a national view on business planning, succession, and the changing realities of farm ownership. Sara Dent, co-founder of Young Agrarians, is creating new pathways into farming — helping aspiring producers find land, mentors, and community.\nLearn more about the toolkits from Farm Management Canada, Young Agrarians, and Farm Credit Canada.",
