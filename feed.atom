@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-02-13T01:22:23.810Z</updated>
+    <updated>2026-02-14T01:14:49.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Supporting Workers with Chronic Pain]]></title>
+        <id>a3160300-f1e0-41ca-a131-116d32f88586</id>
+        <link href="https://ccohs.libsyn.com/supporting-workers-with-chronic-pain"/>
+        <updated>2026-02-13T18:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Chronic pain affects 1 in 5 Canadians. It may occur after an injury has healed, or without a known cause. Dr. Andrea Furlan, a pain doctor from the University Health Network at the University of Toronto, joins us to discuss how employers can support workers affected by chronic pain, and how workers can find relief.]]></summary>
+        <author>
+            <name>CCOHS Podcasts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Women farmers leading into the future]]></title>
         <id>5b9c5a8e-2c7b-4e5a-9079-781e3571e6a4</id>

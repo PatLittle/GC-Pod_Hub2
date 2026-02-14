@@ -1013,6 +1013,24 @@
       "siteUrl": "http://ccohs.libsyn.com",
       "articles": [
         {
+          "id": "a3160300-f1e0-41ca-a131-116d32f88586",
+          "author": null,
+          "description": "Chronic pain affects 1 in 5 Canadians. It may occur after an injury has healed, or without a known cause. Dr. Andrea Furlan, a pain doctor from the University Health Network at the University of Toronto, joins us to discuss how employers can support workers affected by chronic pain, and how workers can find relief.",
+          "link": "https://ccohs.libsyn.com/supporting-workers-with-chronic-pain",
+          "publishedOn": "2026-02-13T18:25:00.000Z",
+          "wordCount": null,
+          "title": "Supporting Workers with Chronic Pain",
+          "itunes": {
+            "duration": "15:55"
+          },
+          "enclosure": {
+            "url": "https://traffic.libsyn.com/secure/ccohs/Safe_and_Sound_with_CCOHS_-_Interview_with_Dr._Andrea_Furlan-20260210_135103-Meeting_Recording_online-audio-converter.com.mp3?dest-id=32116",
+            "length": "10420120",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "9018c093-34c5-432d-9d26-a268508ce60f",
           "author": null,
           "description": "Whether work involves prolonged sitting or standing, reducing repetitive strain injuries starts with identifying the hazards and risk factors and improving job design. Here's where workplaces can start.",
