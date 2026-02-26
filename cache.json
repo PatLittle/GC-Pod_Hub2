@@ -1873,6 +1873,24 @@
       "siteUrl": "https://canadian-ip-voices.simplecast.com",
       "articles": [
         {
+          "id": "28bfe179-2185-4d38-8021-b54c328277f1",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (CIPO, Ken Poulin)",
+          "description": "Ken Poulin is an independent trademark agent based in Vancouver. He explains why IP protection should start before and not after market success. As a Black entrepreneur himself, he shares his insights on what it looks like to support underrepresented communities, the role of diversity in Canada's innovation landscape and why educating business owners about the value of IP requires patience, empathy and a personal approach.\nExplore online:\nBlack entrepreneurs and intellectual property\nIP Central\nIP resources and funding for entrepreneurs (canada.ca)",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/navigating-the-global-ocean-of-ipa-black-entrepreneurs-perspective-on-protection-and-opportunity-GZAfNnJs",
+          "publishedOn": "2026-02-25T16:43:13.000Z",
+          "wordCount": null,
+          "title": "Navigating the global ocean of IP—A Black entrepreneur’s perspective on protection and opportunity",
+          "itunes": {
+            "duration": "00:17:31"
+          },
+          "enclosure": {
+            "length": "16817135",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/media/audio/transcoded/2417a408-de6a-4417-abcd-29992bbb5c8b/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/audio/group/65a724cc-a44f-4d25-9853-acb8f8b8cabc/group-item/e76c57db-a81a-488c-8c9d-92e7886bd576/128_default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "ba3301d5-9a98-4b25-af67-1fb88a170000",
           "author": "CanadianIPVoices@ised-isde.gc.ca (The Canadian Intellectual Property Office)",
           "description": "Vincent de Grandpré, lawyer and trademark agent at Bennett Jones and member of IPIC’s Committee for Indigenous IP explains the intersection between intellectual property law and the protection of Indigenous knowledge and cultural expressions. \n \nExplore online: \n\nIndigenous peoples and intellectual property (canada.ca)\nIndigenous Bar Association\nImplementing the United Nations Declaration on the Rights of Indigenous People Act (justice.gc.ca)\nIndigenous Traditional Knowledge (ipic.ca)",

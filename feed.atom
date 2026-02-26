@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-02-25T01:21:10.493Z</updated>
+    <updated>2026-02-26T01:15:16.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Navigating the global ocean of IP—A Black entrepreneur’s perspective on protection and opportunity]]></title>
+        <id>28bfe179-2185-4d38-8021-b54c328277f1</id>
+        <link href="https://canadian-ip-voices.simplecast.com/episodes/navigating-the-global-ocean-of-ipa-black-entrepreneurs-perspective-on-protection-and-opportunity-GZAfNnJs"/>
+        <updated>2026-02-25T16:43:13.000Z</updated>
+        <summary type="html"><![CDATA[Ken Poulin is an independent trademark agent based in Vancouver. He explains why IP protection should start before and not after market success. As a Black entrepreneur himself, he shares his insights on what it looks like to support underrepresented communities, the role of diversity in Canada's innovation landscape and why educating business owners about the value of IP requires patience, empathy and a personal approach.
+Explore online:
+Black entrepreneurs and intellectual property
+IP Central
+IP resources and funding for entrepreneurs (canada.ca)]]></summary>
+        <author>
+            <name>CanadianIPVoices@ised-isde.gc.ca (CIPO, Ken Poulin)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Supporting Workers with Chronic Pain]]></title>
         <id>a3160300-f1e0-41ca-a131-116d32f88586</id>
