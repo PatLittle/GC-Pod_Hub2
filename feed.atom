@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-03-02T01:16:19.877Z</updated>
+    <updated>2026-03-03T01:18:50.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2299,18 +2299,6 @@ Simply Science on Instagram: https://www.instagram.com/simplysciencenrcan/
 Simply Science on LinkedIn: http://www.linkedin.com/company/natural-resources-canada]]></summary>
         <author>
             <name>Simply Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to apply for a patent in the U.S. and other countries.]]></title>
-        <id>3d0ea191-8332-4f8b-afd5-3b6fb150a98b</id>
-        <link href="https://canadian-ip-voices.simplecast.com/episodes/how-to-apply-for-a-patent-in-the-us-and-other-countries-mYV_vbuK"/>
-        <updated>2023-06-07T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dominique Lambert, Patent agent at Bereskin & Parr explains how the provisional patent in the US works and how to apply for patent protection abroad using the PCT. 
- 
-Explore online: Provisional Application for Patent | USPTO (English only)]]></summary>
-        <author>
-            <name>CanadianIPVoices@ised-isde.gc.ca (Canadian Intellectual Property Office)</name>
         </author>
     </entry>
 </feed>
