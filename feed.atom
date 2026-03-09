@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-03-08T01:17:40.618Z</updated>
+    <updated>2026-03-09T01:17:23.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2276,29 +2276,6 @@ Date de diffusion : 13 juin 2023
   Durée : 14 : 52 minutes]]></summary>
         <author>
             <name>CCOHS Podcasts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The gold standard of mineral exploration]]></title>
-        <id>tag:soundcloud,2010:tracks/1537893031</id>
-        <link href="https://soundcloud.com/nrcan/the-gold-standard-of-mineral-exploration"/>
-        <updated>2023-06-13T13:00:09.000Z</updated>
-        <summary type="html"><![CDATA[We all know metals like gold, copper and nickel are essential to our way of life. Metals are used in just about everything. So how do we make sure that we have a continuous supply of these metals? How do you find new ore deposits to make sure we meet future demand? Our scientists are working hard to specifically address that issue. Listen to find out how.
-
-Recommended Links:
-•	Geological Survey of Canada - https://natural-resources.canada.ca/science-and-data/research-centres-and-labs/geological-survey-canada/17100 
-•	Geoscientists Canada - https://geoscientistscanada.ca/ 
-•	Prospector and Developers Association of Canada - https://www.pdac.ca/ 
-•	Quebec Mineral Exploration Association - https://aemq.org/en/
-
-Simply Science Website: www.nrcan.gc.ca/simply-science 
-Simply Science YouTube Channel: https://gate.sc/?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCNbgD_ZfyM6lh1KbemOKfeg%3Fview_as%3Dsubscriber%253Fsub_confirmation%253D1&token=5be173-1-1594998865448
-Simply Science on Twitter: https://twitter.com/NRCanScience
-Simply Science on Facebook: https://www.facebook.com/Simply-Science-580046026023390
-Simply Science on Instagram: https://www.instagram.com/simplysciencenrcan/
-Simply Science on LinkedIn: http://www.linkedin.com/company/natural-resources-canada]]></summary>
-        <author>
-            <name>Simply Science</name>
         </author>
     </entry>
 </feed>
