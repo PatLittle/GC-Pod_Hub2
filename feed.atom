@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-03-14T01:14:23.818Z</updated>
+    <updated>2026-03-15T01:26:47.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2243,17 +2243,6 @@ Hôte
 Julie Cafley, directrice générale, Catalyst Canada]]></summary>
         <author>
             <name>The Future Skills Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will the 40 Millionth Canadian Please Stand Up?]]></title>
-        <id>750253c9-da15-4d59-b0e9-764b5a8e7a94</id>
-        <link href="https://share.transistor.fm/s/cb29d815"/>
-        <updated>2023-06-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Canada reached an important milestone June 16, 2023. For the first time, there were 40 million people living in Canada. That means that someone out there is the 40 millionth Canadian. But who is it? 
- Laurent Martel, director of the Centre for Demography at Statistics Canada, joins us to explore what demographic data can tell us about this person, as well as the implications of Canada’s changing demographics and its rapid population growth.]]></summary>
-        <author>
-            <name>Statistics Canada</name>
         </author>
     </entry>
 </feed>

@@ -328,24 +328,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "750253c9-da15-4d59-b0e9-764b5a8e7a94",
-          "author": "Statistics Canada",
-          "description": "Canada reached an important milestone June 16, 2023. For the first time, there were 40 million people living in Canada. That means that someone out there is the 40 millionth Canadian. But who is it? \n Laurent Martel, director of the Centre for Demography at Statistics Canada, joins us to explore what demographic data can tell us about this person, as well as the implications of Canada’s changing demographics and its rapid population growth.",
-          "link": "https://share.transistor.fm/s/cb29d815",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Will the 40 Millionth Canadian Please Stand Up?",
-          "itunes": {
-            "duration": "1093"
-          },
-          "enclosure": {
-            "url": "https://media.transistor.fm/cb29d815/a4af33da.mp3",
-            "length": "13149764",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
