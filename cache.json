@@ -1837,6 +1837,24 @@
       "siteUrl": "https://canadian-ip-voices.simplecast.com",
       "articles": [
         {
+          "id": "9a50f36c-d9e8-40dd-877d-cd136e150d92",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (Lisa Desjardins (CIPO), Laura Cooke (ISED), Louis-Félix Binette (MAIN), Lola Arnaud (MAIN))",
+          "description": "How does ElevateIP help deliver IP support to businesses? \nLaura Cooke (ISED), Louis-Félix Binette, and Lola Arnaud (MAIN) answer this important question and more. Hear about how to access funding and how support is structured to promote long-term growth for your company.\nNote: This episode was recorded in 2023 and since then ElevateIP has been awarded new funding to continue delivering on their mission to help businesses build their IP strategies.\nExplore online: \nIntellectual Property Strategy (canada.ca)\nList of recipients of ElevateIP (canada.ca)\nFunding and support programs for doing international business (tradecommissioner.gc.ca)\nNRC IRAP support for intellectual property - National Research Council Canada",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/inside-elevate-ip-how-canadian-startups-can-access-funding-and-ip-expertise-DGdYr_AI",
+          "publishedOn": "2026-03-17T14:51:40.000Z",
+          "wordCount": null,
+          "title": "Inside Elevate IP - How Canadian startups can access funding, and IP expertise",
+          "itunes": {
+            "duration": "00:21:24"
+          },
+          "enclosure": {
+            "length": "20545780",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/media/audio/transcoded/2417a408-de6a-4417-abcd-29992bbb5c8b/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/audio/group/223798b6-6989-4250-a6d6-aba89ded39ba/group-item/74d739a8-e423-4ef1-b324-bd8dad59cc60/128_default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "28bfe179-2185-4d38-8021-b54c328277f1",
           "author": "CanadianIPVoices@ised-isde.gc.ca (CIPO, Ken Poulin)",
           "description": "Ken Poulin is an independent trademark agent based in Vancouver. He explains why IP protection should start before and not after market success. As a Black entrepreneur himself, he shares his insights on what it looks like to support underrepresented communities, the role of diversity in Canada's innovation landscape and why educating business owners about the value of IP requires patience, empathy and a personal approach.\nExplore online:\nBlack entrepreneurs and intellectual property\nIP Central\nIP resources and funding for entrepreneurs (canada.ca)",
@@ -2742,24 +2760,6 @@
           "enclosure": {
             "url": "https://www.buzzsprout.com/1265264/episodes/13376049-s3-ep-04-neurodiversity.mp3",
             "length": "19142483",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "Buzzsprout-13088123",
-          "author": null,
-          "description": "En 2020, les femmes représentaient seulement 16,8 % des propriétaires majoritaires de petites et moyennes entreprises (PME). Dans cet épisode, nous examinons l’expérience des femmes en entrepreneuriat, les obstacles à leur participation et la récente hausse du nombre d’entreprises fondées par des femmes. Nos invitées occupent des fonctions dirigeantes, l’une chez un gros pourvoyeur d’emplois et l’autre au sein d’une organisation qui aide les femmes entrepreneures et les réseaux qui les soutiennent à entrer en contact et à collaborer facilement. Elles nous racontent leur expérience personnelle et professionnelle, parlent des possibilités et des obstacles, et discutent des occasions de formation pour les femmes entrepreneures d’aujourd’hui et de demain, partout au Canada.\n  Invités\n\nSalwa Salek, cheffe Équité, diversité et inclusion, Desjardins\nSabine Soumare, directrice générale, Portail de connaissances pour les femmes en entrepreneuriat (PCFE)\n\nHôte\nJulie Cafley, directrice générale, Catalyst Canada",
-          "link": "https://www.conferenceboard.ca/future-skills-centre/podcast/",
-          "publishedOn": "2023-06-22T12:00:00.000Z",
-          "wordCount": null,
-          "title": "S3 Ep. 03: Les femmes en entrepreneuriat",
-          "itunes": {
-            "duration": "2671"
-          },
-          "enclosure": {
-            "url": "https://www.buzzsprout.com/1265264/episodes/13088123-s3-ep-03-les-femmes-en-entrepreneuriat.mp3",
-            "length": "32079395",
             "type": "audio/mpeg"
           },
           "imageUrl": null
