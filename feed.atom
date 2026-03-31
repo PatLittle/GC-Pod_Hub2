@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-03-30T01:29:32.415Z</updated>
+    <updated>2026-03-31T01:26:41.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2229,20 +2229,6 @@ Date de diffusion : 7 juillet, 2023
  Durée : 13 : 23]]></summary>
         <author>
             <name>Safe and Sound with CCOHS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the unitary patent and the Unified Patent Court work]]></title>
-        <id>32f1713c-b5e1-4fa7-a5f1-d63887500554</id>
-        <link href="https://canadian-ip-voices.simplecast.com/episodes/how-the-unitary-patent-and-the-unified-patent-court-work-l3steAm3"/>
-        <updated>2023-07-05T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Anthony Dearden explains how the new unitary patent and Unified Patent Court in Europe will work and shares some key considerations for anyone applying for patents in Europe.
-Explore online:
-
-Guide to the Unified Patent Court (UPC) | Gowling WLG
-Unitary Patent – European Patent Office]]></summary>
-        <author>
-            <name>CanadianIPVoices@ised-isde.gc.ca (Gowling, Canadian Intellectual Property Office)</name>
         </author>
     </entry>
 </feed>
