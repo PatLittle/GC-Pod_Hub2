@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-03-31T01:26:41.291Z</updated>
+    <updated>2026-04-01T01:47:39.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jour de deuil: L'histoire de Jessica Blackie Gillis]]></title>
+        <id>098f3ab4-df2f-43ab-9d5a-09797d3f4004</id>
+        <link href="https://ccohs.libsyn.com/jour-de-deuil-lhistoire-de-jessica-blackie-gillis"/>
+        <updated>2026-03-31T18:23:00.000Z</updated>
+        <summary type="html"><![CDATA[L'ambassadrice de Threads of Life, Jessica Blackie Gillis, a vu sa vie basculer le jour où son frère est décédé dans une tragédie évitable sur son lieu de travail. Écoutez son témoignage bouleversant.]]></summary>
+        <author>
+            <name>Safe and Sound with CCOHS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day of Mourning - Jessica Blackie Gillis' Story]]></title>
+        <id>27b8a39b-3a7c-472d-b86c-14ba09b97d40</id>
+        <link href="https://ccohs.libsyn.com/day-of-mourning-jessicas-story"/>
+        <updated>2026-03-31T18:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Threads of Life Ambassador Jessica Blackie Gillis' life changed forever the day her brother died in a preventable workplace tragedy. Hear her powerful story.]]></summary>
+        <author>
+            <name>Safe and Sound with CCOHS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inside Elevate IP - How Canadian startups can access funding, and IP expertise]]></title>
         <id>9a50f36c-d9e8-40dd-877d-cd136e150d92</id>

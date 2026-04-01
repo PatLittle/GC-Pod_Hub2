@@ -995,6 +995,42 @@
       "siteUrl": "http://ccohs.libsyn.com",
       "articles": [
         {
+          "id": "098f3ab4-df2f-43ab-9d5a-09797d3f4004",
+          "author": null,
+          "description": "L'ambassadrice de Threads of Life, Jessica Blackie Gillis, a vu sa vie basculer le jour où son frère est décédé dans une tragédie évitable sur son lieu de travail. Écoutez son témoignage bouleversant.",
+          "link": "https://ccohs.libsyn.com/jour-de-deuil-lhistoire-de-jessica-blackie-gillis",
+          "publishedOn": "2026-03-31T18:23:00.000Z",
+          "wordCount": null,
+          "title": "Jour de deuil: L'histoire de Jessica Blackie Gillis",
+          "itunes": {
+            "duration": "17:58"
+          },
+          "enclosure": {
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode_234_FR_Jessicas_Story_NORMAL.mp3?dest-id=32116",
+            "length": "11884881",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "27b8a39b-3a7c-472d-b86c-14ba09b97d40",
+          "author": null,
+          "description": "Threads of Life Ambassador Jessica Blackie Gillis' life changed forever the day her brother died in a preventable workplace tragedy. Hear her powerful story.",
+          "link": "https://ccohs.libsyn.com/day-of-mourning-jessicas-story",
+          "publishedOn": "2026-03-31T18:21:00.000Z",
+          "wordCount": null,
+          "title": "Day of Mourning - Jessica Blackie Gillis' Story",
+          "itunes": {
+            "duration": "12:37"
+          },
+          "enclosure": {
+            "url": "https://traffic.libsyn.com/secure/ccohs/Episode_234_Jessicas_Story_NORMALIZED.mp3?dest-id=32116",
+            "length": "8432672",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "a3160300-f1e0-41ca-a131-116d32f88586",
           "author": null,
           "description": "Chronic pain affects 1 in 5 Canadians. It may occur after an injury has healed, or without a known cause. Dr. Andrea Furlan, a pain doctor from the University Health Network at the University of Toronto, joins us to discuss how employers can support workers affected by chronic pain, and how workers can find relief.",
