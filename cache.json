@@ -2528,24 +2528,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "A664979A-4ADB-4D2B-B3E3-223705B57A02",
-          "author": "Library and Archives Canada",
-          "description": "In celebration of National Parks Day we have partnered with our friends at Parks Canada and have featured an episode from their wonderful new history and archaeology podcast ReCollections, in our feed. Through the remarkable lives of Madam Ruby Scott and her employees, we'll hear about Dawson's Gold Rush heyday and the boom/bust cycle of both the mining and sex work industries. At the heart of the story is Ruby's Place, an elegant false-front building conserved as part of the Klondike National Historic Sites… despite the threats from climate change.",
-          "link": "https://share.transistor.fm/s/6ba0002b",
-          "publishedOn": "2023-07-12T13:49:37.000Z",
-          "wordCount": null,
-          "title": "Dawson City: A Ruby in the Rough",
-          "itunes": {
-            "duration": "2147"
-          },
-          "enclosure": {
-            "url": "https://media.transistor.fm/6ba0002b/f68dea80.mp3",
-            "length": "34415136",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },

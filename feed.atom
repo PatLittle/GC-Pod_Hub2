@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-04-07T01:27:32.415Z</updated>
+    <updated>2026-04-08T01:27:53.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2189,16 +2189,6 @@ Host:
 Julie Cafley, Executive Director, Catalyst Canada]]></summary>
         <author>
             <name>The Future Skills Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dawson City: A Ruby in the Rough]]></title>
-        <id>A664979A-4ADB-4D2B-B3E3-223705B57A02</id>
-        <link href="https://share.transistor.fm/s/6ba0002b"/>
-        <updated>2023-07-12T13:49:37.000Z</updated>
-        <summary type="html"><![CDATA[In celebration of National Parks Day we have partnered with our friends at Parks Canada and have featured an episode from their wonderful new history and archaeology podcast ReCollections, in our feed. Through the remarkable lives of Madam Ruby Scott and her employees, we'll hear about Dawson's Gold Rush heyday and the boom/bust cycle of both the mining and sex work industries. At the heart of the story is Ruby's Place, an elegant false-front building conserved as part of the Klondike National Historic Sites… despite the threats from climate change.]]></summary>
-        <author>
-            <name>Library and Archives Canada</name>
         </author>
     </entry>
 </feed>
