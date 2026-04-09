@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-04-08T01:27:53.032Z</updated>
+    <updated>2026-04-09T01:20:05.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -1011,6 +1011,30 @@ Transcript
 Narrator Biographies]]></summary>
         <author>
             <name>Discover Library and Archives Canada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[S4 Ep. 03: Canada’s Productivity Puzzle: The Skills Connection]]></title>
+        <id>Buzzsprout-15588188</id>
+        <link href="https://www.signal49.ca/future-skills-centre/podcast/"/>
+        <updated>2024-08-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ve heard the term “productivity” come up a lot lately. But what does the term really mean? And why does strong productivity matter for leaders, decision makers, and to Canadians at-large? Three experts join us in this episode to help us unpack this concept. They give us an overview of the economic concepts behind productivity, suggest solutions to help boost Canadian productivity, and explain why skills development and innovation are an important part of this conversation.  
+
+Speaker list
+
+
+Jonathan Barr, Senior Director, Innovation, Science and Economic Development Canada (ISED)
+Pedro Antunes, Chief Economist, Signal49 Research
+Anne-Lore Fraikin, Senior Manager, Economic Research, Signal49 Research
+Heather McIntosh, Director, Education and Skills, Signal49 Research (host)
+
+Links: 
+
+
+Skills and Productivity: Which Skills Shortages Are Impacting Canadian Productivity?—August 2024 - Signal49 Research
+Compétences et productivité : Quelles pénuries de compétences influent sur la productivité canadienne?—Août 2024 - Signal49 Research]]></summary>
+        <author>
+            <name>The Future Skills Podcast</name>
         </author>
     </entry>
     <entry>
