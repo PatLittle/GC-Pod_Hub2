@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-04-09T01:20:05.986Z</updated>
+    <updated>2026-04-10T01:29:27.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Canada’s Happiness Crisis (And Why It’s Not All Doom and Gloom)]]></title>
+        <id>46d8499f-7c54-4c86-82f2-defeeeb14d51</id>
+        <link href="https://share.transistor.fm/s/8050e746"/>
+        <updated>2026-04-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Everyone wants to be happy, but just how happy are Canadians? On this episode of the Eh Sayers podcast, join quality of life experts from Statistics Canada and Engage Nova Scotia to explore the importance of quality of life programs and what they tell us about our well-being.]]></summary>
+        <author>
+            <name>Statistics Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jour de deuil: L'histoire de Jessica Blackie Gillis]]></title>
         <id>098f3ab4-df2f-43ab-9d5a-09797d3f4004</id>

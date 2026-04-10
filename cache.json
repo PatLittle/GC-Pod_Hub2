@@ -6,6 +6,24 @@
       "siteUrl": "http://www.statcan.gc.ca/en/sc/podcasts",
       "articles": [
         {
+          "id": "46d8499f-7c54-4c86-82f2-defeeeb14d51",
+          "author": "Statistics Canada",
+          "description": "Everyone wants to be happy, but just how happy are Canadians? On this episode of the Eh Sayers podcast, join quality of life experts from Statistics Canada and Engage Nova Scotia to explore the importance of quality of life programs and what they tell us about our well-being.",
+          "link": "https://share.transistor.fm/s/8050e746",
+          "publishedOn": "2026-04-09T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Canada’s Happiness Crisis (And Why It’s Not All Doom and Gloom)",
+          "itunes": {
+            "duration": "1420"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/8050e746/7ee2896d.mp3",
+            "length": "45458108",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "74d80baf-4153-4810-be13-f8a7376aab1f",
           "author": "Statistics Canada",
           "description": "The Gross Domestic Product (GDP) tells us about the health and size of Canada’s economy. But for those of us who don’t own or operate multi-million-dollar companies, why does it matter at all? In this episode, Amanda Sinclair, Assistant director for the National Economic Accounts at Statistics Canada, explains some surprising ways GDP can be useful and why, for certain Canadian households, the numbers don’t always seem to add up.\nEconomic accounts statistics",
