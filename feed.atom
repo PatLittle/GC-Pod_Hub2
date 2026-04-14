@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-04-13T01:52:04.187Z</updated>
+    <updated>2026-04-14T01:47:17.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How the Innovation Asset Collective helps cleantech companies succeed]]></title>
+        <id>fb58d470-4685-4ec8-8032-2c3180126684</id>
+        <link href="https://canadian-ip-voices.simplecast.com/episodes/how-the-innovation-asset-collective-helps-cleantech-companies-succeed-hzP7vx9Q"/>
+        <updated>2026-04-13T18:08:56.000Z</updated>
+        <summary type="html"><![CDATA[The Innovation Asset Collective (IAC) is on a mission to help cleantech companies understand the value of their IP. Erin Pisko, Vice-President of IP Strategy at the IAC, uses real-world examples to show on which components of an IP strategy cleantech companies should focus. The IAC’s core programming provides a comprehensive suite of supports, including funding and skill-building to help increase patenting activity in the cleantech sector.
+Explore online: 
+Innovation Asset Collective
+Clean technology and intellectual property
+IP Central]]></summary>
+        <author>
+            <name>CanadianIPVoices@ised-isde.gc.ca (Lisa Desjardins (CIPO), Erin Pisko (IAC))</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canada’s Happiness Crisis (And Why It’s Not All Doom and Gloom)]]></title>
         <id>46d8499f-7c54-4c86-82f2-defeeeb14d51</id>
