@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-04-27T01:56:50.793Z</updated>
+    <updated>2026-04-28T02:03:28.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From Idea to Adoption: Olds College smart farm]]></title>
+        <id>994abf73-23b6-4f0a-9939-941b516f0e3a</id>
+        <link href="https://share.transistor.fm/s/e729a954"/>
+        <updated>2026-04-27T16:25:56.000Z</updated>
+        <summary type="html"><![CDATA[Turning high-tech concepts into field-ready tools requires more than just a good idea—it requires real-world validation and farmer-to-farmer trust. In this episode, we speak with Herman Simons, who leads Smart Agriculture Applied Research at Olds College in Alberta. He oversees dozens of projects each year that test emerging technologies.. We’re also joined by agronomist, Steve Larocque, an independent crop advisor who works with producers and with Olds College to turn new ideas into practical, field-ready systems.
+The Canadian Intellectual Property Office’s new tool, IP Central, brings you all the IP support you need in one place, with clear guidance, how-to resources, and links to funding and events from trusted partners.]]></summary>
+        <author>
+            <name>Agriculture and Agri-food Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How the Innovation Asset Collective helps cleantech companies succeed]]></title>
         <id>fb58d470-4685-4ec8-8032-2c3180126684</id>

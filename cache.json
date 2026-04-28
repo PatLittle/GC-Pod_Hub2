@@ -355,6 +355,24 @@
       "siteUrl": "https://agriculture.canada.ca/en/agri-info/first-sixteen-podcast",
       "articles": [
         {
+          "id": "994abf73-23b6-4f0a-9939-941b516f0e3a",
+          "author": "Agriculture and Agri-food Canada",
+          "description": "Turning high-tech concepts into field-ready tools requires more than just a good idea—it requires real-world validation and farmer-to-farmer trust. In this episode, we speak with Herman Simons, who leads Smart Agriculture Applied Research at Olds College in Alberta. He oversees dozens of projects each year that test emerging technologies.. We’re also joined by agronomist, Steve Larocque, an independent crop advisor who works with producers and with Olds College to turn new ideas into practical, field-ready systems.\nThe Canadian Intellectual Property Office’s new tool, IP Central, brings you all the IP support you need in one place, with clear guidance, how-to resources, and links to funding and events from trusted partners.",
+          "link": "https://share.transistor.fm/s/e729a954",
+          "publishedOn": "2026-04-27T16:25:56.000Z",
+          "wordCount": null,
+          "title": "From Idea to Adoption: Olds College smart farm",
+          "itunes": {
+            "duration": "1493"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/e729a954/153321dd.mp3",
+            "length": "35976041",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "5b9c5a8e-2c7b-4e5a-9079-781e3571e6a4",
           "author": "Agriculture and Agri-food Canada",
           "description": "2026 is the International Year of the Woman Farmer.  Women are changing the face of farming in Canada. They are highly educated. They’re working hard. And, while they are having success, they also encounter unique barriers to entry and advancement in the sector. This episode speaks with two women from the Prairies who are at the vanguard of this movement. Learn how they are breaking down barriers. Hear their vision for the future of agriculture in Canada.\nLearn more about the programs and resources discussed in the episode through AGPAL and from Farm Credit Canada.",
