@@ -2763,24 +2763,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "Buzzsprout-13376049",
-          "author": null,
-          "description": "Neurodiversity is a range of different ways of thinking, interacting, and processing information, and is especially important to the future of work. In this episode, experts in neurodiversity in the workplace join us to discuss the immense potential of neurodiverse individuals in professional settings. Our guests share practical strategies and valuable insights for employers looking to create supportive environments for neurodiverse employees - from implementing accommodations for all to fostering inclusive company cultures. \nGuests: \n\nNeil Barnett, Director - Inclusive Hiring and Accessibility, Microsoft\nRadha MacCulloch, VP and Head of Canada, Specialisterne North America\n\nHost:\n\nJulie Cafley, Executive Director, Catalyst Canada",
-          "link": "https://www.conferenceboard.ca/insights/podcasts/future-skills-centre",
-          "publishedOn": "2023-08-09T13:00:00.000Z",
-          "wordCount": null,
-          "title": "S3 Ep. 04: Neurodiversity",
-          "itunes": {
-            "duration": "1593"
-          },
-          "enclosure": {
-            "url": "https://www.buzzsprout.com/1265264/episodes/13376049-s3-ep-04-neurodiversity.mp3",
-            "length": "19142483",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
