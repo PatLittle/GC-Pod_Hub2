@@ -1031,6 +1031,24 @@
       "siteUrl": "http://ccohs.libsyn.com",
       "articles": [
         {
+          "id": "c517be8f-48bf-47b1-a75a-56a488edfd89",
+          "author": null,
+          "description": "Association of Workers' Compensation Boards of Canada CEO Janet MacEachern joins us to discuss national injury trends, and how workplaces can use AWCBC's data to support prevention locally.",
+          "link": "https://ccohs.libsyn.com/data-driven-approaches-to-health-and-safety",
+          "publishedOn": "2026-05-10T01:19:00.000Z",
+          "wordCount": null,
+          "title": "Data-Driven Approaches to Health and Safety",
+          "itunes": {
+            "duration": "09:28"
+          },
+          "enclosure": {
+            "url": "https://traffic.libsyn.com/secure/ccohs/Data-Driven_Health_and_Safety_with_Janet_MacEachern.mp3?dest-id=32116",
+            "length": "9081125",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "098f3ab4-df2f-43ab-9d5a-09797d3f4004",
           "author": null,
           "description": "L'ambassadrice de Threads of Life, Jessica Blackie Gillis, a vu sa vie basculer le jour où son frère est décédé dans une tragédie évitable sur son lieu de travail. Écoutez son témoignage bouleversant.",

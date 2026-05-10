@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-05-09T02:02:44.115Z</updated>
+    <updated>2026-05-10T02:02:51.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Data-Driven Approaches to Health and Safety]]></title>
+        <id>c517be8f-48bf-47b1-a75a-56a488edfd89</id>
+        <link href="https://ccohs.libsyn.com/data-driven-approaches-to-health-and-safety"/>
+        <updated>2026-05-10T01:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Association of Workers' Compensation Boards of Canada CEO Janet MacEachern joins us to discuss national injury trends, and how workplaces can use AWCBC's data to support prevention locally.]]></summary>
+        <author>
+            <name>Safe and Sound with CCOHS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Idea to Adoption: Olds College smart farm]]></title>
         <id>994abf73-23b6-4f0a-9939-941b516f0e3a</id>
