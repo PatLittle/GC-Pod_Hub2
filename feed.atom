@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-05-12T02:07:46.956Z</updated>
+    <updated>2026-05-13T02:13:40.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2208,16 +2208,6 @@ Filling the gaps: Information on gender in the 2021 Census 
         <summary type="html"><![CDATA[« Mettre l'équité salariale en pratique » réunit des experts et des leaders du secteur de l'équité salariale afin d'aider les entreprises canadiennes à combler l'écart salarial entre les hommes et les femmes. Soyez à l'écoute pour apprendre comment vous pouvez soutenir l'équité salariale au sein de votre organisation.]]></summary>
         <author>
             <name>payequity-equitesalariale@chrc-ccdp.gc.ca (Canadian Human Rights Commission)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Treasures Revealed: Episode 12]]></title>
-        <id>37851E30-B12E-4762-9AF0-EDF8A3D3F38A</id>
-        <link href="https://share.transistor.fm/s/b28ed966"/>
-        <updated>2023-08-16T15:43:03.000Z</updated>
-        <summary type="html"><![CDATA[In this episode we speak with Krista Cooke about the curious absence of pregnant women in photos from the birth of photography in the 19th century up to the Second World War. Tune in to learn why the photo of Anna Jorosz Krista chose as her treasure is so remarkable!*re-edited version of previous release*]]></summary>
-        <author>
-            <name>Library and Archives Canada</name>
         </author>
     </entry>
 </feed>
