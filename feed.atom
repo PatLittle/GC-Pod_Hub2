@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-05-13T02:13:40.314Z</updated>
+    <updated>2026-05-14T02:25:16.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Grey Anatomy of Canada: The Story Behind Canada’s Aging Population]]></title>
+        <id>9d0aeaa7-89f4-4eb0-88bd-3729126803f1</id>
+        <link href="https://share.transistor.fm/s/ad0a8045"/>
+        <updated>2026-05-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Canada’s population is getting a makeover, and it is changing the way we live. We are digging into new demographic data with Patrick Charbonneau, Section Chief in Demography at Statistics Canada, to see how big boomer and millennial generations, plus fewer younger people, are shaking up demand for housing, schools, and healthcare. We also look at the rise of the sandwich generation, the caregiving squeeze that comes with longer lives and smaller families, and the many ways older Canadians keep things running through volunteering, childcare, and family support.]]></summary>
+        <author>
+            <name>Statistics Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data-Driven Approaches to Health and Safety]]></title>
         <id>c517be8f-48bf-47b1-a75a-56a488edfd89</id>
@@ -2188,26 +2198,6 @@ Filling the gaps: Information on gender in the 2021 Census 
 2021 Census: Sex at birth and gender - the whole picture]]></summary>
         <author>
             <name>Statistics Canada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[English Teaser]]></title>
-        <id>00e2ce99-5f9f-40ad-91a8-60b21cfd5fd0</id>
-        <link href="https://putting-pay-equity-into-practice.simplecast.com/episodes/english-teaser-bKK6cAzB"/>
-        <updated>2023-08-17T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“Putting Pay Equity into Practice” brings together experts and industry leaders in pay equity to help Canadian workplaces bridge the gender wage gap. Tune in to learn how you can champion pay equity in your organization.]]></summary>
-        <author>
-            <name>payequity-equitesalariale@chrc-ccdp.gc.ca (Canadian Human Rights Commission)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bande-annonce française]]></title>
-        <id>d7bfaefb-a34e-4431-90f9-5882ff40624e</id>
-        <link href="https://putting-pay-equity-into-practice.simplecast.com/episodes/bande-annonce-francaise-n4QFQji3"/>
-        <updated>2023-08-17T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[« Mettre l'équité salariale en pratique » réunit des experts et des leaders du secteur de l'équité salariale afin d'aider les entreprises canadiennes à combler l'écart salarial entre les hommes et les femmes. Soyez à l'écoute pour apprendre comment vous pouvez soutenir l'équité salariale au sein de votre organisation.]]></summary>
-        <author>
-            <name>payequity-equitesalariale@chrc-ccdp.gc.ca (Canadian Human Rights Commission)</name>
         </author>
     </entry>
 </feed>

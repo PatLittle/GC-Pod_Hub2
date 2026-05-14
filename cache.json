@@ -6,6 +6,24 @@
       "siteUrl": "http://www.statcan.gc.ca/en/sc/podcasts",
       "articles": [
         {
+          "id": "9d0aeaa7-89f4-4eb0-88bd-3729126803f1",
+          "author": "Statistics Canada",
+          "description": "Canada’s population is getting a makeover, and it is changing the way we live. We are digging into new demographic data with Patrick Charbonneau, Section Chief in Demography at Statistics Canada, to see how big boomer and millennial generations, plus fewer younger people, are shaking up demand for housing, schools, and healthcare. We also look at the rise of the sandwich generation, the caregiving squeeze that comes with longer lives and smaller families, and the many ways older Canadians keep things running through volunteering, childcare, and family support.",
+          "link": "https://share.transistor.fm/s/ad0a8045",
+          "publishedOn": "2026-05-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "The Grey Anatomy of Canada: The Story Behind Canada’s Aging Population",
+          "itunes": {
+            "duration": "1169"
+          },
+          "enclosure": {
+            "url": "https://media.transistor.fm/ad0a8045/4eab8cb0.mp3",
+            "length": "46753104",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "46d8499f-7c54-4c86-82f2-defeeeb14d51",
           "author": "Statistics Canada",
           "description": "Everyone wants to be happy, but just how happy are Canadians? On this episode of the Eh Sayers podcast, join quality of life experts from Statistics Canada and Engage Nova Scotia to explore the importance of quality of life programs and what they tell us about our well-being.",
@@ -2146,42 +2164,6 @@
             "length": "18399948",
             "type": "audio/mpeg",
             "url": "https://cdn.simplecast.com/audio/753dbe06-828b-472f-a0cb-4232711d1138/episodes/3183ae08-2242-4725-a80e-afd3a5016f53/audio/647a34a2-9718-484f-83a7-a10f6ee29e19/default_tc.mp3?aid=rss_feed&feed=6dg_HLOh"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "00e2ce99-5f9f-40ad-91a8-60b21cfd5fd0",
-          "author": "payequity-equitesalariale@chrc-ccdp.gc.ca (Canadian Human Rights Commission)",
-          "description": "“Putting Pay Equity into Practice” brings together experts and industry leaders in pay equity to help Canadian workplaces bridge the gender wage gap. Tune in to learn how you can champion pay equity in your organization.",
-          "link": "https://putting-pay-equity-into-practice.simplecast.com/episodes/english-teaser-bKK6cAzB",
-          "publishedOn": "2023-08-17T16:00:00.000Z",
-          "wordCount": null,
-          "title": "English Teaser",
-          "itunes": {
-            "duration": "00:00:52"
-          },
-          "enclosure": {
-            "length": "841512",
-            "type": "audio/mpeg",
-            "url": "https://cdn.simplecast.com/audio/753dbe06-828b-472f-a0cb-4232711d1138/episodes/ccca3fe8-bd52-4998-9ae2-ea43b11d59f4/audio/58989864-cb82-4974-8486-841db92c03af/default_tc.mp3?aid=rss_feed&feed=6dg_HLOh"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "d7bfaefb-a34e-4431-90f9-5882ff40624e",
-          "author": "payequity-equitesalariale@chrc-ccdp.gc.ca (Canadian Human Rights Commission)",
-          "description": "« Mettre l'équité salariale en pratique » réunit des experts et des leaders du secteur de l'équité salariale afin d'aider les entreprises canadiennes à combler l'écart salarial entre les hommes et les femmes. Soyez à l'écoute pour apprendre comment vous pouvez soutenir l'équité salariale au sein de votre organisation.",
-          "link": "https://putting-pay-equity-into-practice.simplecast.com/episodes/bande-annonce-francaise-n4QFQji3",
-          "publishedOn": "2023-08-17T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Bande-annonce française",
-          "itunes": {
-            "duration": "00:00:58"
-          },
-          "enclosure": {
-            "length": "940151",
-            "type": "audio/mpeg",
-            "url": "https://cdn.simplecast.com/audio/753dbe06-828b-472f-a0cb-4232711d1138/episodes/d6883c7f-b876-4a66-8dad-7a59ceb23fa3/audio/ec0e5e55-508d-4754-8151-52e2c4c8dd01/default_tc.mp3?aid=rss_feed&feed=6dg_HLOh"
           },
           "imageUrl": null
         }
