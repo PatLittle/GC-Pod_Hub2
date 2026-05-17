@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-05-16T02:05:36.800Z</updated>
+    <updated>2026-05-17T02:09:42.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2171,33 +2171,6 @@ Contact CIPO IP advisors]]></summary>
         <summary type="html"><![CDATA[Dans cet épisode, l’Unité de l’équité salariale accueille Josyanne Pierrat de l’Association du camionnage du Québec pour discuter de l’équité salariale dans le secteur des transports. En mettant l’accent sur les industries du camionnage et de la logistique, l’épisode met en lumière les disparités existantes entre les femmes et les hommes, les défis liés à la surrèglementation, la pénurie de main-d'œuvre et le manque de représentation des femmes dans l’industrie.]]></summary>
         <author>
             <name>payequity-equitesalariale@chrc-ccdp.gc.ca (Association du camionnage du Québec)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking Barriers: The Road to Pay Equity in the Trucking Sector with Craig Faucette]]></title>
-        <id>aed297ef-721a-44b6-b0e6-992411848030</id>
-        <link href="https://putting-pay-equity-into-practice.simplecast.com/episodes/breaking-barriers-the-road-to-pay-equity-in-the-trucking-sector-YjbDp5mH"/>
-        <updated>2023-08-21T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, the Pay Equity Unit meets with Craig Faucette from Trucking HR Canada to discuss some of the challenges of implementing the new Pay Equity Act in the trucking industry. We also discuss the positive impacts of achieving pay equity and how fair compensation practices can result in workplaces with improved employee satisfaction, reduced turnover, and enhanced productivity.]]></summary>
-        <author>
-            <name>payequity-equitesalariale@chrc-ccdp.gc.ca (Trucking HR Canada)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Got 99 Problems But Being Misgendered on the Census Ain't One]]></title>
-        <id>ac2bf411-78f2-4ba2-83ce-6542a886ae1b</id>
-        <link href="https://share.transistor.fm/s/cd067b8f"/>
-        <updated>2023-08-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ladies, Gentlemen, and Gentlethem! 
-While every census is special, the 2021 Census was historic. It was the first to include a question about gender, making Canada the first country to collect and publish data on gender diversity from a national census. 
-In this episode, we explore gender with drag king Cyril Cinder and we talk Census 2021 with StatCan’s Anne Milan. 
-Join us for a new kind of gender reveal.
-
-The Daily - Canada is the first country to provide census data on transgender and non-binary people 
-Filling the gaps: Information on gender in the 2021 Census 
-2021 Census: Sex at birth and gender - the whole picture]]></summary>
-        <author>
-            <name>Statistics Canada</name>
         </author>
     </entry>
 </feed>
