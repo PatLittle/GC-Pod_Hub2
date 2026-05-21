@@ -1855,6 +1855,24 @@
       "siteUrl": "https://canadian-ip-voices.simplecast.com",
       "articles": [
         {
+          "id": "6c3564cc-1698-4f77-9ce5-f8e16fc6a9a4",
+          "author": "CanadianIPVoices@ised-isde.gc.ca (Lisa Desjardins (CIPO), Justine Ferland (WIPO), Gary Lacasse (ADRIC))",
+          "description": "Facing an IP dispute? There are resolution options that don’t require going to court and the associated fees. Gary Lacasse, Executive Director of the Alternative Dispute Resolution Institute of Canada (ADRIC) and Justine Ferland, legal officer, WIPO Arbitration and Mediation Centre, explore how alternative dispute resolution can help resolve conflicts and protect intellectual property. From mediation to arbitration, they discuss when these approaches make sense and how they help preserve time and business relationships.\nDiscover online: \nAlternative methods to resolve intellectual property disputes (canada.ca)\nADR_Connect_Search (adric.ca)\nFind an IP Professional (ipic.ca)\nAlternative Dispute Resolution (wipo.int)\nRecommended WIPO Contract Clauses and Submission Agreements\nAlternative Dispute Resolution for IP Disputes: the WIPO Arbitration and Mediation Center’s Experience (ipic.ca)",
+          "link": "https://canadian-ip-voices.simplecast.com/episodes/managing-ip-disputes-mediation-arbitration-and-other-solutions-7654woUy",
+          "publishedOn": "2026-05-20T05:00:00.000Z",
+          "wordCount": null,
+          "title": "Managing IP disputes: mediation, arbitration and other solutions",
+          "itunes": {
+            "duration": "00:23:35"
+          },
+          "enclosure": {
+            "length": "22653523",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/media/audio/transcoded/2417a408-de6a-4417-abcd-29992bbb5c8b/4e91d387-239c-4b03-b1ce-46a2386deb1f/episodes/audio/group/e69595cf-4be5-4688-afa0-66c155cc24e6/group-item/e80caf0f-dc90-44cf-a950-d32a36f8406b/128_default_tc.mp3?aid=rss_feed&feed=Zd3oeWec"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "fb58d470-4685-4ec8-8032-2c3180126684",
           "author": "CanadianIPVoices@ised-isde.gc.ca (Lisa Desjardins (CIPO), Erin Pisko (IAC))",
           "description": "The Innovation Asset Collective (IAC) is on a mission to help cleantech companies understand the value of their IP. Erin Pisko, Vice-President of IP Strategy at the IAC, uses real-world examples to show on which components of an IP strategy cleantech companies should focus. The IAC’s core programming provides a comprehensive suite of supports, including funding and skill-building to help increase patenting activity in the cleantech sector.\nExplore online: \nInnovation Asset Collective\nClean technology and intellectual property\nIP Central",

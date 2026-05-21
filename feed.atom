@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-05-20T02:29:56.130Z</updated>
+    <updated>2026-05-21T02:30:37.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Managing IP disputes: mediation, arbitration and other solutions]]></title>
+        <id>6c3564cc-1698-4f77-9ce5-f8e16fc6a9a4</id>
+        <link href="https://canadian-ip-voices.simplecast.com/episodes/managing-ip-disputes-mediation-arbitration-and-other-solutions-7654woUy"/>
+        <updated>2026-05-20T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Facing an IP dispute? There are resolution options that don’t require going to court and the associated fees. Gary Lacasse, Executive Director of the Alternative Dispute Resolution Institute of Canada (ADRIC) and Justine Ferland, legal officer, WIPO Arbitration and Mediation Centre, explore how alternative dispute resolution can help resolve conflicts and protect intellectual property. From mediation to arbitration, they discuss when these approaches make sense and how they help preserve time and business relationships.
+Discover online: 
+Alternative methods to resolve intellectual property disputes (canada.ca)
+ADR_Connect_Search (adric.ca)
+Find an IP Professional (ipic.ca)
+Alternative Dispute Resolution (wipo.int)
+Recommended WIPO Contract Clauses and Submission Agreements
+Alternative Dispute Resolution for IP Disputes: the WIPO Arbitration and Mediation Center’s Experience (ipic.ca)]]></summary>
+        <author>
+            <name>CanadianIPVoices@ised-isde.gc.ca (Lisa Desjardins (CIPO), Justine Ferland (WIPO), Gary Lacasse (ADRIC))</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Grey Anatomy of Canada: The Story Behind Canada’s Aging Population]]></title>
         <id>9d0aeaa7-89f4-4eb0-88bd-3729126803f1</id>
