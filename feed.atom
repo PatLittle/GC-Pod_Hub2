@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-05-23T02:08:58.660Z</updated>
+    <updated>2026-05-24T02:27:55.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2178,16 +2178,6 @@ Contact CIPO IP advisors]]></summary>
         <summary type="html"><![CDATA[In this episode, the Pay Equity Unit speaks with Mariam Abou-Dib, from Teamsters, to discuss the important role unions play in promoting pay equity within the road transportation sector and in driving positive change. By uniting for equality, the road transportation sector can continue to flourish as a crucial pillar of the global economy, benefiting workers and businesses alike.]]></summary>
         <author>
             <name>payequity-equitesalariale@chrc-ccdp.gc.ca (Teamsters Canada)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L'autoroute de l'équité salariale: Explorer les opportunités et les défis dans l'industrie du camionnage avec Josyanne Pierrat]]></title>
-        <id>3a93f3cf-0d50-4e02-9383-24f3f4b89eba</id>
-        <link href="https://putting-pay-equity-into-practice.simplecast.com/episodes/lautoroute-de-lequite-salariale-explorer-les-opportunites-et-les-defis-dans-lindustrie-du-camionnage-mQF7oxgm"/>
-        <updated>2023-08-28T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dans cet épisode, l’Unité de l’équité salariale accueille Josyanne Pierrat de l’Association du camionnage du Québec pour discuter de l’équité salariale dans le secteur des transports. En mettant l’accent sur les industries du camionnage et de la logistique, l’épisode met en lumière les disparités existantes entre les femmes et les hommes, les défis liés à la surrèglementation, la pénurie de main-d'œuvre et le manque de représentation des femmes dans l’industrie.]]></summary>
-        <author>
-            <name>payequity-equitesalariale@chrc-ccdp.gc.ca (Association du camionnage du Québec)</name>
         </author>
     </entry>
 </feed>
