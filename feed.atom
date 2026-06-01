@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-05-31T02:36:44.448Z</updated>
+    <updated>2026-06-01T02:46:18.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2168,16 +2168,6 @@ Explore online:
 Contact CIPO IP advisors]]></summary>
         <author>
             <name>CanadianIPVoices@ised-isde.gc.ca (André Gallant, The Canadian Intellectual Property Office)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Driving Change: Paving the Way for Fair Pay in Road Transportation with Mariam Abou-Dib]]></title>
-        <id>013544b0-e8a1-4f28-8ebc-c5072bb3e22c</id>
-        <link href="https://putting-pay-equity-into-practice.simplecast.com/episodes/driving-change-paving-the-way-for-fair-pay-in-road-transportation-jIxUS059"/>
-        <updated>2023-09-05T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, the Pay Equity Unit speaks with Mariam Abou-Dib, from Teamsters, to discuss the important role unions play in promoting pay equity within the road transportation sector and in driving positive change. By uniting for equality, the road transportation sector can continue to flourish as a crucial pillar of the global economy, benefiting workers and businesses alike.]]></summary>
-        <author>
-            <name>payequity-equitesalariale@chrc-ccdp.gc.ca (Teamsters Canada)</name>
         </author>
     </entry>
 </feed>
