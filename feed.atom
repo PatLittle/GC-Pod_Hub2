@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-06-01T02:46:18.117Z</updated>
+    <updated>2026-06-02T02:43:24.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2155,19 +2155,6 @@ Date de diffusion : 18 septembre 2023
  Durée : 10 : 41 minutes]]></summary>
         <author>
             <name>Safe and Sound with CCOHS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why IP is important: Insights from an IP advisor]]></title>
-        <id>27e270de-97a7-4a42-b997-b9cd0c2c7c94</id>
-        <link href="https://canadian-ip-voices.simplecast.com/episodes/why-ip-is-important-insights-from-an-ip-advisor-3UrQd1Bo"/>
-        <updated>2023-09-06T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[André Gallant, one of CIPO's IP advisors, talks about how IP advisors break myths and highlights opportunities and risks around IP and IP protection.
-Explore online:
-
-Contact CIPO IP advisors]]></summary>
-        <author>
-            <name>CanadianIPVoices@ised-isde.gc.ca (André Gallant, The Canadian Intellectual Property Office)</name>
         </author>
     </entry>
 </feed>
