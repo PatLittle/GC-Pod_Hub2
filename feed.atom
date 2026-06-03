@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-06-02T02:43:24.490Z</updated>
+    <updated>2026-06-03T02:52:09.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Howie Morenz: Hockey's First Legend]]></title>
+        <id>f3b11ebb-94ce-4783-8a3e-3e69e07c0bf1</id>
+        <link href="https://share.transistor.fm/s/b3ad4cc6"/>
+        <updated>2026-06-02T15:23:11.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we feature a discussion between Andrew Ross, Director, Research Support at Library and Archives Canada and Donald Murray, author of Howie Morenz: The Greatest Season in the Life of Hockey’s First Legend. Join us as we unravel what made Howie Morenz one of hockey’s most compelling figures, on and off the ice.]]></summary>
+        <author>
+            <name>Discover Library and Archives Canada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Managing IP disputes: mediation, arbitration and other solutions]]></title>
         <id>6c3564cc-1698-4f77-9ce5-f8e16fc6a9a4</id>
