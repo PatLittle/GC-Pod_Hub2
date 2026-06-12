@@ -1031,6 +1031,24 @@
       "siteUrl": "http://ccohs.libsyn.com",
       "articles": [
         {
+          "id": "975224bb-13d0-44d7-8248-8894ac7a49c4",
+          "author": null,
+          "description": "In today's workplace, we know that prioritizing psychological safety alongside physical safety is part of building a truly healthy and safe environment. But that hasn't always been the case. Consultant and expert Mary Ann Baynton joins us to discuss how approaches to psychological health and safety have evolved over time.",
+          "link": "https://ccohs.libsyn.com/the-evolution-of-psychological-health-and-safety",
+          "publishedOn": "2026-06-11T19:59:00.000Z",
+          "wordCount": null,
+          "title": "The Evolution of Psychological Health and Safety",
+          "itunes": {
+            "duration": "14:52"
+          },
+          "enclosure": {
+            "url": "https://traffic.libsyn.com/secure/ccohs/Ep_236_-_Evolution_of_Psychological_Health_and_SafetyNORMALIZED.mp3?dest-id=32116",
+            "length": "10168573",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "c517be8f-48bf-47b1-a75a-56a488edfd89",
           "author": null,
           "description": "Association of Workers' Compensation Boards of Canada CEO Janet MacEachern joins us to discuss national injury trends, and how workplaces can use AWCBC's data to support prevention locally.",
