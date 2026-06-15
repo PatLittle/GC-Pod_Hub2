@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-06-14T02:44:57.932Z</updated>
+    <updated>2026-06-15T02:49:39.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2147,34 +2147,6 @@ Subscribe to food recalls and alerts: https://recalls-rappels.canada.ca/en]]></s
 Subscribe to food recalls and alerts: https://recalls-rappels.canada.ca/en]]></summary>
         <author>
             <name>Canadian Food Inspection Agency</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking the Cycle of Workplace Bullying]]></title>
-        <id>9c1ab70f-40ae-4415-a3a4-686e809be60f</id>
-        <link href="https://ccohs.libsyn.com/breaking-the-cycle-of-workplace-bullying-0"/>
-        <updated>2023-09-18T21:41:34.000Z</updated>
-        <summary type="html"><![CDATA[Despite growing national conversation on violence and harassment in the workplace, bullying continues to affect many workers. CUPE’s National Health and Safety Representative, Dr. Andréane Chénier discusses how some organizations are approaching the issue.
-  
-Released: September 18, 2023
- File Size:  6.2 MB
- Length:  11:11 minutes]]></summary>
-        <author>
-            <name>Safe and Sound with CCOHS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rompre le cycle de l’intimidation au travail]]></title>
-        <id>ed6b901e-f831-4fc1-8eef-6d0ad3eca8de</id>
-        <link href="https://ccohs.libsyn.com/rompre-le-cycle-de-lintimidation-au-travail"/>
-        <updated>2023-09-18T21:38:15.000Z</updated>
-        <summary type="html"><![CDATA[Malgré des discussions de plus en plus nombreuses sur la violence et le harcèlement en milieu de travail au pays, de nombreux travailleurs continuent de vivre de l’intimidation. Andréane Chénier, représentante nationale en santé et sécurité au Syndicat canadien de la fonction publique, explique comment certains organismes abordent la question de l’intimidation sur le lieu de travail.
-  
-Date de diffusion : 18 septembre 2023
- Taille du fichier : 5.8 MB
- Durée : 10 : 41 minutes]]></summary>
-        <author>
-            <name>Safe and Sound with CCOHS</name>
         </author>
     </entry>
 </feed>
