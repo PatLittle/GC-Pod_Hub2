@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-06-15T02:49:39.934Z</updated>
+    <updated>2026-06-16T02:51:30.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
@@ -2133,17 +2133,6 @@ Julie Cafley, Executive Director, Catalyst Canada]]></summary>
         <link href="https://podcasters.spotify.com/pod/show/cfia/episodes/Food-poisoning-trivia-with-2-epidemiologists-e29oj3o"/>
         <updated>2023-09-25T14:10:29.000Z</updated>
         <summary type="html"><![CDATA[In this podcast episode, we bust popular myths about food poisoning with 2 epidemiologists, Tanis Kershaw and Courtney Smith, from the Public Health Agency of Canada.
-Subscribe to food recalls and alerts: https://recalls-rappels.canada.ca/en]]></summary>
-        <author>
-            <name>Canadian Food Inspection Agency</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The food safety puzzle: piecing together an outbreak investigation]]></title>
-        <id>7f18f2ac-22b7-43da-99a8-dee89f53ed59</id>
-        <link href="https://podcasters.spotify.com/pod/show/cfia/episodes/The-food-safety-puzzle-piecing-together-an-outbreak-investigation-e29hb8o"/>
-        <updated>2023-09-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Behind every outbreak of food poisoning, a team of detectives works around the clock to pinpoint the source. This podcast episode, 4 experts from the Canadian Food Inspection Agency, Health Canada and the Public Health Agency of Canada, explain how they connect the dots to save lives.
 Subscribe to food recalls and alerts: https://recalls-rappels.canada.ca/en]]></summary>
         <author>
             <name>Canadian Food Inspection Agency</name>

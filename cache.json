@@ -1810,24 +1810,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "7f18f2ac-22b7-43da-99a8-dee89f53ed59",
-          "author": "Canadian Food Inspection Agency",
-          "description": "Behind every outbreak of food poisoning, a team of detectives works around the clock to pinpoint the source. This podcast episode, 4 experts from the Canadian Food Inspection Agency, Health Canada and the Public Health Agency of Canada, explain how they connect the dots to save lives.\nSubscribe to food recalls and alerts: https://recalls-rappels.canada.ca/en",
-          "link": "https://podcasters.spotify.com/pod/show/cfia/episodes/The-food-safety-puzzle-piecing-together-an-outbreak-investigation-e29hb8o",
-          "publishedOn": "2023-09-20T11:00:00.000Z",
-          "wordCount": null,
-          "title": "The food safety puzzle: piecing together an outbreak investigation",
-          "itunes": {
-            "duration": "00:25:29"
-          },
-          "enclosure": {
-            "url": "https://anchor.fm/s/3bcc4b70/podcast/play/76114648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-19%2F2c82a47e-b116-1863-309a-20c503e2647a.mp3",
-            "length": "48948450",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
