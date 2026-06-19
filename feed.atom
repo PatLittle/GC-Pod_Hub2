@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PatLittle.github.io/GC-Pod_Hub2/index.html</id>
     <title>GC-Pod-Hub</title>
-    <updated>2026-06-18T02:43:43.707Z</updated>
+    <updated>2026-06-19T03:27:14.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://PatLittle.github.io/GC-Pod_Hub2/index.html"/>
     <link rel="self" href="https://PatLittle.github.io/GC-Pod_Hub2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Testing business ideas: Aligning strategy with IP protection]]></title>
+        <id>83868cda-436c-4205-ae3a-1b0e83d31245</id>
+        <link href="https://canadian-ip-voices.simplecast.com/episodes/testing-business-ideas-aligning-strategy-with-ip-protection-mW0ANZyf"/>
+        <updated>2026-06-18T11:48:21.000Z</updated>
+        <summary type="html"><![CDATA[David Bland, author of Testing Business Ideas, and Kevin Dahl, Director of ElevateIP Alberta at Innovate Calgary, explore how to better balance your business strategy with IP considerations. Consider gathering real evidence from customers before spending a fortune building the wrong product. Learn how to identify your riskiest business assumptions using practical frameworks and strategically structure your testing process to avoid accidentally disclosing or compromising your valuable IP. 
+Discover online: 
+David J. Bland (davidjbland.com)
+Kevin Dahl, BComm - Innovate Calgary
+Business model canvas tool | BDC.ca]]></summary>
+        <author>
+            <name>CanadianIPVoices@ised-isde.gc.ca (Lisa Desjardins (CIPO), David Bland (Author), Kevin Dahl (Innovate Calgary))</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Evolution of Psychological Health and Safety]]></title>
         <id>975224bb-13d0-44d7-8248-8894ac7a49c4</id>
